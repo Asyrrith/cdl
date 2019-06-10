@@ -1,19 +1,5 @@
 <!--
 
-  CREDIT: vom | vomcodesstuff | vomwastaken
-  
-  INFO: 
-    - a lazy man's profile just 4 you
-    
-    - there's 2 ways to display the profile img
-      carousel & just normal image
-      
-    - you can hide sections & save editting for later
-      by placing the word 'hide' before the section's 
-      class name; like <div class="hide trivia"
-      
-    - don't remove my credit ty
-
 -->
 <div id="character-top" style="line-height: 1.6;letter-spacing:.05rem;"> 
 <!-- ----------------------------
@@ -103,7 +89,7 @@ place 'hide' before 'carousel slide'
 </div>
 <!-- carousel controls | don't worry 'bout em -->
 <a class="carousel-control-prev" href="#carouselExampleFade" data-slide="prev">
-  <span class="fal fa-chevron-left text-white" aria-hidden="true"></span>
+  <span class="fal fa-chevron-right text-white" aria-hidden="true"></span>
 </a>
 <a class="carousel-control-next" href="#carouselExampleFade" data-slide="next">
   <span class="fal fa-chevron-right text-white" aria-hidden="true"></span>
@@ -296,6 +282,104 @@ place 'hide' before 'carousel slide'
 </div>
 </div>
 </div>
+<br>
+<!-- ----------------------------
+
+
+          Traits & Trivia
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+             Traits
+
+----------------------------- --> 
+   <div class="card card-block bg-transparent card-outline-success rounded-0" style="border-width:0px">
+    <div class="row justify-content-between">
+     <div class="card card-block text-white display-4 rounded-0 mb-4" style="background-color:#;border-color:#;">
+       <em style="text-align: center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit."</em>
+     </div>
+     <div class="col-md-5"><h2>Traits</h2><hr>
+      <ul class="list-unstyled font-weight-bold mb-4">
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Introvert
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Extrovert
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:30%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Thinking
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Feeling
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:40%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Mean
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Nice
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:50%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Lazy
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Active
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:60%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Serious
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Playful
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:70%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Sloppy
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Neat
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:80%;background-color:#96CEB2;"></div></div>
+       </li>
+      </ul>
+     </div>
+<!-- ----------------------------
+
+            Trivia
+
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Trivia</h2><hr>
+<ul class="mb-0">
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<br>
 <!-- ----------------------------
 
             Likes & Dislikes
@@ -306,7 +390,7 @@ place 'hide' before 'carousel slide'
     <tr>
       <th style="background: rgba(255, 255, 255, 0.0); width: 25%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  L i k e s</span></th>
       <th style="background: rgba(255, 255, 255, 0.0); width: 24.9719%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  D i s l i k e s</span></th>
-      <th style="background: rgba(255, 255, 255, 0.0); width: 24.8594%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  D r e a m s </span></th>
+      <th style="background: rgba(255, 255, 255, 0.0); width: 24.8594%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  A s p i r a t i o n s </span></th>
       <th style="background: rgba(255, 255, 255, 0.0); width: 25%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  F e a r s </span></th>
     </tr>
   </thead>
@@ -336,7 +420,7 @@ place 'hide' before 'carousel slide'
 <!-- ----------------------------
 
 
-          PREFERENCES
+          WORK LIFE
 
 
 ----------------------------- -->
@@ -372,23 +456,80 @@ place 'hide' before 'carousel slide'
 
 
       SKILLS & TALENTS
-
+      
+     Note : fas = full star, far = empty star
 
 ----------------------------- -->
 <div class="skills mb-5"><h2>Skills & Talents</h2><hr>
-  <div class="m-3">
-    <b>Skill/Talent</b>
-    <p>_</p>
-  </div>  
-  
-  
-  <div class="m-3">
-    <b>Skill/Talent</b>
-    <p>_</p>
-  </div>  
-  
-  
-</div>
+    <div class="row">
+       <div class="col-sm-6 mb-3">
+          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill / Talent</h3>
+            <p><Span class="small"><b>Mastery:</b> 
+               <i class="fas fa-star" />
+               <i class="fas fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" /></Span>
+               <br>Details
+                  </p>
+             </div>
+       <div class="col-sm-6 mb-3">
+          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill / Talent</h3>
+            <p><Span class="small"><b>Mastery:</b> 
+               <i class="fas fa-star" />
+               <i class="fas fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" /></Span>
+               <br>Details
+                  </p>
+             </div>
+       <div class="col-sm-6 mb-3">
+          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill / Talent</h3>
+            <p><Span class="small"><b>Mastery:</b> 
+               <i class="fas fa-star" />
+               <i class="fas fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" /></Span>
+               <br>Details
+                  </p>
+             </div>
+       <div class="col-sm-6 mb-3">
+          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill / Talent</h3>
+            <p><Span class="small"><b>Mastery:</b> 
+               <i class="fas fa-star" />
+               <i class="fas fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" /></Span>
+               <br>Details
+                  </p>
+             </div>
+       <div class="col-sm-6 mb-3">
+          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill / Talent</h3>
+            <p><Span class="small"><b>Mastery:</b> 
+               <i class="fas fa-star" />
+               <i class="fas fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" /></Span>
+               <br>Details
+                  </p>
+             </div>
+       <div class="col-sm-6 mb-3">
+          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill / Talent</h3>
+            <p><Span class="small"><b>Mastery:</b> 
+               <i class="fas fa-star" />
+               <i class="fas fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" />
+               <i class="far fa-star" /></Span>
+               <br>Details
+                  </p>
+             </div>
+            </div>
+          <br>
 <!-- ----------------------------
 
 
@@ -412,7 +553,6 @@ place 'hide' before 'carousel slide'
   
   <p><b>Life as a Datura Lily member</b><br>
   Text...</p>
-  
   
 </div>
 </div>
