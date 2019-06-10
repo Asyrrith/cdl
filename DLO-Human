@@ -1,0 +1,552 @@
+<!--
+
+  CREDIT: vom | vomcodesstuff | vomwastaken
+  
+  INFO: 
+    - a lazy man's profile just 4 you
+    
+    - there's 2 ways to display the profile img
+      carousel & just normal image
+      
+    - you can hide sections & save editting for later
+      by placing the word 'hide' before the section's 
+      class name; like <div class="hide trivia"
+      
+    - don't remove my credit ty
+
+-->
+<div id="character-top" style="line-height: 1.6;letter-spacing:.05rem;"> 
+<!-- ----------------------------
+
+
+         GENERAL INFO
+
+
+----------------------------- -->
+<div class="general-info mb-5">
+<div class="row">
+<!-- ----------------------------
+
+
+            AVATAR
+
+
+----------------------------- -->
+<div class="col-xl-6 push-xl-6 mb-xl-1 mb-3">
+<!-- ----------------------------
+
+           NORMAL PIC
+
+     remove hide if you want
+       a reg pic instead
+
+----------------------------- -->
+<div class="rounded h-100 hide" style="min-height:250px;background: 
+  
+  
+  url(IMG URL) center;background-size:cover;">
+  
+  
+</div>
+<!-- ----------------------------
+
+            CAROUSEL
+
+place 'hide' before 'carousel slide' 
+     if you don't want it!
+
+----------------------------- -->
+<div class="hide carousel slide h-100 carousel-fade" id="carouselExampleFade" data-ride="carousel">
+<div class="carousel-inner h-100">
+  <!-- ----------------------------
+  
+               IMG 1
+  
+  ----------------------------- -->  
+  <div class="carousel-item h-100 active">
+  <div class="rounded d-block w-100 h-100" style="min-height:250px;background: 
+    
+    
+    url(IMG URL) center;background-size:cover;">
+    
+    
+  </div>
+  </div>
+  <!-- ----------------------------
+  
+               IMG 2
+  
+  ----------------------------- -->
+  <div class="carousel-item h-100">
+  <div class="rounded d-block w-100 h-100" style="min-height:250px;background: 
+    
+    
+    url(IMG URL) center;background-size:cover;">
+    
+    
+  </div>
+  </div>
+  <!-- ----------------------------
+  
+               IMG 3
+  
+  ----------------------------- -->
+  <div class="carousel-item h-100">
+  <div class="rounded d-block w-100 h-100" style="min-height:250px;background: 
+    
+    
+    url(IMG URL) center;background-size:cover;">
+    
+    
+  </div>
+  </div>
+</div>
+<!-- carousel controls | don't worry 'bout em -->
+<a class="carousel-control-prev" href="#carouselExampleFade" data-slide="prev">
+  <span class="fal fa-chevron-left text-white" aria-hidden="true"></span>
+</a>
+<a class="carousel-control-next" href="#carouselExampleFade" data-slide="next">
+  <span class="fal fa-chevron-right text-white" aria-hidden="true"></span>
+</a>
+</div>
+<!-- carousel end ----------- -->
+</div>
+<!-- ----------------------------
+
+         GENERAL INFO
+
+----------------------------- -->
+<div class="col-xl-6 pull-xl-6">
+<div class="row no-gutters" style="margin:-8px 0;">
+  
+    <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Floral Name</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Nickname</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Legal Name</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Birthday</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Age</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Height</span>
+    <span class="text-muted">_</span>
+  </div>
+
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Gender</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Orientation</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Race</span>
+    <span class="text-muted">Human</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Blessing</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Heritage</span>
+    <span class="text-muted"><i>(ei: Chinese-Italian)</i></span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Occupation</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Residence</span>
+    <span class="text-muted">Nouvel, BC</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Status</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">S/O</span>
+    <a href="">_</a>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Theme</span>
+    <a href="">[song]</a>
+  </div>
+  <!-- ----------------------------
+  
+              STATS
+  
+      to change bar, change
+           the width %
+  
+  ----------------------------- -->
+  <div class="w-100"><hr></div>
+  <!-- INTELLIGENCE -->
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Intelligence</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+      
+      style="width:50%">
+      
+    </span></span>  
+  </div>
+  <!-- CREATIVITY -->
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Creativity</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%"></span>
+    
+    </span>  
+  </div>
+  <!-- CONFIDENCE -->
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Confidence</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%">
+    
+    
+    </span></span>  
+  </div>
+  <!-- HUMOR -->
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Humor</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%">
+    
+    
+    </span></span>  
+  </div>
+  <!-- EMPATHY -->
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Empathy</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%">
+    
+    
+    </span></span>  
+  </div>
+  <!-- CHARISMA -->
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Charisma</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%">
+    
+    
+    </span></span>  
+  </div>
+</div>
+</div>
+</div>
+</div> 
+<!-- ----------------------------
+
+
+          PREFERENCES
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+             Appearance
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Appearance</h2><hr>
+<p><i>Written description of appearance..</i></p>
+</div>
+<!-- ----------------------------
+
+            Personality
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Personality</h2><hr>
+<p><i>Describe their personality..</i></p>
+</div>
+</div>
+</div>
+<!-- ----------------------------
+
+            Likes & Dislikes
+
+----------------------------- -->
+<table style="width: 100%;">
+  <thead>
+    <tr>
+      <th style="background: rgba(255, 255, 255, 0.0); width: 25%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  L i k e s</span></th>
+      <th style="background: rgba(255, 255, 255, 0.0); width: 24.9719%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  D i s l i k e s</span></th>
+      <th style="background: rgba(255, 255, 255, 0.0); width: 24.8594%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  D r e a m s </span></th>
+      <th style="background: rgba(255, 255, 255, 0.0); width: 25%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  F e a r s </span></th>
+    </tr>
+  </thead>
+<tbody>
+
+<tr>
+  <td style="width: 25%; background-color: rgba(255, 255, 255, 0.0);"><span style="font-size: 11px;">♦</span>
+    <br><span style="font-size: 11px;">♦</span>
+    <br><span style="font-size: 11px;"><span style="font-size: 11px;">♦</span></span>
+  </td>
+  <td style="width: 24.9719%; background-color: rgba(255, 255, 255, 0.0);"><span style="font-size: 11px;">♦</span>
+    <br><span style="font-size: 11px;">♦</span>
+    <br><span style="font-size: 11px;"><span style="font-size: 11px;">♦</span></span>
+  </td>
+  <td style="width: 24.8594%; background-color: rgba(255, 255, 255, 0.0);"><span style="font-size: 11px;">♦</span>
+    <br><span style="font-size: 11px;">♦</span>
+    <br><span style="font-size: 11px;"><span style="font-size: 11px;">♦</span></span>
+</td>
+  <td style="width: 24.9437%; background-color: rgba(255, 255, 255, 0.0);"><span style="font-size: 11px;">♦</span>
+    <br><span style="font-size: 11px;">♦</span>
+    <br><span style="font-size: 11px;"><span style="font-size: 11px;">♦</span></span>
+  </td>
+</tr>
+</tbody>
+</table>
+<br><br>
+<!-- ----------------------------
+
+
+          PREFERENCES
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+             Organization
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Organization</h2><hr>
+<ul class="mb-0">
+  <li><b>[Mantle]</b> _</li>
+  <li><b>[Branch]</b> _</li>
+</ul><br>
+<p><i>Details about Mantle here...</i></p>
+</div>
+<!-- ----------------------------
+
+            DAY JOB
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Day Job</h2><hr>
+<ul class="mb-0">
+   <li><b>[Day Job]</b> _</li>
+   <li><b>[Position]</b> _</li>
+</ul><br>
+<p><i>Details about Day Job here...</i></p>
+</div>
+</div>
+</div>
+<!-- ----------------------------
+
+
+      SKILLS & TALENTS
+
+
+----------------------------- -->
+<div class="skills mb-5"><h2>Skills & Talents</h2><hr>
+  <div class="m-3">
+    <b>Skill/Talent</b>
+    <p>_</p>
+  </div>  
+  
+  
+  <div class="m-3">
+    <b>Skill/Talent</b>
+    <p>_</p>
+  </div>  
+  
+  
+</div>
+<!-- ----------------------------
+
+
+            HISTORY
+
+
+----------------------------- -->
+<div class="history mb-5"><h2>History</h2><hr>
+<div class="m-3">
+  
+  <!-- use float-left to push to the left side | disappears on mobile -->
+  <img src="IMG URL" 
+  class="float-right p-2 hidden-sm-down">
+  
+  
+  <p><b>Life before joining the DLo</b><br>
+  Text...</p>
+  
+  <p><b>Training to be a Datura Lily member</b><br>
+  Text...</p>
+  
+  <p><b>Life as a Datura Lily member</b><br>
+  Text...</p>
+  
+  
+</div>
+</div>
+<!-- ----------------------------
+
+
+       RELATIONSHIPS
+
+
+----------------------------- -->
+<div class="relationships mb-5"><h2>Relationships</h2><hr>
+<div class="row no-gutters">
+  <!-- ----------------------------
+  
+                01
+  
+  ----------------------------- -->
+  <div class="col-xl-3 col-sm-6 row no-gutters">
+  <!-- IMAGE -->
+  <div class="col-md-4 p-2 hidden-sm-down text-center">
+    
+    <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
+  </div>
+  <!-- ABOUT -->
+  <div class="col-md-8 p-2">
+    
+    <b>Name</b> | <i>Relationship</i>
+    
+  <div class="text-muted mt-2" style="font-size:12px">
+    
+    Coming soon...
+    
+  </div>
+  </div>
+  </div>
+  <!-- ----------------------------
+  
+                02
+  
+  ----------------------------- -->
+  <div class="col-xl-3 col-sm-6 row no-gutters">
+  <!-- IMAGE -->
+  <div class="col-md-4 p-2 hidden-sm-down text-center">
+    
+    <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
+  </div>
+  <!-- ABOUT -->
+  <div class="col-md-8 p-2">
+    
+    <b>Name</b> | <i>Relationship</i>
+    
+  <div class="text-muted mt-2" style="font-size:12px">
+    
+    Coming soon...
+    
+  </div>
+  </div>
+  </div>
+  <!-- ----------------------------
+  
+                03
+  
+  ----------------------------- -->
+  <div class="col-xl-3 col-sm-6 row no-gutters">
+  <!-- IMAGE -->
+  <div class="col-md-4 p-2 hidden-sm-down text-center">
+    
+    <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
+  </div>
+  <!-- ABOUT -->
+  <div class="col-md-8 p-2">
+    
+    <b>Name</b> | <i>Relationship</i>
+    
+  <div class="text-muted mt-2" style="font-size:12px">
+    
+    Coming soon...
+    
+  </div>
+  </div>
+  </div>
+    <!-- ----------------------------
+  
+                04
+  
+  ----------------------------- -->
+  <div class="col-xl-3 col-sm-6 row no-gutters">
+  <!-- IMAGE -->
+  <div class="col-md-4 p-2 hidden-sm-down text-center">
+    
+    <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
+  </div>
+  <!-- ABOUT -->
+  <div class="col-md-8 p-2">
+    
+    <b>Name</b> | <i>Relationship</i>
+    
+  <div class="text-muted mt-2" style="font-size:12px">
+    
+    Coming soon...
+    
+  </div>
+  </div>
+  </div>
+    <!-- ----------------------------
+  
+                02
+  
+  ----------------------------- -->
+  <div class="col-xl-3 col-sm-6 row no-gutters">
+  <!-- IMAGE -->
+  <div class="col-md-4 p-2 hidden-sm-down text-center">
+    
+    <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
+  </div>
+  <!-- ABOUT -->
+  <div class="col-md-8 p-2">
+    
+    <b>Name</b> | <i>Relationship</i>
+    
+  <div class="text-muted mt-2" style="font-size:12px">
+    
+    Coming soon...
+    
+  </div>
+  </div>
+  </div>
+  
+<!-- add more relationships above this line -->  
+</div>
+</div>
+</div>
