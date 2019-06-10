@@ -1,3 +1,5 @@
+<a href="https://github.com/Asyrrith/cdl/blob/master/DLO-Vex">GET THE CODE HERE</a><br><br>
+
 <!--
 
 -->
@@ -258,7 +260,7 @@ place 'hide' before 'carousel slide'
 <!-- ----------------------------
 
 
-          Appearance & Personality
+          PREFERENCES
 
 
 ----------------------------- -->
@@ -455,82 +457,136 @@ place 'hide' before 'carousel slide'
 <!-- ----------------------------
 
 
-      MAGIC, SKILLS, TALENTS
+      SKILLS & TALENTS
       
-     Note 1: Copy & Paste if you need more
-     Note 2: fas = full star, far = empty star
+     Note : fas = full star, far = empty star
 
 ----------------------------- -->
-<div class="skills mb-5"><h2>Magic, Skills, & Talents</h2><hr>
-    <div class="row">
-       <div class="col-sm-6 mb-3">
-          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">M/S/T</h3>
-            <p><Span class="small"><b>Mastery:</b> 
-               <i class="fas fa-star" />
-               <i class="fas fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" /></Span>
-               <br>Details
+         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-shield-alt fa-fw mr-1" />Combat</h1>
+          <div class="history mb-5"><h2>Weapon</h2><hr>
+            <div class="m-3">
+           <div class="col-sm-6 mb-3">
+             <i>About the weapon..</i>
+             </div><br><hr>
+            <div class="row mb-3">
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Attack</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Defense</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Magic</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Resistance</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Stamina</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr class="hidden-md-up">
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Luck</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+               </div>
+          <br><br><br>
+                      <div class="row">
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill One </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
                   </p>
-             </div>
-       <div class="col-sm-6 mb-3">
-          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">M/S/T</h3>
-            <p><Span class="small"><b>Mastery:</b> 
-               <i class="fas fa-star" />
-               <i class="fas fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" /></Span>
-               <br>Details
+               </div>
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill Two </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
                   </p>
-             </div>
-       <div class="col-sm-6 mb-3">
-          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">M/S/T</h3>
-            <p><Span class="small"><b>Mastery:</b> 
-               <i class="fas fa-star" />
-               <i class="fas fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" /></Span>
-               <br>Details
+               </div>
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill Three </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
                   </p>
-             </div>
-       <div class="col-sm-6 mb-3">
-          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">M/S/T</h3>
-            <p><Span class="small"><b>Mastery:</b> 
-               <i class="fas fa-star" />
-               <i class="fas fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" /></Span>
-               <br>Details
+               </div>
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill Four </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
                   </p>
-             </div>
-       <div class="col-sm-6 mb-3">
-          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">M/S/T</h3>
-            <p><Span class="small"><b>Mastery:</b> 
-               <i class="fas fa-star" />
-               <i class="fas fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" /></Span>
-               <br>Details
-                  </p>
-             </div>
-       <div class="col-sm-6 mb-3">
-          <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">M/S/T</h3>
-            <p><Span class="small"><b>Mastery:</b> 
-               <i class="fas fa-star" />
-               <i class="fas fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" />
-               <i class="far fa-star" /></Span>
-               <br>Details
-                  </p>
-             </div>
+               </div>
             </div>
-          <br>
+         </div>
+      </div>
+<br>
+          
+          
+          
 <!-- ----------------------------
 
 
@@ -574,15 +630,18 @@ place 'hide' before 'carousel slide'
   <div class="col-xl-3 col-sm-6 row no-gutters">
   <!-- IMAGE -->
   <div class="col-md-4 p-2 hidden-sm-down text-center">
-  
+    
     <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
   </div>
   <!-- ABOUT -->
   <div class="col-md-8 p-2">
+    
     <b>Name</b> | <i>Relationship</i>
-
+    
   <div class="text-muted mt-2" style="font-size:12px">
-    Details...
+    
+    Coming soon...
     
   </div>
   </div>
@@ -595,15 +654,18 @@ place 'hide' before 'carousel slide'
   <div class="col-xl-3 col-sm-6 row no-gutters">
   <!-- IMAGE -->
   <div class="col-md-4 p-2 hidden-sm-down text-center">
-  
+    
     <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
   </div>
   <!-- ABOUT -->
   <div class="col-md-8 p-2">
+    
     <b>Name</b> | <i>Relationship</i>
-
+    
   <div class="text-muted mt-2" style="font-size:12px">
-    Details...
+    
+    Coming soon...
     
   </div>
   </div>
@@ -616,15 +678,18 @@ place 'hide' before 'carousel slide'
   <div class="col-xl-3 col-sm-6 row no-gutters">
   <!-- IMAGE -->
   <div class="col-md-4 p-2 hidden-sm-down text-center">
-  
+    
     <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
   </div>
   <!-- ABOUT -->
   <div class="col-md-8 p-2">
+    
     <b>Name</b> | <i>Relationship</i>
-
+    
   <div class="text-muted mt-2" style="font-size:12px">
-    Details...
+    
+    Coming soon...
     
   </div>
   </div>
@@ -637,15 +702,42 @@ place 'hide' before 'carousel slide'
   <div class="col-xl-3 col-sm-6 row no-gutters">
   <!-- IMAGE -->
   <div class="col-md-4 p-2 hidden-sm-down text-center">
-  
+    
     <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
   </div>
   <!-- ABOUT -->
   <div class="col-md-8 p-2">
+    
     <b>Name</b> | <i>Relationship</i>
-
+    
   <div class="text-muted mt-2" style="font-size:12px">
-    Details...
+    
+    Coming soon...
+    
+  </div>
+  </div>
+  </div>
+    <!-- ----------------------------
+  
+                02
+  
+  ----------------------------- -->
+  <div class="col-xl-3 col-sm-6 row no-gutters">
+  <!-- IMAGE -->
+  <div class="col-md-4 p-2 hidden-sm-down text-center">
+    
+    <img src="IMG URL" class="img-thumbnail fr-rounded">
+    
+  </div>
+  <!-- ABOUT -->
+  <div class="col-md-8 p-2">
+    
+    <b>Name</b> | <i>Relationship</i>
+    
+  <div class="text-muted mt-2" style="font-size:12px">
+    
+    Coming soon...
     
   </div>
   </div>
