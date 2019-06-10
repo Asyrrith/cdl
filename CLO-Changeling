@@ -1,0 +1,686 @@
+<div class="container px-0">
+  <div class="row no-gutters">
+    <!------------- NAVIGATION COLUMN ----------------------------->
+    <div class="col-lg-2 col-md-3 push-lg-10 push-md-9 pl-md-1">
+      <div class="card bg-faded p-2 d-md-block mx-auto mt-4 mb-2 hidden-sm-down" style="max-height: 200px; max-width: 200px;">
+        <!----------- USE A 200 x 200 ICON ------------------------>
+        <img src="IMG URL" class="rounded d-block mx-auto">
+      </div>
+      
+      <ul class="nav nav-pills flex-column text-uppercase" style="letter-spacing: 1px;">
+      <!----------------- NAVIGATION BUTTONS ----- YOU CAN CHANGE THE TEXT ---- DO NOT ADD MORE ------------------------------------->
+      <li class="nav-item mb-2"><a class="btn btn-default nav-link active" data-toggle="tab" href="#ONE">Basics</a></li>
+      <li class="nav-item mb-2"><a class="btn btn-default nav-link" data-toggle="tab" href="#TWO">Personality</a></li>
+      <li class="nav-item mb-2"><a class="btn btn-default nav-link" data-toggle="tab" href="#THREE">Get Acquainted</a></li>
+      <li class="nav-item mb-2"><a class="btn btn-default nav-link" data-toggle="tab" href="#FOUR">Occupation</a></li>
+      <li class="nav-item mb-2"><a class="btn btn-default nav-link" data-toggle="tab" href="#FIVE">Combat</a></li>
+      <li class="nav-item mb-2"><a class="btn btn-default nav-link" data-toggle="tab" href="#SIX">History</a></li>
+      <li class="nav-item mb-2"><a class="btn btn-default nav-link" data-toggle="tab" href="#SEVEN">Relationships</a></li>
+   </ul>
+    </div>
+    
+    <!---------- CONTENT COLUMN ---------------------------------->
+    <div class="col-lg-10 col-md-9 pull-lg-2 pull-md-3 pr-md-2">
+      <div class="card bg-faded tab-content mb-2">
+    <!------------------------------------ FIRST TAB ------------------------------------------------------------->
+      <div class="card-block tab-pane fade in active show" data-toggle="tab" id="ONE">
+         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-star fa-fw mr-1" /> Basics</h1>
+         <div class="card p-3 pb-1" style="height:450px; overflow:auto;">
+            <div class="row">
+               <div class="col-12">
+                 <!--------------- FOCAL IMAGE -- WILL CROP & AUTO SIZE -- FOCUS IN TOP CENTER -------------------->
+                  <div style="background: url(IMG URL);
+                  background-position:top center; background-size:cover; min-height:415px;" class="col-md-4 float-md-left mr-md-2 d-block mx-auto rounded">
+                  </div>
+                  
+                  <!----------- STATS ------------------------------------>
+                 <br><br> <div class="row">
+    <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Closer Name</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Nickname</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Legal Name</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Birthday</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Age</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Race</span>
+    <span class="text-muted">Changeling</span>
+  </div>
+
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Human Height</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">True Height</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Gender</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Orientation</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Heritage</span>
+    <span class="text-muted"><i>(ei: Chinese-Italian)</i></span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Occupation</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Residence</span>
+    <span class="text-muted">Nouvel, BC</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Status</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">S/O</span>
+    <a href="">_</a>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Theme</span>
+    <a href="">[song]</a>
+  </div>
+  </div>
+      <br><hr>
+        <h2>Appearance</h2><hr>
+          <p><i>Written description of appearance..</i></p>
+        </div>
+      </div>
+    </div>
+  </div>
+      
+    <!------------------------------------ SECOND TAB ------------------------------------------------------------->
+      <div class="card-block tab-pane fade" data-toggle="tab" id="TWO">
+         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-heartbeat fa-fw mr-1" />Personality</h1>
+         <div class="card d-block p-3 pb-1" style="height:450px; overflow:auto;">
+           
+           <!------------ STATS ------------ FAS FOR SOLID --- FAR FOR OPEN ------------------------>
+            <div class="row mb-3">
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Intelligence</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Creativity</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Confidence</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Humor</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Empathy</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr class="hidden-md-up">
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Charisma</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                </div>
+                </div>
+               <br>
+ <!-- ----------------------------
+
+
+          PREFERENCES
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row" style="margin:-8px;">
+<!-- ----------------------------
+
+             Traits
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Traits</h2><hr>
+     <ul class="list-unstyled font-weight-bold mb-4">
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;"> Introvert </span>
+        <span class="pull-right" style="color:#746586;"> Extrovert </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:30%;background-color:#96CEB2;"></div></div>
+        </li>
+        </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Thinking
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Feeling
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:40%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Mean
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Nice
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:50%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Lazy
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Active
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:60%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Serious
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Playful
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:70%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Sloppy
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Neat
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:80%;background-color:#96CEB2;"></div></div>
+       </li>
+      </ul>
+      </div>
+<!-- ----------------------------
+
+            Personality
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Personality</h2><hr>
+<p>Describe their personality here.</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+
+    <!------------------------------------ THIRD TAB ------------------------------------------------------------->
+      <div class="card-block tab-pane fade" data-toggle="tab" id="THREE">
+        <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-shield-alt fa-fw mr-1" />Get Acquainted</h1>
+         <div class="card d-block p-3 pb-1" style="height:450px; overflow:auto;">
+ <!-- ----------------------------
+
+
+          PREFERENCES
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row" style="margin:-8px;">
+<!-- ----------------------------
+
+             Likes
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Likes</h2><hr>
+<ul class="card-block text-left list-unstyled">
+     <li>
+      <i class="fa fa-check"></i>
+       I like it
+     </li>
+     <li>
+      <i class="fa fa-check"></i>
+       I love it
+     </li>
+     <li>
+      <i class="fa fa-check"></i>
+       I want some more of it
+     </li>
+    </ul>
+</div>
+<!-- ----------------------------
+
+            Dislikes
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Dislikes</h2><hr>
+<ul class="card-block text-left list-unstyled">
+     <li>
+      <i class="fa fa-times"></i>
+       Ew
+     </li>
+     <li>
+      <i class="fa fa-times"></i>
+       No
+     </li>
+     <li>
+      <i class="fa fa-times"></i>
+       Gross
+     </li>
+    </ul>
+</div></div></div>
+ <!-- ----------------------------
+
+
+          PREFERENCES
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row" style="margin:-8px;">
+<!-- ----------------------------
+
+             Aspirations
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Aspirations</h2><hr>
+<ul class="card-block text-left list-unstyled">
+     <li>
+      <i class="fa fa-star"></i>
+       My wish
+     </li>
+     <li>
+      <i class="fa fa-star"></i>
+       My desire
+     </li>
+     <li>
+      <i class="fa fa-star"></i>
+       Tis what I aspire
+     </li>
+    </ul>
+</div>
+<!-- ----------------------------
+
+            Fears
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Fears</h2><hr>
+<ul class="card-block text-left list-unstyled">
+     <li>
+      <i class="fa fa-exclamation"></i>
+        Nope
+     </li>
+     <li>
+      <i class="fa fa-exclamation"></i>
+       Big Nope
+     </li>
+     <li>
+      <i class="fa fa-exclamation"></i>
+       Hecking NOPE
+     </li>
+    </ul>
+</div>
+</div>
+</div>
+
+
+ <!-- ----------------------------
+
+
+          PREFERENCES
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row" style="margin:-8px;">
+<!-- ----------------------------
+
+             Trivia
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Trivia</h2><hr>
+<ul class="mb-0">
+  <li> </li>
+  <li> </li>
+  <li> </li>
+</ul>
+</div>
+<!-- ----------------------------
+
+            Quote
+
+----------------------------- -->
+     <div class="col-lg-6 p-2 mb-5"><div class="card card-block text-white display-4 rounded-0 mb-4" style="background-color:#;border-color:#;">
+       <em style="text-align: center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit."</em>
+     </div></div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+    <!------------------------------------ FOURTH TAB ------------------------------------------------------------->
+      <div class="card-block tab-pane fade" data-toggle="tab" id="FOUR">
+         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-shield-alt fa-fw mr-1" />Combat</h1>
+         <div class="card d-block p-3 pb-1" style="height:450px; overflow:auto;">
+
+<!-- ----------------------------
+
+
+          WORK LIFE
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+             Organization
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Organization</h2><hr>
+<ul class="mb-0">
+  <li><b>[Mantle]</b> _</li>
+  <li><b>[Rank]</b> _</li>
+</ul><br>
+<p><i>Details about Mantle here...</i></p>
+</div>
+<!-- ----------------------------
+
+            DAY JOB
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Day Job</h2><hr>
+<ul class="mb-0">
+   <li><b>[Day Job]</b> _</li>
+   <li><b>[Position]</b> _</li>
+</ul><br>
+<p><i>Details about Day Job here...</i></p>
+</div>
+</div>
+</div>
+
+      </div>
+    </div>
+
+    <!------------------------------------ FOURTH TAB ------------------------------------------------------------->
+      <div class="card-block tab-pane fade" data-toggle="tab" id="FIVE">
+         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-shield-alt fa-fw mr-1" />Combat</h1>
+         <div class="card d-block p-3 pb-1" style="height:450px; overflow:auto;">
+           
+           <!------------ STATS ------------ FAS FOR SOLID --- FAR FOR OPEN ------------------------>
+           <div class="col-sm-6 mb-3">
+              <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Weapon </h3><br>
+             <i>About the weapon..</i>
+             </div><br><hr>
+            <div class="row mb-3">
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Attack</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Defense</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Magic</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Resistance</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Stamina</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr class="hidden-md-up">
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Luck</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+               </div>
+            </div>
+            <hr><br>
+            <!------------------------------- ABILITIES ----------------------------------->
+            <div class="row">
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill One </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
+                  </p>
+               </div>
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill Two </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
+                  </p>
+               </div>
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill Three </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
+                  </p>
+               </div>
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill Four </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
+                  </p>
+               </div>
+            </div>
+         </div>
+      </div>
+      
+      <!------------------------------------ FOURTH TAB ------------------------------------------------------------->
+      <div class="card-block tab-pane fade" data-toggle="tab" id="SIX">
+         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="far fa-book-open fa-fw mr-1" /> History</h1>
+         <div class="card p-3 pb-1" style="height:450px; overflow:auto;">
+<div class="m-3">
+  
+  <!-- use float-left to push to the left side | disappears on mobile -->
+  <img src="IMG URL" 
+  class="float-right p-2 hidden-sm-down">
+  
+  <p><b>Life before joining the Closers</b><br>
+  Text...</p>
+  
+  <p><b>Training to be a Closer</b><br>
+  Text...</p>
+  
+  <p><b>Life as a Closer</b><br>
+  Text...</p>
+         </div>
+      </div>
+    </div>
+    <!------------------------------------ FIFTH TAB ------------------------------------------------------------->
+      <div class="card-block tab-pane fade" data-toggle="tab" id="SEVEN">
+         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-heart fa-fw mr-1" /> Relationships</h1>
+         <div class="card p-3 pb-0" style="height:450px; overflow:auto;">
+           <!----------- RELATIONSHIPS -- NUMBER OF HEARTS SHOW AFFECTION LEVEL ------------------------------>
+            <div class="row">
+               <!------------- CHARACTER ------------------->
+               <div class="col-md-4 mb-2 text-center">
+                  <img src="IMG URL" class="rounded d-block mx-auto mb-2" style="max-height: 200px;">
+                  
+                  <h2><a href="#LINK">Name</a></h2>
+                  <p class="mb-2">[ <i>relationship</i> ] 
+                  
+                  <br>
+                  <i class="fi-heart mx-1" /> 
+                  <i class="fi-heart mx-1" /> 
+                  <i class="fi-heart mx-1" /> 
+                  <i class="fi-heart mx-1" /> 
+                  <i class="fi-heart mx-1" />
+                  </p>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin.</p>
+               </div>
+               
+               <!------------- CHARACTER ------------------->
+               <div class="col-md-4 mb-2 text-center">
+                  <img src="IMG URL" class="rounded d-block mx-auto mb-2" style="max-height: 200px;">
+                  
+                  <h2><a href="#LINK">Name</a></h2>
+                  <p class="mb-2">[ <i>relationship</i> ] 
+                  
+                  <br>
+                  <i class="fi-heart mx-1" /> 
+                  <i class="fi-heart mx-1" /> 
+                  <i class="fi-heart mx-1" /> 
+                  <i class="fi-heart mx-1" /> 
+                  </p>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin.</p>
+               </div>
+               
+               <!------------- CHARACTER ------------------->
+               <div class="col-md-4 mb-2 text-center">
+                  <img src="IMG URL" class="rounded d-block mx-auto mb-2" style="max-height: 200px;">
+                  
+                  <h2><a href="#LINK">Name</a></h2>
+                  <p class="mb-2">[ <i>relationship</i> ] 
+                  
+                  <br>
+                  <i class="fi-heart mx-1" /> 
+                  <i class="fi-heart mx-1" /> 
+                  <i class="fi-heart mx-1" /> 
+                  </p>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+    </div>
+  </div>
+   
+<!------------- LEAVE CREDIT -------------------------------->
+   <p class="text-right small">Base HTML by @lowkeywicked</p>
+</div>
