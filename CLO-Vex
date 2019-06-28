@@ -101,18 +101,18 @@
   </div>
   
   <div class="col-md-6 d-flex justify-content-between p-2">
-    <span class="text-uppercase">Status</span>
+    <span class="text-uppercase">Theme</span>
+    <a href="">[song]</a>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Marital Status</span>
     <span class="text-muted">_</span>
   </div>
   
   <div class="col-md-6 d-flex justify-content-between p-2">
     <span class="text-uppercase">S/O</span>
     <a href="">_</a>
-  </div>
-  
-  <div class="col-md-6 d-flex justify-content-between p-2">
-    <span class="text-uppercase">Theme</span>
-    <a href="">[song]</a>
   </div>
   </div>
       <br><hr>
