@@ -888,19 +888,43 @@ place 'hide' before 'carousel slide'
 <div class="history mb-5"><h2>History</h2><hr>
 <div class="m-3">
   
-  <!-- use float-left to push to the left side | disappears on mobile -->
+  <!-- use float-left to push to the left side | disappears on mobile-->
+  
+  <!----------------------
+  
+  NOTE —
+  
+  1. Feel free to remove <img src="IMG URL" class="float-right p-2 hidden-sm-down">
+      from the code if it is undesired
+  
+  2. Things to include in your character's history:
+    • Criminal experiences
+    • Social standings
+    • Important past events that had a major impact on them and may still affet them today
+
+    • THE REASON WHY THEY ARE A CLOSER
+
+  3.When writing out their history, be sure to
+     – Use <br> to create a single line break
+     – Use <br><br> to create a double line break
+  
+  ----------------------->
+  
   <img src="IMG URL" 
   class="float-right p-2 hidden-sm-down">
   
-  
-  <p><b>Life before joining the DLo</b><br>
-  Text...</p>
-  
-  <p><b>Training to be a Datura Lily member</b><br>
-  Text...</p>
-  
-  <p><b>Life as a Datura Lily member</b><br>
-  Text...</p>
+  <p>WRITE OUT THEIR<br>
+  HISTORY HERE!
+  <br>
+  <br>
+  WRITE OUT THEIR HISTORY HERE!</p>
+  <br><br>
+<h2>Additional Notes</h2><hr>
+  <ul class="card-block text-left list-unstyled">
+ <li><i class="fa fa-stars"></i> Note</li><br><br>
+ <li><i class="fa fa-stars"></i> Note</li><br><br>
+ <li><i class="fa fa-stars"></i> Note</li>
+</ul>
   
 </div>
 </div>
