@@ -1,8 +1,10 @@
-<a href="https://github.com/Asyrrith/cdl/blob/master/DLO-Human">GET THE CODE HERE</a><br><br>
+<!-- ----------------------------
 
-<!--
 
--->
+         If you need help filling in or understanding anything about this template, please feel free to ask!
+
+
+----------------------------- -->
 <div id="character-top" style="line-height: 1.6;letter-spacing:.05rem;"> 
 <!-- ----------------------------
 
@@ -133,7 +135,7 @@ place 'hide' before 'carousel slide'
   </div>
   
   <div class="col-md-6 d-flex justify-content-between p-2">
-    <span class="text-uppercase">Height</span>
+    <span class="text-uppercase">Zodiacs</span>
     <span class="text-muted">_</span>
   </div>
 
@@ -149,32 +151,22 @@ place 'hide' before 'carousel slide'
   
   <div class="col-md-6 d-flex justify-content-between p-2">
     <span class="text-uppercase">Race</span>
-    <span class="text-muted">Human</span>
-  </div>
-  
-  <div class="col-md-6 d-flex justify-content-between p-2">
-    <span class="text-uppercase">Blessing</span>
-    <span class="text-muted">_</span>
+    <span class="text-muted">(Changeling, Human, Vex..)</span>
   </div>
   
   <div class="col-md-6 d-flex justify-content-between p-2">
     <span class="text-uppercase">Heritage</span>
-    <span class="text-muted"><i>(ei: Chinese-Italian)</i></span>
+    <span class="text-muted">(ei: Chinese-Italian)</span>
   </div>
   
   <div class="col-md-6 d-flex justify-content-between p-2">
-    <span class="text-uppercase">Occupation</span>
-    <span class="text-muted">_</span>
+    <span class="text-uppercase">Magic</span>
+    <span class="text-muted">(if they are a Vex)</span>
   </div>
   
   <div class="col-md-6 d-flex justify-content-between p-2">
-    <span class="text-uppercase">Residence</span>
-    <span class="text-muted">Nouvel, BC</span>
-  </div>
-  
-  <div class="col-md-6 d-flex justify-content-between p-2">
-    <span class="text-uppercase">Theme</span>
-    <a href="">[song]</a>
+    <span class="text-uppercase">Blessing</span>
+    <span class="text-muted">(if they've been blessed)</span>
   </div>
   
   <div class="col-md-6 d-flex justify-content-between p-2">
@@ -184,6 +176,16 @@ place 'hide' before 'carousel slide'
   
   <div class="col-md-6 d-flex justify-content-between p-2">
     <span class="text-uppercase">S/O</span>
+    <a href="">_</a>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Residence</span>
+    <span class="text-muted">_</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Theme</span>
     <a href="">_</a>
   </div>
   <!-- ----------------------------
@@ -272,7 +274,19 @@ place 'hide' before 'carousel slide'
 
 ----------------------------- --> 
 <div class="col-lg-6 p-2 mb-5"><h2>Appearance</h2><hr>
-<p><i>Written description of appearance..</i></p>
+<ul class="mb-0">
+   <li><b>Skin :</b> _</li>
+   <li><b>Eyes :</b> _</li>
+   <li><b>Hair :</b> <i>(color, style)</i></li><br><br>
+   <li><b>Body Type :</b> _</li>
+   <li><b>Tattoos :</b> _</li>
+   <li><b>Scars/Marks :</b> _</li><br><br>
+</ul><br><br>
+<ul class="mb-0">
+   <li><b>Casual Wear :</b> _</li><br><br>
+   <li><b>Formal Wear :</b> _</li><br><br>
+   <li><b>Work Wear :</b> _</li>
+</ul><br>
 </div>
 <!-- ----------------------------
 
@@ -280,7 +294,22 @@ place 'hide' before 'carousel slide'
 
 ----------------------------- -->
 <div class="col-lg-6 p-2 mb-5"><h2>Personality</h2><hr>
-<p><i>Describe their personality..</i></p>
+<ul class="mb-0">
+  <li><b>Appearing Demeanor :</b> (how they appear to the world around them)</li><br><br>
+  <li><b>Real Personality :</b> (how they are to those who actually know them)</li><br><br>
+</ul>  
+<p>—Reason for the difference between demeanor and real personality—</p><br>
+<ul class="mb-0">
+  <li><b>Positive Traits :</b><br>
+  • 1<br>
+  • 2<br>
+  • 3</li><br><br>
+  <li><b>Negative Traits :</b><br>
+  • 1<br>
+  • 2<br>
+  • 3</li><br><br>
+  <li><b>Mental Disorders :</b> (self-explanatory)</li>
+</ul>
 </div>
 </div>
 </div>
@@ -288,7 +317,7 @@ place 'hide' before 'carousel slide'
 <!-- ----------------------------
 
 
-          Traits & Trivia
+          Traits & Personal Info
 
 
 ----------------------------- -->
@@ -364,61 +393,182 @@ place 'hide' before 'carousel slide'
      </div>
 <!-- ----------------------------
 
-            Trivia
+            Personal Information
 
 
 ----------------------------- -->
-<div class="col-lg-6 p-2 mb-5"><h2>Trivia</h2><hr>
-<ul class="mb-0">
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+<div class="col-lg-6 p-2 mb-5"><h2>Personal Info</h2><hr>
+<ul class="card-block text-left list-unstyled">
+ <li>  <i class="fa fa-home"></i> Residence : _ </li><br><br>
+
+ <li>  <i class="fa fa-car"></i> Transportation : _ </li><br><br>
+
+ <li>  <i class="fa fa-dog"></i> Pets : _ </li><br><br>
+
+ <li>  <i class="fa fa-deer"></i> Familiar : _ </li><br><br>
+
+ <li>  <i class="fa fa-lips"></i> Languages : _ </li><br><br>
+ 
+ <li>  <i class="fa fa-cross"></i> Religion : _ </li><br><br>
+
+ <li>  <i class="fa fa-frown"></i> Disabilities : _ </li>
 </ul>
 </div>
 </div>
 </div>
 </div>
-<br>
+
 <!-- ----------------------------
 
-            Likes & Dislikes
+
+          Family & Familiars
+
 
 ----------------------------- -->
-<table style="width: 100%;">
-  <thead>
-    <tr>
-      <th style="background: rgba(255, 255, 255, 0.0); width: 25%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  L i k e s</span></th>
-      <th style="background: rgba(255, 255, 255, 0.0); width: 24.9719%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  D i s l i k e s</span></th>
-      <th style="background: rgba(255, 255, 255, 0.0); width: 24.8594%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  A s p i r a t i o n s </span></th>
-      <th style="background: rgba(255, 255, 255, 0.0); width: 25%;"><span style="color: rgb(255, 255, 255); font-size: 10px;">  F e a r s </span></th>
-    </tr>
-  </thead>
-<tbody>
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
 
-<tr>
-  <td style="width: 25%; background-color: rgba(255, 255, 255, 0.0);"><span style="font-size: 11px;">♦</span>
-    <br><span style="font-size: 11px;">♦</span>
-    <br><span style="font-size: 11px;"><span style="font-size: 11px;">♦</span></span>
-  </td>
-  <td style="width: 24.9719%; background-color: rgba(255, 255, 255, 0.0);"><span style="font-size: 11px;">♦</span>
-    <br><span style="font-size: 11px;">♦</span>
-    <br><span style="font-size: 11px;"><span style="font-size: 11px;">♦</span></span>
-  </td>
-  <td style="width: 24.8594%; background-color: rgba(255, 255, 255, 0.0);"><span style="font-size: 11px;">♦</span>
-    <br><span style="font-size: 11px;">♦</span>
-    <br><span style="font-size: 11px;"><span style="font-size: 11px;">♦</span></span>
-</td>
-  <td style="width: 24.9437%; background-color: rgba(255, 255, 255, 0.0);"><span style="font-size: 11px;">♦</span>
-    <br><span style="font-size: 11px;">♦</span>
-    <br><span style="font-size: 11px;"><span style="font-size: 11px;">♦</span></span>
-  </td>
-</tr>
-</tbody>
-</table>
+             Family
+
+             Fill in as needed!!
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Family</h2><hr>
+<ul class="mb-0">
+   <li><b>Mother :</b> _</li>
+   <li><b>Father :</b> _</li>
+   <li><b>Sibling :</b> _</li>
+   <li><b>??? :</b> _</li>
+   <li><b>??? :</b> _</li>
 <br><br>
+   <li><b>Significant Other :</b> _</li>
+   <li><b>Child :</b> _</li>
+   <li><b>Etc :</b> _</li>
+</ul><br>
+</div>
+<!-- ----------------------------
+
+            Familiars
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Familiars</h2><hr>
+<ul class="mb-0">
+  <li><b>Name :</b> (what is its name?)</li>
+  <li><b>Species :</b> (What is it?)</li>
+</ul><br>
+<p>Tell us about the familiar</p>
+<!-- ----------------------------
+
+  Note – To add another familiar, copy and paste the following above the line:
+
+<ul class="mb-0">
+  <li><b>Name :</b> (what is its name?)</li>
+  <li><b>Species :</b> (What is it?)</li>
+</ul>
+<p>Tell us about the familiar</p>
+
+----------------------------- -->
+</div>
+</div>
+</div>
+<br>
+
+
+<!-- ----------------------------
+
+
+          Likes & Dislikes
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+             Likes
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Likes</h2><hr>
+<ul class="card-block text-left list-unstyled">
+ <li>
+  <i class="fa fa-check"></i> Like
+ </li>
+ <li>
+  <i class="fa fa-check"></i> Like
+ </li>
+ <li>
+  <i class="fa fa-check"></i> Like
+ </li>
+</ul>
+</div>
+<!-- ----------------------------
+
+            Dislikes & Fears
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Dislikes</h2><hr>
+<ul class="card-block text-left list-unstyled">
+ <li>
+  <i class="fa fa-times"></i> Dislike
+ </li>
+ <li>
+  <i class="fa fa-times"></i> Dislike
+ </li>
+ <li>
+  <i class="fa fa-times"></i> Dislike
+ </li>
+</ul>
+</div>
+</div>
+</div>
+<!-- ----------------------------
+
+
+          Hobbies & Fears
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+             Hobbies
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Hobbies</h2><hr>
+<ul class="card-block text-left list-unstyled">
+ <li>
+  <i class="fa fa-stars"></i> Hobby
+ </li>
+ <li>
+  <i class="fa fa-stars"></i> Hobby
+ </li>
+ <li>
+  <i class="fa fa-stars"></i> Hobby
+ </li>
+</ul>
+</div>
+<!-- ----------------------------
+
+            Fears
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Fears</h2><hr>
+<ul class="card-block text-left list-unstyled">
+ <li>
+  <i class="fa fa-spider"></i> Fear
+ </li>
+ <li>
+  <i class="fa fa-spider"></i> Fear
+ </li>
+ <li>
+  <i class="fa fa-spider"></i> Fear
+ </li>
+</ul>
+</div>
+</div>
+</div>
 <!-- ----------------------------
 
 
@@ -435,10 +585,11 @@ place 'hide' before 'carousel slide'
 ----------------------------- --> 
 <div class="col-lg-6 p-2 mb-5"><h2>Organization</h2><hr>
 <ul class="mb-0">
-  <li><b>[Mantle]</b> _</li>
-  <li><b>[Branch]</b> _</li>
+  <li><b>Division :</b> (Disposer, Watcher, etc.)</li>
+  <li><b>Mantle :</b> (Executioner, Mole, etc.)</li>
+  <li><b><a href="_">Partner</a> :</b> (view list to select partner)</li>
 </ul><br>
-<p><i>Details about Mantle here...</i></p>
+<p>• include details regarding their specific mantle, their partner, others they encounter/work with, work tactics, etc.</p>
 </div>
 <!-- ----------------------------
 
@@ -447,27 +598,111 @@ place 'hide' before 'carousel slide'
 ----------------------------- -->
 <div class="col-lg-6 p-2 mb-5"><h2>Day Job</h2><hr>
 <ul class="mb-0">
-   <li><b>[Day Job]</b> _</li>
-   <li><b>[Position]</b> _</li>
+   <li><b>Day Job :</b> _</li>
+   <li><b>Position :</b> _</li>
 </ul><br>
-<p><i>Details about Day Job here...</i></p>
+<p>• include details about thjeir Day Job here; including co-workers, their thoughts on their job, interactions with others, etc.</p>
 </div>
 </div>
 </div>
+
+<h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-sword fa-fw mr-1" />Combat</h1><hr>
 <!-- ----------------------------
 
 
+         Weapons n Shiz
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+             Weapons
+
+      NOTE – use fas for filled stars, far for empty
+
+----------------------------- --> 
+<div class="weapon mb-5"><h2>Weapons</h2><hr>
+<div class="m-3">
+
+    <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Weapon </h3>
+      <p><Span class="small"><b>Proficiency:</b> 
+       <i class="fas fa-star" />
+       <i class="fas fa-star" />
+       <i class="far fa-star" />
+       <i class="far fa-star" />
+       <i class="far fa-star" /></Span><br>
+       Tell us about the weapon - how it was obtained, how often it's used, what it's used for..
+      </p>
+     </div>
+     <br>
+<div class="m-3">
+    <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Weapon </h3>
+      <p><Span class="small"><b>Proficiency:</b> 
+       <i class="fas fa-star" />
+       <i class="fas fa-star" />
+       <i class="far fa-star" />
+       <i class="far fa-star" />
+       <i class="far fa-star" /></Span><br>
+       Tell us about the weapon - how it was obtained, how often it's used, what it's used for..
+      </p>
+     </div>
+     </div>
+
+
+
+
+
+<!-- ----------------------------
+
+
+          Magic & Blessings
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+             Magic
+
+             This is for Vethexians and any who gain magical capabilities through a Blessing
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Magic</h2><hr>
+<ul class="mb-0">
+   <li><b>Vex Type :</b> (Birnan, Lauter, Pelagic, etc.)</li>
+   <li><b>Magic :</b> (Earth, Fire, Healing, Sleep, etc)</li>
+</ul>
+<p>Provide a little background about their magical history, lineage, learning to use it, etc..</p><br>
+<ul class="mb-0">
+   <li><b>Advanced :</b> (Astral, Ferrous, Lightning, etc)</li>
+</ul>
+<p>Provide a little background about their magical history, lineage, learning to use it, etc..</p>
+</div>
+<!-- ----------------------------
+
+            Blessing
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Personality</h2><hr>
+<ul class="mb-0">
+  <li><b>Blessing :</b> (What their blessing is)</li>
+</ul>
+  <p>Background on how and when they got their blessing, how they use it, etc..</p>
+</div>
+</div>
+</div>
+
+<!-- ----------------------------
       SKILLS & TALENTS
       
      Note : fas = full star, far = empty star
 
 ----------------------------- -->
-         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-shield-alt fa-fw mr-1" />Combat</h1>
-          <div class="history mb-5"><h2>Weapon</h2><hr>
             <div class="m-3">
-           <div class="col-sm-6 mb-3">
-             <i>About the weapon..</i>
-             </div><br><hr>
+
             <div class="row mb-3">
                <div class="col-md-6">
                   <b class="text-uppercase text-muted">Attack</b>
@@ -583,6 +818,7 @@ place 'hide' before 'carousel slide'
             </div>
          </div>
       </div>
+    </div>
 <br>
           
           
