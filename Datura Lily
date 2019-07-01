@@ -168,7 +168,17 @@ place 'hide' before 'carousel slide'
     <span class="text-uppercase">Blessing</span>
     <span class="text-muted">(if they've been blessed)</span>
   </div>
+ 
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Height</span>
+    <span class="text-muted">_</span>
+  </div>
   
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Weight</span>
+    <span class="text-muted">_</span>
+  </div>
+ 
   <div class="col-md-6 d-flex justify-content-between p-2">
     <span class="text-uppercase">Marital Status</span>
     <span class="text-muted">_</span>
