@@ -1,10 +1,3 @@
-<!-- ----------------------------
-
-
-         If you need help filling in or understanding anything about this template, please feel free to ask!
-
-
------------------------------ -->
 <div id="character-top" style="line-height: 1.6;letter-spacing:.05rem;"> 
 <!-- ----------------------------
 
@@ -168,7 +161,7 @@ place 'hide' before 'carousel slide'
     <span class="text-uppercase">Blessing</span>
     <span class="text-muted">(if they've been blessed)</span>
   </div>
- 
+
   <div class="col-md-6 d-flex justify-content-between p-2">
     <span class="text-uppercase">Height</span>
     <span class="text-muted">_</span>
@@ -178,7 +171,7 @@ place 'hide' before 'carousel slide'
     <span class="text-uppercase">Weight</span>
     <span class="text-muted">_</span>
   </div>
- 
+  
   <div class="col-md-6 d-flex justify-content-between p-2">
     <span class="text-uppercase">Marital Status</span>
     <span class="text-muted">_</span>
@@ -582,7 +575,7 @@ place 'hide' before 'carousel slide'
 <!-- ----------------------------
 
 
-          WORK LIFE
+          WORK & School
 
 
 ----------------------------- -->
@@ -615,6 +608,58 @@ place 'hide' before 'carousel slide'
 </div>
 </div>
 </div>
+
+<!-- ----------------------------
+
+          School
+
+
+----------------------------- --> 
+
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+          • Basic Education •
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>School</h2><hr>
+<ul class="mb-0">
+  <li><b>School :</b> (school name)</li>
+  <li><b>Student :</b> (Yes or No)</li>
+  <li><b>Year :</b> (what year they're currently in or highest attended)</li>
+  <li><b>Grad Year:</b> (what year they graduate/d)</li>
+</ul><br>
+<p>• include details regarding the their time there, teacher interactions, student interactions, etc..</p>
+</div>
+<!-- ----------------------------
+
+            Extracurricular
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>Extracurricular</h2><hr>
+<ul class="mb-0">
+   <li><b>EC :</b> _</li>
+   <li><b>Role :</b> _</li>
+</ul><br>
+<p>• include details about this EC activity</p>
+</div>
+
+<!-----------------------------------
+
+          Copy and Paste the below code over the dashed line above to add another EC activity they participate or participated in
+
+<ul class="mb-0">
+   <li><b>EC :</b> _</li>
+   <li><b>Role :</b> _</li>
+</ul><br>
+<p>• include details about this EC activity</p>
+</div>
+
+-------------------------------->
+</div>
+</div>
+
 
 <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-sword fa-fw mr-1" />Combat</h1><hr>
 <!-- ----------------------------
