@@ -3,9 +3,14 @@
   <div class="card bg-faded m-1 p-1 sticky-top text-center text-uppercase text-muted" style="letter-spacing:1px;"><p>
     <span class="hidden-md-up"><a href="#top">Top</a> . </span>
     <a href="#notes">Appearance</a> . 
+    <a href="#personal">Personal Info</a> . 
     <a href="#personality">Personality</a> . 
-    <a href="#trivia">Trivia</a> . 
-    <a href="#preferences">Preferences</a> . 
+    <a href="#likes">Likes & Dislikes</a> . 
+    <a href="#hobbies">Hobbies</a> . 
+    <a href="#fears">Fears</a> . 
+    <a href="#work">Work</a> . 
+    <a href="#school">School</a> . 
+    <a href="#combat">Combat</a> .
     <a href="#history">History</a> . 
     <a href="#links">Relationships</a>
   </p></div>
@@ -159,6 +164,33 @@
       </div>
       
     </div>
+
+    <!-- ------------------------
+  
+                ADDITIONAL IMAGES
+    
+    -------------------------- -->
+    <div class="card border-left-0 border-right-0 rounded-0" style="min-height:350px;background: 
+      
+      url(IMG URL) center no-repeat;background-size:cover;">
+      
+    </div>
+
+<!-- --------------------------
+
+         As you continue filling in information about your character, the sidebar will continue to expand.
+         If you wish to fill the blank space with images copy and paste the code below to add more images
+
+          ► You can adjust the height by changing the min-height from 350 to a number of your choosing
+
+    <div class="card border-left-0 border-right-0 rounded-0" style="min-height:350px;background: 
+
+      url(IMG URL) center no-repeat;background-size:cover;">
+      
+    </div>
+
+------------------------------>
+
   </div>
   </div>
   <div class="col-xl-9 pull-xl-3 col-lg-8 pull-lg-4 row no-gutters">
@@ -174,7 +206,7 @@
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary">Appearance</span>
-    <i class="fas fa-astronaut fa-fw mt-auto"></i>
+    <i class="fas fa-user-astronaut fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
   <ul class="m-0 pl-5 py-2 text-muted">
@@ -208,48 +240,148 @@
   
   
   --------------------------------- -->
-  <div class="col-lg-7 p-1" id="personality">
+  <div class="col-lg-7 p-1" id="personal">
   <div class="card bg-faded d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
-    <span class="text-primary">Personality</span>
-    <i class="fas fa-heart fa-fw mt-auto"></i>
+    <span class="text-primary">Personal Info</span>
+    <i class="fas fa-book-open fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
   <div class="p-2 text-muted">
     
     
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis mauris vel nisi tempus mollis sit amet in sapien. Vivamus vitae egestas elit, congue dapibus ex. Nam id elit sed enim feugiat consequat. Proin sit amet accumsan mi. Vestibulum scelerisque, orci a volutpat malesuada, nisl turpis blandit neque, in volutpat enim lacus sit amet leo. Donec convallis iaculis risus in volutpat. Aliquam id metus mi. Nulla purus diam, laoreet convallis sollicitudin pharetra, vestibulum in nisl. Nunc ut turpis massa. Aenean tellus sapien, rutrum eget pharetra at, vestibulum nec sapien. Nulla varius massa non consequat vulputate.
-    </p>
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-home text-uppercase"> Residence</span>
+        <span><br>residence</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-car text-uppercase"> Transportation</span>
+        <span><br>vroom, vroom</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-dog text-uppercase"> Pets</span>
+        <span><br>arf, arf</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-deer text-uppercase"> Familiar</span>
+        <span><br>a magical pet, kinda</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-lips text-uppercase"> Languages</span>
+        <span><br>how they use that mouth?</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-cross text-uppercase"> Religion</span>
+        <span><br>Jesus? Allah? Loki?</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-frown text-uppercase"> Disabilities</span>
+        <span><br>what's the damage?</span>
+      </div>
+      
+      
+    </div>
     
-    
   </div>
   </div>
   </div>
-  <!-- -------------------------------
+<!-- -------------------------------
   
   
-                TRIVIA
+                PERSONALITY
   
   
   --------------------------------- -->
-  <div class="col-12 p-1" id="trivia">
+  <div class="col-lg-6 p-1" id="personality">
   <div class="card bg-faded d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
-    <span class="text-primary">Trivia</span>
-    <i class="fas fa-user fa-fw mt-auto"></i>
+    <span class="text-primary">Personality</span>
+    <i class="fas fa-heartbeat fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
   <ul class="m-0 pl-5 py-2 text-muted">
     
     
-    <li>Cras dictum vestibulum suscipit. Sed facilisis finibus sapien, ac vestibulum erat maximus vel.</li>
-    <li>Maecenas laoreet, enim ut ornare accumsan, ante nibh tristique ex, vitae laoreet purus mi a sapien.</li>
-    <li>Donec risus quam, efficitur non purus lobortis, tincidunt finibus ante. Pellentesque id congue risus.</li>
-    <li>Nullam egestas velit vitae purus ultricies suscipit. Nullam tincidunt eros tortor, nec placerat nunc interdum eu. </li>
-    <li>Curabitur eget posuere lectus.</li>
+         <li><b>Demeanor :</b>
+         <br>
+         _ </li>
+         <br>
+         <br>
+         <li><b>Reality :</b>
+         <br>
+         _ </li>
+         <br>
+         <br>
+         <li><b>Reason :</b>
+         <br>
+         _ </li>
+    
+    
+  </ul>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+               PERSONALITY PART 2
+  
+              1. Positive & Negative Traits
+              List as many as you want / can think of. These are a big part of what make your character unique.
+            
+            2. Mental Disorders
+              – If they have none, erase the second bullet and mark "1" as None
+              – If they have more than 2, feel free to throw down a "<br> • 3" and so on to keep it going
+              
+                !! Feel free to include how they developed these disorders !!
+  
+  --------------------------------- -->
+  <div class="col-lg-6 p-1">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">🌟</span>
+    <i class="fas fa-heartbeat fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <ul class="m-0 pl-5 py-2 text-muted">
+    
+    
+         <li><b>Positive Traits :
+         </b>
+         <br>
+           • 1 <br>
+           • 2 <br>
+           • 3 </li>
+           <br>
+            <br>
+         <li><b>Negative Traits :</b>
+          <br>
+           • 1 <br>
+           • 2 <br>
+           • 3 </li>
+         <br>
+          <br>
+          <li><b>Mental Disorders :</b>
+          <br>
+           • 1 <br>
+           • 2 <br>
+          </li>
     
     
   </ul>
@@ -262,21 +394,24 @@
   
   
   --------------------------------- -->
-  <div class="col-lg-6 p-1" id="preferences">
+  <div class="col-lg-6 p-1" id="likes">
   <div class="card bg-faded d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary">Likes</span>
-    <i class="fas fa-user-plus fa-fw mt-auto"></i>
+    <i class="fas fa-check fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-  <ul class="m-0 pl-5 py-2 text-muted">
-    
-    
-    <li>Tincidunt</li>
-    <li>Malesuada</li>
-    <li>Quisque</li>
-    <li>Aliquam</li>
+<ul class="card-block text-left list-unstyled">
+ <li>
+  <i class="fa fa-check"></i> Like
+ </li>
+ <li>
+  <i class="fa fa-check"></i> Like
+ </li>
+ <li>
+  <i class="fa fa-check"></i> Like
+ </li>
     
     
   </ul>
@@ -294,21 +429,259 @@
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary">Dislikes</span>
-    <i class="fas fa-user-times fa-fw mt-auto"></i>
+    <i class="fas fa-times fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-  <ul class="m-0 pl-5 py-2 text-muted">
-    
-    
-    <li>Tincidunt</li>
-    <li>Malesuada</li>
-    <li>Quisque</li>
-    <li>Aliquam</li>
+<ul class="card-block text-left list-unstyled">
+ <li>
+  <i class="fa fa-times"></i> Dislike
+ </li>
+ <li>
+  <i class="fa fa-times"></i> Dislike
+ </li>
+ <li>
+  <i class="fa fa-times"></i> Dislike
+ </li>
     
     
   </ul>
   </div>
   </div>
+  <!-- -------------------------------
+  
+  
+                HOBBIES
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-6 p-1" id="hobbies">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Hobbies</span>
+    <i class="fas fa-stars fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+<ul class="card-block text-left list-unstyled">
+ <li>
+  <i class="fa fa-stars"></i> Hobby
+ </li>
+ <li>
+  <i class="fa fa-stars"></i> Hobby
+ </li>
+ <li>
+  <i class="fa fa-stars"></i> Hobby
+ </li>
+    
+    
+  </ul>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+               FEARS
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-6 p-1" id="fears">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Fears</span>
+    <i class="fas fa-spider fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+<ul class="card-block text-left list-unstyled">
+ <li>
+  <i class="fa fa-spider"></i> Fear
+ </li>
+ <li>
+  <i class="fa fa-spider"></i> Fear
+ </li>
+ <li>
+  <i class="fa fa-spider"></i> Fear
+ </li>
+    
+    
+  </ul>
+  </div>
+  </div>
+<!-- ----------------------------
+
+             THE HUNTSMEN ORGANIZATION
+
+             NOTE – 
+              How it works:
+               Huntsmen work like wolf packs with the exception of all ranks and roles serving under a King and Queen.
+
+             • Ranks :
+              – Pup - The youngest generation who are fresh to the field (17 to 25 yrs old)
+              – Wolf - Prime generation known for finding killing to be pure bliss (25 to 50 yrs old)
+              – Old Dog - The well seasoned generation who are finding new, easier ways to do things (50+ yrs old)
+
+              PACKS:
+              • There are multiple packs per rank
+              • There is 1 male and 1 female Alpha and Beta
+                ► IT IS OKAY TO CREATE YOUR OWN PACK
+                 — Just be sure to recruit other Huntsmen into your pack
+                 — A pack can run on a minimum of 4 members (Alpha, Beta, Omega, and Sub)
+
+               • Roles :
+                – King - the Leader of all Huntsmen; not guaranteed to be the oldest
+                – Queen - the King's wife and right hand; if the King's wife is dead she may be replaced by a Senior Alpha or offspring
+
+                  – Alpha (pack leaders, strongest)
+                  – Beta (second in command, second strongest)
+                    – Omega (weakest)
+                      – Subordinate (anyone who is not A, B, or O)
+
+               TEACHERS:
+                • Everyone has had a teacher; they are either an older Wolf or Old Dog
+                  ► View the list to select a teacher
+
+               PARTNERS:
+                • Everyone has 1-3 partners
+                • Partners primarily exist within the pack; 1/3 partners can be from a different pack
+                  ► View the list to select partners
+
+             • Partners tend to be of the same rank and are official as of Swan Rank
+               ► Both Mentors and Partners have an official list; please keep in mind that you need to ask the owners of the characters you are associating with if your character can be their student (current or present) or partner before writing it down
+
+----------------------------- --> 
+  <div class="col-lg-6 p-1" id="work">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Huntsmen</span>
+    <i class="fas fa-dog fa-fw mt-auto"></i>
+  </div><hr class="my-1">
+  
+    <ul class="mb-0">
+      <li><b>Rank :</b> _</li>
+      <li><b>Role :</b> _</li>
+      <br>
+      <br>
+      <li><b><a href="_">Teacher</a> :</b> _</li>
+      <li><b><a href="_">Partner(s)</a> :</b> _</li>
+<!-- ----------------------------
+                IMPERINOV WORKER
+                
+                  Imperinov is a 3rd Generation inclusion; until it is officially unveiled PLEASE DO NOT INCLUDE THE FOLLOWING CODE
+
+      <br>
+      <br>
+      <li><b>Imperinov :</b> _</li>
+      <li><b>Role :</b> _</li>
+------------------------------>
+
+    </ul>
+      <br>
+        <p>• include details regarding the jobs, others they encounter/work with, work tactics, etc.</p>
+
+    </div>
+  </div>
+
+  <!-- -------------------------------
+  
+  
+               DAY JOB
+  
+                If your character has more than one Day Job please feel free to add on to the list
+  
+  --------------------------------- -->
+
+  <div class="col-lg-6 p-1">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Day Job</span>
+    <i class="fas fa-building fa-fw mt-auto"></i>
+    
+    </div><hr class="my-1">
+      <ul class="mb-0">
+       <li><b>Day Job :</b> _</li>
+       <li><b>Position :</b> _</li>
+      </ul><br>
+      <p>• include details about their Day Job here; including co-workers, their thoughts on their job, interactions with others, etc.</p>
+    
+<!-- ---------------
+
+         Paste all additional jobs above this line
+
+        CODE:
+
+      <ul class="mb-0">
+       <li><b>Day Job :</b> _</li>
+       <li><b>Position :</b> _</li>
+      </ul><br>
+      <p>• include details about their Day Job here; including co-workers, their thoughts on their job, interactions with others, etc.</p>
+
+---------------->
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+                SCHOOL
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-6 p-1" id="school">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Hobbies</span>
+    <i class="fas fa-stars fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+<ul class="card-block text-left list-unstyled">
+  <li><b>School :</b> (school name)</li>
+  <li><b>Student :</b> (Yes or No)</li>
+  <li><b>Year :</b> (what year they're currently in or highest attended)</li>
+  <li><b>Grad Year:</b> (what year they graduate/d)</li>
+</ul><br>
+<p>• include details regarding the their time there, teacher interactions, student interactions, etc..</p>
+    
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+               EXTRACURRICULAR
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-6 p-1">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Extracurricular</span>
+    <i class="fas fa-spider fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+<ul class="card-block text-left list-unstyled">
+   <li><b>EC :</b> _</li>
+   <li><b>Role :</b> _</li>
+</ul><br>
+<p>• include details about this EC activity</p>
+
+<!-- ---------------------------------
+
+Copy and paste the following text above the line to add additional Extracurricular activities
+
+<ul class="card-block text-left list-unstyled">
+   <li><b>EC :</b> _</li>
+   <li><b>Role :</b> _</li>
+</ul><br>
+<p>• include details about this EC activity</p>
+
+------------------------------------->
+
+  </div>
+  </div>
+
+
   <!-- -------------------------------
   
   
@@ -321,15 +694,47 @@
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary">History</span>
-    <i class="fas fa-book fa-fw mt-auto"></i>
+    <i class="fas fa-books fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
   <div class="p-2 text-muted">
     
     
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis mauris vel nisi tempus mollis sit amet in sapien. Vivamus vitae egestas elit, congue dapibus ex. Nam id elit sed enim feugiat consequat. Proin sit amet accumsan mi. Vestibulum scelerisque, orci a volutpat malesuada, nisl turpis blandit neque, in volutpat enim lacus sit amet leo. Donec convallis iaculis risus in volutpat. Aliquam id metus mi. Nulla purus diam, laoreet convallis sollicitudin pharetra, vestibulum in nisl. Nunc ut turpis massa. Aenean tellus sapien, rutrum eget pharetra at, vestibulum nec sapien. Nulla varius massa non consequat vulputate.
-    </p>
+  <!-- use float-left to push to the left side | disappears on mobile
+  
+              NOTES —
+  
+  1. Feel free to remove <img src="IMG URL" class="float-right p-2 hidden-sm-down">
+      from the code if it is undesired
+  
+  2. Things to include in your character's history:
+    • Criminal experiences
+    • Social standings
+    • Important past events that had a major impact on them and may still affet them today
+
+    • THE REASON WHY THEY ARE A CLOSER
+
+  3.When writing out their history, be sure to
+     – Use <br> to create a single line break
+     – Use <br><br> to create a double line break
+  
+  ----------------------->
+  
+  <img src="IMG URL" 
+  class="float-right p-2 hidden-sm-down">
+  
+  <p>WRITE OUT THEIR<br>
+  HISTORY HERE!
+  <br>
+  <br>
+  WRITE OUT THEIR HISTORY HERE!</p>
+  <br><br>
+<h2>Additional Notes</h2><hr>
+  <ul class="card-block text-left list-unstyled">
+ <li><i class="fa fa-stars"></i> Note</li><br><br>
+ <li><i class="fa fa-stars"></i> Note</li><br><br>
+ <li><i class="fa fa-stars"></i> Note</li>
+</ul>
     
     
   </div>
