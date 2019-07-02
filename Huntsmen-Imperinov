@@ -2,7 +2,7 @@
   
   <div class="card bg-faded m-1 p-1 sticky-top text-center text-uppercase text-muted" style="letter-spacing:1px;"><p>
     <span class="hidden-md-up"><a href="#top">Top</a> . </span>
-    <a href="#notes">Design Notes</a> . 
+    <a href="#notes">Appearance</a> . 
     <a href="#personality">Personality</a> . 
     <a href="#trivia">Trivia</a> . 
     <a href="#preferences">Preferences</a> . 
@@ -23,6 +23,8 @@
     <!-- ------------------------
   
                 NAME
+
+                NOTE — this can be their Legal or Hunter name
     
     -------------------------- -->
     <div class="text-primary text-center text-uppercase display-4 p-3" style="font-size:22px;letter-spacing:1px">
@@ -50,56 +52,110 @@
     <div class="row no-gutters p-3">
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Hunter Name</span>
+        <span><br>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Legal Name</span>
+        <span><br>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Nickname</span>
+        <span><br>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Birthday</span>
+        <span><br>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Age</span>
-        <span>info</span>
+        <span><br>info</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Build</span>
-        <span>info</span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Species</span>
-        <span>info</span>
+        <span class="text-muted text-uppercase">Zodiacs</span>
+        <span><br>info</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Gender</span>
-        <span>info</span>
+        <span><br>info</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Orientation</span>
-        <span>info</span>
+        <span><br>info</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Pronouns</span>
-        <span>info</span>
+        <span class="text-muted text-uppercase">Race</span>
+        <span><br>(Changeling, Human, or Vex)</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Occupation</span>
-        <span>info</span>
+        <span class="text-muted text-uppercase">Heritage</span>
+        <span><br>(ei: Chinese-Italian)</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Creator</span>
-        <span>@thot</span>
+        <span class="text-muted text-uppercase">Magic</span>
+        <span><br>(if they are a Vex)</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Blessing</span>
+        <span><br>(if they've been blessed)</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Height</span>
+        <span><br>_' _"</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Weight</span>
+        <span><br>_ lbs</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Marital Status</span>
+        <span><br>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">S/O</span>
+        <a href="_"><br>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Residence</span>
+        <span><br>info</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Theme</span>
-        <a href="">song</span>
+        <a href=""><br>song</span>
       </div>
       
     </div>
@@ -109,7 +165,7 @@
   <!-- -------------------------------
   
   
-              DESIGN NOTES
+              Appearance
   
   
   --------------------------------- -->
@@ -117,19 +173,31 @@
   <div class="card bg-faded d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
-    <span class="text-primary">Design Notes</span>
-    <i class="fas fa-book-open fa-fw mt-auto"></i>
+    <span class="text-primary">Appearance</span>
+    <i class="fas fa-astronaut fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
   <ul class="m-0 pl-5 py-2 text-muted">
     
-    
-    <li>Curabitur vel mauris ac nulla pulvinar dictum</li>
-    <li>Phasellus sollicitudin mauris tempor</li>
-    <li>Nullam nec neque eget tortor hendrerit dictum a et massa</li>
-    <li>Pellentesque rutrum quam non ipsum egestas</li>
-    
-    
+   <li><b>Skin :</b> _</li>
+   <li><b>Eyes :</b> _</li>
+   <li><b>Hair :</b> <i>(color, style)</i></li>
+   <br>
+   <br>
+   <li><b>Body Type :</b> _</li>
+   <li><b>Tattoos :</b> _</li>
+   <li><b>Scars/Marks :</b> _</li>
+   <br>
+   <br>
+   <br>
+   <li><b>Casual Wear :</b> _</li>
+   <br>
+   <br>
+   <li><b>Formal Wear :</b> _</li>
+   <br>
+   <br>
+   <li><b>Work Wear :</b> _</li>
+
   </ul>
   </div>
   </div>
