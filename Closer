@@ -373,6 +373,88 @@
 <!-- ----------------------------
 
 
+          Personality
+
+
+----------------------------- -->
+<div class="preferences">
+<div class="row no-gutters" style="margin:-8px;">
+<!-- ----------------------------
+
+             PART 1
+
+             NOTES —
+             1. What is a demeanor?
+               A : Outward expression; how they let the world see them
+               
+             2. What do you mean by reality?
+               A : Their true personality, what they're like with the people they trust most
+             
+             3. What do I put for "Reason"?
+               A : Tell us why your character's Demeanor is different from or the same as Reality.
+
+----------------------------- --> 
+<div class="col-lg-6 p-2 mb-5"><h2>Personality</h2><hr>
+       <ul class="mb-0">
+         <li><b>Demeanor :</b>
+         <br>
+         _ </li>
+         <br>
+         <br>
+         <li><b>Reality :</b>
+         <br>
+         _ </li>
+         <br>
+         <br>
+         <li><b>Reason :</b>
+         <br>
+         _ </li>
+        </ul>  
+</div>
+<!-- ----------------------------
+
+            PART 2
+
+            1. Positive & Negative Traits
+              List as many as you want / can think of. These are a big part of what make your character unique.
+            
+            2. Mental Disorders
+              – If they have none, erase the second bullet and mark "1" as None
+              – If they have more than 2, feel free to throw down a "<br> • 3" and so on to keep it going
+              
+                !! Feel free to include how they developed these disorders !!
+
+----------------------------- -->
+<div class="col-lg-6 p-2 mb-5"><h2>🌟</h2><hr>
+<ul class="mb-0">
+         <li><b>Positive Traits :
+         </b>
+         <br>
+           • 1 <br>
+           • 2 <br>
+           • 3 </li>
+           <br>
+            <br>
+         <li><b>Negative Traits :</b>
+          <br>
+           • 1 <br>
+           • 2 <br>
+           • 3 </li>
+         <br>
+          <br>
+          <li><b>Mental Disorders :</b>
+          <br>
+           • 1 <br>
+           • 2 <br>
+          </li>
+        </ul>
+
+</div>
+</div>
+</div>
+<!-- ----------------------------
+
+
           Family & Familiars
 
 
