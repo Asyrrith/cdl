@@ -1,0 +1,408 @@
+<div class="container p-0">
+  
+  <div class="card bg-faded m-1 p-1 sticky-top text-center text-uppercase text-muted" style="letter-spacing:1px;"><p>
+    <span class="hidden-md-up"><a href="#top">Top</a> . </span>
+    <a href="#notes">Design Notes</a> . 
+    <a href="#personality">Personality</a> . 
+    <a href="#trivia">Trivia</a> . 
+    <a href="#preferences">Preferences</a> . 
+    <a href="#history">History</a> . 
+    <a href="#links">Relationships</a>
+  </p></div>
+  
+  <div class="row no-gutters">
+  <!-- -------------------------------
+  
+  
+                SIDEBAR
+  
+  
+  --------------------------------- -->
+  <div class="col-xl-3 push-xl-9 col-lg-4 push-lg-8 p-1">
+  <div class="card bg-faded d-block h-100">
+    <!-- ------------------------
+  
+                NAME
+    
+    -------------------------- -->
+    <div class="text-primary text-center text-uppercase display-4 p-3" style="font-size:22px;letter-spacing:1px">
+      
+      Name
+      
+    </div>
+    <!-- ------------------------
+  
+                AVATAR
+    
+    -------------------------- -->
+    <div class="card border-left-0 border-right-0 rounded-0" style="min-height:350px;background: 
+      
+      
+      url(IMG URL) center no-repeat;background-size:cover;">
+      
+      
+    </div>
+    <!-- ------------------------
+  
+                INFO
+    
+    -------------------------- -->
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Age</span>
+        <span>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Build</span>
+        <span>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Species</span>
+        <span>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Gender</span>
+        <span>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Orientation</span>
+        <span>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Pronouns</span>
+        <span>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Occupation</span>
+        <span>info</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Creator</span>
+        <span>@thot</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Theme</span>
+        <a href="">song</span>
+      </div>
+      
+    </div>
+  </div>
+  </div>
+  <div class="col-xl-9 pull-xl-3 col-lg-8 pull-lg-4 row no-gutters">
+  <!-- -------------------------------
+  
+  
+              DESIGN NOTES
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-5 p-1" id="notes">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Design Notes</span>
+    <i class="fas fa-book-open fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <ul class="m-0 pl-5 py-2 text-muted">
+    
+    
+    <li>Curabitur vel mauris ac nulla pulvinar dictum</li>
+    <li>Phasellus sollicitudin mauris tempor</li>
+    <li>Nullam nec neque eget tortor hendrerit dictum a et massa</li>
+    <li>Pellentesque rutrum quam non ipsum egestas</li>
+    
+    
+  </ul>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+              PERSONALITY
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-7 p-1" id="personality">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Personality</span>
+    <i class="fas fa-heart fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <div class="p-2 text-muted">
+    
+    
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis mauris vel nisi tempus mollis sit amet in sapien. Vivamus vitae egestas elit, congue dapibus ex. Nam id elit sed enim feugiat consequat. Proin sit amet accumsan mi. Vestibulum scelerisque, orci a volutpat malesuada, nisl turpis blandit neque, in volutpat enim lacus sit amet leo. Donec convallis iaculis risus in volutpat. Aliquam id metus mi. Nulla purus diam, laoreet convallis sollicitudin pharetra, vestibulum in nisl. Nunc ut turpis massa. Aenean tellus sapien, rutrum eget pharetra at, vestibulum nec sapien. Nulla varius massa non consequat vulputate.
+    </p>
+    
+    
+  </div>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+                TRIVIA
+  
+  
+  --------------------------------- -->
+  <div class="col-12 p-1" id="trivia">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Trivia</span>
+    <i class="fas fa-user fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <ul class="m-0 pl-5 py-2 text-muted">
+    
+    
+    <li>Cras dictum vestibulum suscipit. Sed facilisis finibus sapien, ac vestibulum erat maximus vel.</li>
+    <li>Maecenas laoreet, enim ut ornare accumsan, ante nibh tristique ex, vitae laoreet purus mi a sapien.</li>
+    <li>Donec risus quam, efficitur non purus lobortis, tincidunt finibus ante. Pellentesque id congue risus.</li>
+    <li>Nullam egestas velit vitae purus ultricies suscipit. Nullam tincidunt eros tortor, nec placerat nunc interdum eu. </li>
+    <li>Curabitur eget posuere lectus.</li>
+    
+    
+  </ul>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+                LIKES
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-6 p-1" id="preferences">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Likes</span>
+    <i class="fas fa-user-plus fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <ul class="m-0 pl-5 py-2 text-muted">
+    
+    
+    <li>Tincidunt</li>
+    <li>Malesuada</li>
+    <li>Quisque</li>
+    <li>Aliquam</li>
+    
+    
+  </ul>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+               DISLIKES
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-6 p-1">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Dislikes</span>
+    <i class="fas fa-user-times fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <ul class="m-0 pl-5 py-2 text-muted">
+    
+    
+    <li>Tincidunt</li>
+    <li>Malesuada</li>
+    <li>Quisque</li>
+    <li>Aliquam</li>
+    
+    
+  </ul>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+                HISTORY
+  
+  
+  --------------------------------- -->
+  <div class="col-12 p-1" id="history">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">History</span>
+    <i class="fas fa-book fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <div class="p-2 text-muted">
+    
+    
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis mauris vel nisi tempus mollis sit amet in sapien. Vivamus vitae egestas elit, congue dapibus ex. Nam id elit sed enim feugiat consequat. Proin sit amet accumsan mi. Vestibulum scelerisque, orci a volutpat malesuada, nisl turpis blandit neque, in volutpat enim lacus sit amet leo. Donec convallis iaculis risus in volutpat. Aliquam id metus mi. Nulla purus diam, laoreet convallis sollicitudin pharetra, vestibulum in nisl. Nunc ut turpis massa. Aenean tellus sapien, rutrum eget pharetra at, vestibulum nec sapien. Nulla varius massa non consequat vulputate.
+    </p>
+    
+    
+  </div>
+  </div>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+             RELATIONSHIPS
+  
+  
+  --------------------------------- -->
+  <div class="col-12 p-1" id="links">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Relationships</span>
+    <i class="fas fa-users fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <div class="row no-gutters table-responsive" style="max-height:350px">
+    <!-- ------------------------
+  
+                 01
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="IMG URL" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    <!-- ------------------------
+  
+                 02
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="IMG URL" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    <!-- ------------------------
+  
+                 03
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="IMG URL" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    <!-- ------------------------
+  
+                 04
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="IMG URL" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    
+    
+  <!-- add more above this line -->  
+  </div>
+  </div>
+  </div>
+  </div>
+  <!-- CREDIT | do not remove -- -->
+  <a class="d-block text-right p-1" style="font-size:12px" href="https://toyhou.se/vomcodesstuff"><i class="fal fa-code tooltipster" data-placement="left" title="HTML by Vom"></i></a>
+</div>
