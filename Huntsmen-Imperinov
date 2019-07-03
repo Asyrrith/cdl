@@ -220,28 +220,65 @@
     <i class="fas fa-user-astronaut fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-  <ul class="m-0 pl-5 py-2 text-muted">
-    
-   <li><b>Skin :</b> _</li>
-   <li><b>Eyes :</b> _</li>
-   <li><b>Hair :</b> <i>(color, style)</i></li>
-   <br>
-   <br>
-   <li><b>Body Type :</b> _</li>
-   <li><b>Tattoos :</b> _</li>
-   <li><b>Scars/Marks :</b> _</li>
-   <br>
-   <br>
-   <br>
-   <li><b>Casual Wear :</b> _</li>
-   <br>
-   <br>
-   <li><b>Formal Wear :</b> _</li>
-   <br>
-   <br>
-   <li><b>Work Wear :</b> _</li>
-
-  </ul>
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Skin</span>
+        <span>#000000</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Eyes</span>
+        <span>#000000</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Hair</span>
+        <span>#000000<br>
+        [style]</span>
+      </div>
+      
+      <br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Body Type</span>
+        <span>[explain]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Tattoos</span>
+        <span>Got Ink?</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Scars/Marks</span>
+        <span>From battle or birth</span>
+      </div>
+      
+      <br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Casual Wear</span>
+        <span>Them relaxed clothes</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Formal Wear</span>
+        <span>Tux? Gown? Juggalo?</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Work Wear</span>
+        <span>What you go to work in, homie?</span>
+      </div>
+      
+    </div>
   </div>
   </div>
   <!-- -------------------------------
@@ -315,6 +352,17 @@
   
   
                 PERSONALITY
+
+                PART 1
+
+                 1. What is a DEMEANOR?
+                   A : Outward expression; how they let the world see them
+                   
+                 2. What do you mean by REALITY?
+                   A : Their true personality, what they're like with the people they trust most
+                 
+                 3. What do I put for "REASON"?
+                   A : Tell us why your character's Demeanor is different from or the same as Reality.
   
   
   --------------------------------- -->
@@ -326,25 +374,29 @@
     <i class="fas fa-heartbeat fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-  <ul class="m-0 pl-5 py-2 text-muted">
-    
-    
-         <li><b>Demeanor :</b>
-         <br>
-         _ </li>
-         <br>
-         <br>
-         <li><b>Reality :</b>
-         <br>
-         _ </li>
-         <br>
-         <br>
-         <li><b>Reason :</b>
-         <br>
-         _ </li>
-    
-    
-  </ul>
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Demeanor</span>
+        <span>_</span>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Reality</span>
+        <span>_</span>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Reason</span>
+        <span>_</span>
+      </div>
+      
+      
+    </div>
   </div>
   </div>
   <!-- -------------------------------
@@ -370,34 +422,156 @@
     <i class="fas fa-heartbeat fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-  <ul class="m-0 pl-5 py-2 text-muted">
-    
-    
-         <li><b>Positive Traits :
-         </b>
-         <br>
-           • 1 <br>
-           • 2 <br>
-           • 3 </li>
-           <br>
-            <br>
-         <li><b>Negative Traits :</b>
-          <br>
-           • 1 <br>
-           • 2 <br>
-           • 3 </li>
-         <br>
-          <br>
-          <li><b>Mental Disorders :</b>
-          <br>
-           • 1 <br>
-           • 2 <br>
-          </li>
-    
-    
-  </ul>
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Positive Traits</span>
+        <span>Positive <br>
+        Positive <br>
+        Positive </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Negative Traits</span>
+        <span>Negative <br>
+        Negative <br>
+        Negative </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Mental Disorders</span>
+        <span>Disorder <br>
+        Disorder </span>
+      </div>
+      
+      
+    </div>
   </div>
   </div>
+
+<!-- ----------------------------
+
+            FAMILY
+
+
+----------------------------- -->
+
+  <div class="col-lg-6 p-1">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Family</span>
+    <i class="fas fa-users fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Mother</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Father</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Sibling</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Sibling</span>
+        <span>[info] </span>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">S/O</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Child</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Child</span>
+        <span>[info] </span>
+      </div>
+
+
+<!-- ------------------------------------
+
+          ADD MORE OR CHANGE AS NECESSARY
+
+--------------------------------------->
+
+      
+    </div>
+</div>
+</div>
+
+
+<!-- ----------------------------
+
+            FAMILIARS
+
+----------------------------- -->
+  <div class="col-lg-6 p-1">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Familiar</span>
+    <i class="fas fa-deer fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Name</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Species</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Power</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Appearance</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Details</span>
+        <span>[info] </span>
+      </div>
+      
+    </div>
+</div>
+</div>
+
+
   <!-- -------------------------------
   
   
@@ -567,33 +741,40 @@
     <span class="text-primary">Huntsmen</span>
     <i class="fas fa-dog fa-fw mt-auto"></i>
   </div><hr class="my-1">
-  
-    <ul class="mb-0">
-      <li><b>Rank :</b> _</li>
-      <li><b>Role :</b> _</li>
-      <br>
-      <br>
-      <li><b><a href="_">Teacher</a> :</b> _</li>
-      <li><b><a href="_">Partner(s)</a> :</b> _</li>
-<!-- ----------------------------
-                IMPERINOV WORKER
-                
-                  Imperinov is a 3rd Generation inclusion; until it is officially unveiled PLEASE DO NOT INCLUDE THE FOLLOWING CODE
+      <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Rank</a></span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Role</a></span>
+        <span>[info] </span>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Teacher</a></span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Partner</a></span>
+        <span>[info] </span>
+      </div>
+      
+    </div>
 
-      <br>
-      <br>
-      <li><b>Imperinov :</b> _</li>
-      <li><b>Role :</b> _</li>
------------------------------->
-
-    </ul>
-      <br>
-        <p>• include details regarding the jobs, others they encounter/work with, work tactics, etc.</p>
+<p> Include details regarding the jobs, others they encounter/work with, work tactics, etc. </p>
 
     </div>
   </div>
 
-  <!-- -------------------------------
+   <!-- -------------------------------
   
   
                DAY JOB
@@ -610,25 +791,38 @@
     <i class="fas fa-building fa-fw mt-auto"></i>
     
     </div><hr class="my-1">
-      <ul class="mb-0">
-       <li><b>Day Job :</b> _</li>
-       <li><b>Position :</b> _</li>
-      </ul><br>
-      <p>• include details about their Day Job here; including co-workers, their thoughts on their job, interactions with others, etc.</p>
-    
-<!-- ---------------
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Day Job</a></span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Position</a></span>
+        <span>[info] </span>
+      </div>
+    </div>
 
-         Paste all additional jobs above this line
+<p> Include details about their Day Job here; including co-workers, their thoughts on their job, interactions with others, etc. </p>
 
-        CODE:
+<!-- REMOVE THIS LINE ---- IF YOUR CHARACTER HAS A SECOND DAY JOB ----
 
-      <ul class="mb-0">
-       <li><b>Day Job :</b> _</li>
-       <li><b>Position :</b> _</li>
-      </ul><br>
-      <p>• include details about their Day Job here; including co-workers, their thoughts on their job, interactions with others, etc.</p>
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Day Job</a></span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Position</a></span>
+        <span>[info] </span>
+      </div>
+    </div>
 
----------------->
+---- REMOVE THIS LINE ---- IF YOUR CHARACTER HAS A SECOND DAY JOB -->
+
   </div>
   </div>
   <!-- -------------------------------
@@ -636,6 +830,15 @@
   
                 SCHOOL
   
+                HOW TO FILL OUT THIS SECTION
+
+                ► SCHOOL : Name of the school your character attends or attended in the past
+            
+                ► STATUS : Attending, Expelled / Expulsion, Dropped Out, Graduated
+            
+                ► YEAR : Current attending year or highest year completed
+                
+                ► GRAD YEAR : The year they are set to graduate or did graduate
   
   --------------------------------- -->
   <div class="col-lg-6 p-1" id="school">
@@ -646,16 +849,37 @@
     <i class="fas fa-school fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-<ul class="card-block text-left list-unstyled">
-  <li><b>School :</b> (school name)</li>
-  <li><b>Student :</b> (Yes or No)</li>
-  <li><b>Year :</b> (what year they're currently in or highest attended)</li>
-  <li><b>Grad Year:</b> (what year they graduate/d)</li>
-</ul><br>
-<p>• include details regarding the their time there, teacher interactions, student interactions, etc..</p>
-    
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">School</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Status</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Year</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Grad Year</span>
+        <span>[info] </span>
+      </div>
+    </div>
+
+    <p>Include details regarding the their time there, teacher interactions, student interactions, etc..</p>
+
   </div>
   </div>
+
   <!-- -------------------------------
   
   
@@ -671,27 +895,37 @@
     <i class="fas fa-chess fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-<ul class="card-block text-left list-unstyled">
-   <li><b>EC :</b> _</li>
-   <li><b>Role :</b> _</li>
-</ul><br>
-<p>• include details about this EC activity</p>
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Activity</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Role</span>
+        <span>[info] </span>
+      </div>
 
-<!-- ---------------------------------
+    <p>Include details regarding the their time there, interactions with others who also partake in this activity, etc..</p>
 
-Copy and paste the following text above the line to add additional Extracurricular activities
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Activity</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Role</span>
+        <span>[info] </span>
+      </div>
 
-<ul class="card-block text-left list-unstyled">
-   <li><b>EC :</b> _</li>
-   <li><b>Role :</b> _</li>
-</ul><br>
-<p>• include details about this EC activity</p>
+    <p>Include details regarding the their time there, interactions with others who also partake in this activity, etc..</p>
 
-------------------------------------->
-
-  </div>
-  </div>
-
+        </div>
+      </div>
+    </div>
   <!-- -------------------------------
   
   
@@ -816,7 +1050,6 @@ Copy and paste the following text above the line to add additional Extracurricul
        Tell us about the weapon - how it was obtained, how often it's used, what it's used for..
       </p>
      </div>
-     <br>
   </div>
 
 
@@ -973,39 +1206,43 @@ Copy and paste the following text above the line to add additional Extracurricul
     <i class="fas fa-books fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-  <div class="p-2 text-muted">
+  <div class="p-2">
     
     
-  <!-- use float-left to push to the left side | disappears on mobile
+  <!-- 
   
               NOTES —
   
-  1. Feel free to remove <img src="IMG URL" class="float-right p-2 hidden-sm-down">
-      from the code if it is undesired
-  
-  2. Things to include in your character's history:
-    • Criminal experiences
-    • Social standings
+  1. Things to include in your character's history:
     • Important past events that had a major impact on them and may still affet them today
 
-    • THE REASON WHY THEY ARE A CLOSER
+    • THE REASON WHY THEY JOINED DATURA LILY
 
-  3.When writing out their history, be sure to
+  2.When writing out their history, be sure to
      – Use <br> to create a single line break
      – Use <br><br> to create a double line break
   
   ----------------------->
-  
-  <img src="IMG URL" 
-  class="float-right p-2 hidden-sm-down">
   
   <p>WRITE OUT THEIR<br>
   HISTORY HERE!
   <br>
   <br>
   WRITE OUT THEIR HISTORY HERE!</p>
-  <br><br>
-<h2>Additional Notes</h2><hr>
+
+  </div>
+  </div>
+  </div>
+  </div>
+  
+  <div class="col-12 p-1">
+  <div class="card bg-faded d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Additional Notes</span>
+    <i class="fas fa-stars fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
   <ul class="card-block text-left list-unstyled">
  <li><i class="fa fa-stars"></i> Note</li><br><br>
  <li><i class="fa fa-stars"></i> Note</li><br><br>
@@ -1013,7 +1250,6 @@ Copy and paste the following text above the line to add additional Extracurricul
 </ul>
     
     
-  </div>
   </div>
   </div>
   </div>
