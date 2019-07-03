@@ -165,6 +165,123 @@
       
     </div>
 
+  <div class="w-100"><hr></div>
+  <!-- INTELLIGENCE -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Intelligence</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+      
+      style="width:50%">
+      
+    </span></span>  
+  </div>
+  <!-- CREATIVITY -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Creativity</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%"></span>
+    
+    </span>  
+  </div>
+  <!-- CONFIDENCE -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Confidence</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%">
+    
+    
+    </span></span>  
+  </div>
+  <!-- HUMOR -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Humor</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%">
+    
+    
+    </span></span>  
+  </div>
+  <!-- EMPATHY -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Empathy</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%">
+    
+    
+    </span></span>  
+  </div>
+  <!-- CHARISMA -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Charisma</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%">
+    
+    
+    </span></span>  
+  </div>
+
+      <ul class="list-unstyled font-weight-bold mb-4">
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Introvert
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Extrovert
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:30%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Thinking
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Feeling
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:40%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Mean
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Nice
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:50%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Lazy
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Active
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:60%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Serious
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Playful
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:70%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Sloppy
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Neat
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:80%;background-color:#96CEB2;"></div></div>
+       </li>
+      </ul>
+
     <!-- ------------------------
   
                 ADDITIONAL IMAGES
