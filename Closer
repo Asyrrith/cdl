@@ -1,3 +1,22 @@
+<!-- ------------------
+
+
+
+          BEFORE YOU GET INTO IT!
+
+          Please pay attention to the gray text (like this) in the code as you fill in the template.
+          If there is anything confusing, the gray section headers should be able to tell you exactly what to do.
+
+          If you are unable to figure out how to fill something in, feel free to contact me
+          All possible way to contact me are on my profile, right side, listed under "Links"
+          The best bet is to message via Discord or IG if you're looking for a fast response
+
+          Best of luck and have fun!
+
+
+----------------------->
+
+
 <div class="container p-0">
 <!-- ----------------------
 
@@ -11,6 +30,10 @@
 
           AVATAR
 
+          WHAT TO DO:
+          
+          Replace the current link in the url(_) with a picture of your character
+
 ----------------------- -->
 <div class="col-lg-4 p-1"><div class="card rounded-0 h-100" 
 
@@ -21,99 +44,138 @@
 <div class="d-lg-none d-block" style="height:200px"></div></div></div>
 <!-- ----------------------
 
+
       PROFILE INFO
+
+      BE SURE TO PAY ATTENTION TO THE GRAY TEXT!
+      Only replace [info], [name], and [song] when filling this section in
+
 
 ----------------------- -->
 <div class="col-lg-8 p-1"><div class="card rounded-0 p-2"><div class="row no-gutters">
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Closer</span>
-    <span>name</span>
+    <!--
+    What is their Closer name?
+      NOTE - Closers tend to pick names after animals
+    -->
+    <span>[info]</span>
   </div>
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Legal</span>
-    <span>name</span>
+    <!--
+    What is their legally documented name?
+    -->
+    <span>[info]</span>
   </div>
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">NN</span>
-    <span>nickname</span>
+    <!--
+    What is their nickname?
+    -->
+    <span>[info]</span>
   </div>
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">DOB</span>
-    <span>mm/dd/yyyy</span>
+    <!--
+    Please use the MM/DD/YYYY format
+    -->
+    <span>[info]</span>
   </div>
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Age</span>
-    <span>##</span>
+    <span>[info]</span>
   </div>
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Zodiacs</span>
-    <span>_</span>
+    <!--
+    Eastern, Western, Native American, Mayan, Egyptian.. whatever you want
+    -->
+    <span>[info]</span>
   </div>
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Gender</span>
-    <span>_</span>
+    <span>[info]</span>
   </div>
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Orient.</span>
-    <span>_</span>
+    <!--
+    What is their sexual and/or romantic orientation?
+    -->
+    <span>[info]</span>
   </div>
 
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Race</span>
-    <span>C-ling, Human, Vex</span>
+    <!--
+    Closers can be Changeling, Human, or Vethexian
+    -->
+    <span>[info]</span>
   </div>
 
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Heritage</span>
-    <span>ei: Chinese-Italian</span>
+    <!--
+    Example: Chinese-Italian, German-Russian, Spanish, Chilean
+    -->
+    <span>[info]</span>
   </div>
 
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Magic</span>
-    <span>Vex or Blessed</span>
+    <!--
+    Vethexian or Blessed only
+    -->
+    <span>[info]</span>
   </div>
 
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Blessing</span>
-    <span>Are they? If so, what is it</span>
+    <!--
+    Are they Blessed? If so, what is their blessing?
+    -->
+    <span>[info]</span>
   </div>
 
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Height</span>
-    <span>#' #"</span>
+    <span>[info]</span>
   </div>
 
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Weight</span>
-    <span>### lbs</span>
+    <span>[info]</span>
   </div>
 
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">M. Status</span>
-    <span>Single? Dating? Married?</span>
+    <!--
+    Are they single? Dating? Married?
+    -->
+    <span>[info]</span>
   </div>
 
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">S/O</span>
-    <span><a href="_">name</a></span>
+    <span><a href="_">[name]</a></span>
   </div>
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Residence</span>
-    <span>location</span>
+    <span>[info]</span>
   </div>
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Theme</span>
-    <span><a href="_">song</a></span>
+    <span><a href="_">[song]</a></span>
   </div>
   
 </div></div></div></div></div>
@@ -128,7 +190,11 @@
 <div class="card rounded-0 bg-faded my-3"><div class="row no-gutters p-1">
 <!-- ----------------------
 
-       
+
+       HOW TO USE
+
+       CHANGE THE NUMBERS IN ( style="width:__%" ) TO ADJUST THE BAR
+
 
 ----------------------- -->
 <div class="col-lg-6 p-1"><div class="card rounded-0 p-3 d-block">
@@ -203,7 +269,9 @@
 
 <!-- ----------------------
 
-       
+       HOW TO USE
+
+       CHANGE THE NUMBERS IN ( style="width:__%" ) TO ADJUST THE BAR
 
 ----------------------- -->
 <div class="col-lg-6 p-1"><div class="card rounded-0 p-3 d-block">
@@ -295,18 +363,38 @@
   
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Skin</span>
+        <!-- ---------------------
+        
+        Suggested site: https://www.htmlcsscolor.com/
+          Alternatively, just describe their skin color
+        
+        ------------------------->
         <span>#000000</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Eyes</span>
+        <!-- ---------------------
+        
+        Suggested site: https://www.htmlcsscolor.com/
+          Alternatively, just describe their eye color
+        
+        ------------------------->
         <span>#000000</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Hair</span>
+        <!-- ---------------------
+        
+        Suggested site: https://www.htmlcsscolor.com/
+          Alternatively, just describe their hair color
+        
+        DON'T FORGET TO DESCRIBE THEIR HAIR STYLE
+        
+        ------------------------->
         <span>#000000<br>
         [style]</span>
       </div>
@@ -315,38 +403,71 @@
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Body Type</span>
-        <span>[explain]</span>
+        <!-- ---------------------
+        
+        Are they tall and lanky? Short and chunky? A midget build like a Greek God?
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Tattoos</span>
-        <span>Got Ink?</span>
+        <!-- ---------------------
+        
+        Got ink? Share with the class about their tats. All of them.
+        Yes, even those we don't get to see.
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Scars/Marks</span>
-        <span>From battle or birth</span>
+        <!-- ---------------------
+        
+        Self-explanatory
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       <br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Casual Wear</span>
-        <span>Them relaxed clothes</span>
+        <!-- ---------------------
+        
+        What they wear when they're just living; not working, not dressed up nice.. just.. casual.
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Formal Wear</span>
-        <span>Tux? Gown? Juggalo?</span>
+        <!-- ---------------------
+        
+        What's on the menu? A tuxedo? Cocktail dress or ball gown? Some juggalo pimp suit?
+        What ever it is they wear to formal events, tell us.
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Work Wear</span>
-        <span>What you go to work in, homie?</span>
+        <!-- ---------------------
+        
+        Work clothes, my man. If they're not a hooker, don't have them working in fishnets and crop tops.. unless they work at Hooters, then I guess it's okay. 
+        (Hooters is not a thing in this universe)
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
   
   
@@ -366,43 +487,89 @@
   
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted fa fa-home text-uppercase"> Residence</span>
-        <span>location on map</span>
+        <!-- ---------------------
+        
+        Not just the city they live in, but their home address
+        (Yes, I am encouraging you to come up with a fake address)
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted fa fa-car text-uppercase"> Transportation</span>
-        <span>vroom, vroom</span>
+        <!-- ---------------------
+        
+        Beep, beep; I'm a sheep.
+        Do they drive a car? Ride a bike? Walk everywhere?
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted fa fa-dog text-uppercase"> Pets</span>
-        <span>arf, arf</span>
+        <!-- ---------------------
+        
+        Your every-day, super ordinary pets with no magical powers.
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted fa fa-deer text-uppercase"> Familiar</span>
-        <span>a magical pet, kinda</span>
+        <!-- ---------------------
+        
+        A magical pet that chooses you and will ditch you if you suck.
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted fa fa-lips text-uppercase"> Languages</span>
-        <span>how they use that mouth?</span>
+        <!-- ---------------------
+        
+        How they use that mouth? How many languages do they know - partial or fluently.
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted fa fa-cross text-uppercase"> Religion</span>
-        <span>Jesus? Allah? Loki?</span>
+        <!-- ---------------------
+        
+        Who they worship, if anyone?
+        Jesus? Allah? Loki?
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted fa fa-frown text-uppercase"> Disabilities</span>
-        <span>what's the damage?</span>
+        <!-- ---------------------
+        
+        What's the damage?
+        This refers both physical and mental disabilities.
+        Please be sure to accurately differentiate mental disabilities from mental disorders which are covered a bit later.
+        
+        To make a list, add a <br> and drop to the next line
+        It will look like this:
+        
+        <span>[info]<br>
+        [info]</span>
+        
+        ------------------------->
+        <span>[info]</span>
       </div>
   
   
@@ -410,9 +577,7 @@
 
 <!-- ----------------------
 
-                PERSONALITY
-
-                PART 1
+                PERSONALITY – PART 1
 
                  1. What is a DEMEANOR?
                    A : Outward expression; how they let the world see them
@@ -433,33 +598,33 @@
   
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Demeanor</span>
-        <span>_</span>
+        <span>[info]</span>
       </div>
       
       <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Reality</span>
-        <span>_</span>
+        <span>[info]</span>
       </div>
       
       <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Reason</span>
-        <span>_</span>
+        <span>[info]</span>
       </div>
   
   
 </div></div></div>
 <!-- ----------------------
 
-               PERSONALITY PART 2
+               PERSONALITY – PART 2
   
               1. Positive & Negative Traits
               List as many as you want / can think of. These are a big part of what make your character unique.
             
-            2. Mental Disorders
+              2. Mental Disorders
               – If they have none, erase the second bullet and mark "1" as None
               – If they have more than 2, feel free to throw down a "<br> • 3" and so on to keep it going
               
@@ -476,24 +641,24 @@
   
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Positive Traits</span>
-        <span>Positive <br>
-        Positive <br>
-        Positive </span>
+        <span>[Positive] <br>
+        [Positive] <br>
+        [Positive] </span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Negative Traits</span>
-        <span>Negative <br>
-        Negative <br>
-        Negative </span>
+        <span>[Negative] <br>
+        [Negative] <br>
+        [Negative] </span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Mental Disorders</span>
-        <span>Disorder <br>
-        Disorder </span>
+        <span>[Disorder] <br>
+        [Disorder] </span>
       </div>
   
   
@@ -515,38 +680,92 @@
   
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Name</span>
+         <!-- ---------------------
+        
+        Pretty simple - what's their name?
+        
+        ------------------------->
         <span>[info] </span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <!-- ---------------------
+        
+        What's their species?
+        
+        ------------------------->
         <span class="text-muted text-uppercase">Species</span>
         <span>[info] </span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Power</span>
-        <span>[info] </span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Appearance</span>
+        <!-- ---------------------
+        
+        What do they look like?
+        Fur, scales, color, claws, no claws, etc, etc.
+        
+        ------------------------->
         <span>[info] </span>
       </div>
       
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Details</span>
+        <span class="text-muted text-uppercase">Nature</span>
+        <!-- ---------------------
+        
+        How they act (think Pokémon if you must); be sure to describe it.
+        
+        ------------------------->
         <span>[info] </span>
       </div>
-  
+        <!-- ---------------------
+        
+        
+        ABOUT SKILLS:
+        
+        ► Number and strength of skills correlate to their rank:
+           – Manig   : 3 skills | Power:★☆☆☆☆
+           – Sporas  : 4 skills | Power: ★★☆☆☆
+           – Seltan  : 4 skills | Power: ★★★☆☆
+           – Apex (M): 5 skills | Power:  ★★★★☆
+           – Apex (P): 5 skills | Power: ★★★★★
+        
+        
+        ------------------------->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Skill</span>
+        <span>[name]<br>
+        [info]<br></span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Skills</span>
+        <span>[name]<br>
+        [info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Skills</span>
+        <span>[name]<br>
+        [info]</span>
+      </div>
+
+
   
 </div></div></div>
 <!-- ----------------------
 
          ADDITIONAL NOTES
+
+            WHAT THIS SECTION IS FOR —
+          This section is to include additional notes
+          about your character that didn't find a home
+          anywhere else on the template.
 
 ----------------------- -->
 <div class="col-lg-6 p-1"><div class="card rounded-0 p-3 d-block">
@@ -559,12 +778,20 @@
   
 <ul class="card-block text-left list-unstyled">
 
- <li><i class="fa fa-pen"></i> Note </li>
- 
- <li><i class="fa fa-pen"></i> Note </li>
- 
- <li><i class="fa fa-pen"></i> Note </li>
+     <li><i class="fa fa-pen"></i> Note </li>
+     <br>
+     <li><i class="fa fa-pen"></i> Note </li>
+     <br>
+     <li><i class="fa fa-pen"></i> Note </li>
 
+
+
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL NOTES ---
+
+      <br>
+      <i class="fa fa-pen"></i> Note </li>
+
+---------------------------------->
   </ul>
   
   
@@ -572,6 +799,8 @@
 <!-- ----------------------
 
            LIKES
+
+           Things your character likes
 
 ----------------------- -->
 <div class="col-lg-3 p-1"><div class="card rounded-0 p-3 d-block">
@@ -584,9 +813,15 @@
   
 <ul class="card-block text-left list-unstyled">
 
- <li><i class="fa fa-check"></i> Like </li>
- <li><i class="fa fa-check"></i> Like </li>
- <li><i class="fa fa-check"></i> Like </li>
+     <li><i class="fa fa-check"></i> Like </li>
+     <li><i class="fa fa-check"></i> Like </li>
+     <li><i class="fa fa-check"></i> Like </li>
+
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL LIKES ---
+
+      <li><i class="fa fa-check"></i> Like </li>
+
+---------------------------------->
   </ul>
   
   
@@ -594,6 +829,8 @@
 <!-- ----------------------
 
         DISLIKES
+
+        Things your character dislikes
 
 ----------------------- -->
 <div class="col-lg-3 p-1"><div class="card rounded-0 p-3 d-block">
@@ -608,7 +845,11 @@
  <li><i class="fa fa-times"></i> Dislike </li>
  <li><i class="fa fa-times"></i> Dislike </li>
  <li><i class="fa fa-times"></i> Dislike </li>
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL DISLIKES ---
 
+      <li><i class="fa fa-times"></i> Dislike </li>
+
+---------------------------------->
   </ul>
   
 </div></div></div>  
@@ -616,6 +857,8 @@
 <!-- ----------------------
 
            Hobbies
+
+           Things your character does for fun in their free time
 
 ----------------------- -->
 <div class="col-lg-3 p-1"><div class="card rounded-0 p-3 d-block">
@@ -631,7 +874,11 @@
  <li><i class="fa fa-stars"></i> Hobby </li>
  <li><i class="fa fa-stars"></i> Hobby </li>
  <li><i class="fa fa-stars"></i> Hobby </li>
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL HOBBIES ---
 
+      <li><i class="fa fa-stars"></i> Hobby </li>
+
+---------------------------------->
   </ul>
   
   
@@ -653,7 +900,11 @@
  <li><i class="fa fa-spider"></i> Fear </li>
  <li><i class="fa fa-spider"></i> Fear </li>
  <li><i class="fa fa-spider"></i> Fear </li>
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL FEARS ---
 
+      <li><i class="fa fa-spider"></i> Fear </li>
+
+---------------------------------->
   </ul>
   
 </div></div></div>
@@ -664,10 +915,28 @@
              Organization
 
              NOTE – 
-             • Centi are Bone's top 100 most trusted Closers; if they are part of the Centi they will have a number ranked between 3 and 100
-             • Mentors are higher rank members who advise Geese in the field
-             • Partners tend to be of the same rank and are official as of Swan Rank
-               ► Both Mentors and Partners have an official list; please keep in mind that you need to ask the owners of the characters you are associating with if your character can be their student (current or present) or partner before writing it down
+
+             1 – Ranks:
+                ► Gosling (Ages 10-14; new recruits)
+                ► Geese (Ages 15-18; older recruits off the Gosling line)
+                ► Swans (Ages 19-25)
+                  ► Oroborous (Ages 20+)
+                ► Hawks (Ages 26-55)
+                ► Bulls (Ages 56+)
+
+
+             2 – Centi: Bone's top 100 most trusted Closers
+                  Ranked: 1-100
+
+             3 – Mentors:
+                ► Higher rank Closers, typically above the age of 23
+                ► They advise Geese in the field and determine their progress
+
+             4 – Partners:
+                ► Typically are of the same rank; must be Hawk rank to have an official Partner
+                ► Partners are required to live together in an assigned location
+
+               ☼ Both Mentors and Partners have an official list; please keep in mind that you need to ask the owners of the characters you are associating with if your character can be their student (current or present) or partner before writing it down
 
 ----------------------- -->
 <div class="col-lg-4 p-1"><div class="card rounded-0 p-3 d-block">
@@ -711,13 +980,11 @@
          HOW TO USE THIS SECTION
          
          • Include details regarding the jobs/assignments they do
-         • What they think of their leader
-         • What they think of other higher ups
-         • Their mentor
-         • Their partner
-         • The others they encounter/work with
+         • What they think of their leader, other higher ups,
+           their mentor, partner, others they encounter and/or work with
          • What their work tactics are like
-         • etc
+         • If they like or dislike what they're doing
+         • Etc..
 
 ------------->
 
@@ -731,15 +998,7 @@
   
       <p>
       
-      Write some things
-      
-      <br><br>
-      
-      And some more things
-      
-      <br><br>
-      
-      There are some tips in the code to help btw
+      Sharing is caring ♥
       
       </p>
   
@@ -747,6 +1006,8 @@
 <!-- ----------------------
 
         DAY JOB
+
+        If you don't already have a Day Job selected, please refer to the the list to select one.
 
 ----------------------- -->
 <div class="col-lg-4 p-1"><div class="card rounded-0 p-3 d-block">
@@ -767,7 +1028,18 @@
         <span>[info] </span>
       </div>
 
-<p> Include details about their Day Job here; including co-workers, their thoughts on their job, interactions with others, etc. </p>
+<!-- ----------------------------
+
+      Below you can note details about their Day Job
+      This includes thoughts and feelings about co-workers,
+      their job, how they interact with others, etc.
+
+---------------------------------->
+    <p> 
+      
+      Text goes here ♥
+      
+    </p>
   
 </div></div></div>  
 
@@ -818,13 +1090,45 @@
         <span>[info] </span>
       </div>
 
-    <p>Include details regarding the their time there, teacher interactions, student interactions, etc..</p>
+
+<!-- ----------------------------
+
+      Below you can note details about their School life.
+      This includes details regarding their time there,
+      teacher and student interactions, what they liked,
+      what they loathed, and so on.
+
+---------------------------------->
+    <p>
+      
+      Text goes here ♥
+      
+    </p>
   
   
 </div></div></div>
 <!-- ----------------------
 
         EXTRACURRICULAR
+
+
+        WHAT IS THIS??
+          This section is for students who have extracurricular
+          activities, such as playing on a sports team or being
+          part of a club.
+        
+        HOW TO FILL IT OUT?
+          ACTIVITY – Exactly as it sounds; the activity.
+                     Football, Basketball, Chess Club, Drama, etc
+          
+          ROLE – A little different between sports and clubs.
+                     Sports - What position(s) they play on the team
+                              Football: Quarterback, Linebacker, Defensive Tackle
+                              Basketball: Point Guard, Center, Swingman
+                                (You catch the drift, right?)
+                    
+                     Clubs  - President? Vice President? Leading Lady?
+                                (My school didn't have clubs, sorry!)
 
 ----------------------- -->
 <div class="col-lg-4 p-1"><div class="card rounded-0 p-3 d-block">
@@ -845,10 +1149,22 @@
         <span>[info] </span>
       </div>
 
-    <p>Include details regarding the their time there, interactions with others who also partake in this activity, etc..</p>
+<!-- ----------------------------
+
+      Below you can note details about their ECA's.
+      This includes details regarding the time spent there,
+      their interactions with others on the team or in the club,
+      what they think about the others involved, etc.
+
+---------------------------------->
+
+    <p>
+      
+      Sharing is caring ♥
+      
+    </p>
 
 <!-- ---- REMOVE THIS TO ADD A SECOND EXTRACURRICULAR ACTIVITY ----------
-
 
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Activity</span>
@@ -861,7 +1177,12 @@
         <span>[info] </span>
       </div>
 
-    <p>Include details regarding the their time there, interactions with others who also partake in this activity, etc..</p>
+
+    <p>
+      
+      Sharing is caring ♥
+      
+    </p>
   
 </div></div></div>
 </div></div>
@@ -1158,8 +1479,10 @@
   
   2. Things to include in your character's history:
     • Important past events that had a major impact on them and may still affet them today
-
-    • THE REASON WHY THEY JOINED DATURA LILY
+    
+    • Criminal activities and/or affiliations
+    
+    • THE REASON WHY THEY BECAME A CLOSER
 
   3.When writing out their history, be sure to
      – Use <br> to create a single line break
