@@ -21,14 +21,28 @@
     <!---------- CONTENT COLUMN ---------------------------------->
     <div class="col-lg-10 col-md-9 pull-lg-2 pull-md-3 pr-md-2">
       <div class="card bg-faded tab-content mb-2">
-    <!------------------------------------ FIRST TAB ------------------------------------------------------------->
-      <div class="card-block tab-pane fade in active show" data-toggle="tab" id="ONE">
-         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-star fa-fw mr-1" /> General</h1>
-         <div class="card p-3 pb-1" style="height:500px; overflow:auto;">
+
+
+ <!-- -----
+
+
+
+          TAB 1 : GENERAL
+
+
+
+----------->
+
+
+        <div class="tab-pane fade in active show" data-toggle="tab" id="ONE">
+         <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-stars fa-fw mr-1" /> General</h1>
+         <div class="card p-3 pb-1" style="overflow:auto;">
+
+
             <div class="row">
                <div class="col-12">
                  <!--------------- FOCAL IMAGE -- WILL CROP & AUTO SIZE -- FOCUS IN TOP CENTER -------------------->
-                  <div style="background: url(IMG URL);
+                  <div style="background: url(https://i97.servimg.com/u/f97/19/50/26/57/filler12.png);
                   background-position:top center; background-size:cover; min-height:415px;" class="col-md-4 float-md-left mr-md-2 d-block mx-auto rounded">
                   </div>
                   
@@ -194,15 +208,6 @@
                 </div>
                 </div>
                <br>
- <!-- ----------------------------
-
-
-          Traits & Trivia
-
-
------------------------------ -->
-<div class="preferences">
-<div class="row no-gutters" style="margin:-8px;">
 <!-- ----------------------------
 
              Traits - edit by changing the %; 
@@ -214,7 +219,7 @@
 ----------------------------- --> 
    <div class="card card-block bg-transparent card-outline-success rounded-0" style="border-width:0px">
     <div class="row justify-content-between">
-     <div class="col-md-5"><h2>Traits</h2><hr>
+     <div class="col-md-10">
       <ul class="list-unstyled font-weight-bold mb-4">
        <li class="mb-3">
         <span class="mb-2" style="color:#96CEB2;">
@@ -271,45 +276,25 @@
         <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:80%;background-color:#96CEB2;"></div></div>
        </li>
       </ul>
+        </div>
+       </div>
+      </div>
      </div>
-<!-- ----------------------------
-
-            Trivia - add some fun facts that don't seem to fit in anywhere else
-
------------------------------ -->
-<div class="col-lg-6 p-2 mb-5"><h2>Trivia</h2><hr>
-<ul class="card-block text-left list-unstyled">
- <li><i class="fa fa-stars"></i> _ </li>
- <li><i class="fa fa-stars"></i> _ </li>
- <li><i class="fa fa-stars"></i> _ </li>
- <li><i class="fa fa-stars"></i> _ </li>
- <li><i class="fa fa-stars"></i> _ </li>
- <li><i class="fa fa-stars"></i> _ </li>
- <li><i class="fa fa-stars"></i> _ </li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-
-<!------------------------
-
-          Quote - it could be something they identify with or something they say that's memorable
-
-------------------------->
-
-
-     <div class="card card-block text-white display-4 rounded-0 mb-4" style="background-color:#;border-color:#;">
-       <em style="text-align: center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit."</em>
-     </div>
-     </div>
-
-
-     </div>
-    </div>
-   </div>
+    </div>  
   </div>
-      
+ </div>
+
+
+ <!-- -----
+
+
+
+          TAB 2 : PERSONAL
+
+
+
+----------->
+
     <!------------------------------------ SECOND TAB ------------------------------------------------------------->
       <div class="card-block tab-pane fade" data-toggle="tab" id="TWO">
          <h1 class="display-4 text-uppercase" style="letter-spacing:1px;"><i class="fas fa-heartbeat fa-fw mr-1" />Personal</h1>
