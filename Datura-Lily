@@ -591,86 +591,16 @@ place 'hide' before 'carousel slide'
 
 <!-- ----------------------------
 
-            FAMILY
+            FAMILIARS
 
 
 ----------------------------- -->
 
-  <div class="col-lg-6 p-1">
+  <div class="col-lg-4 p-1">
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
-    <span class="text-primary">Family</span>
-    <i class="fas fa-users fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
-    <div class="row no-gutters p-3">
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Mother</span>
-        <span>[info] </span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Father</span>
-        <span>[info] </span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Sibling</span>
-        <span>[info] </span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Sibling</span>
-        <span>[info] </span>
-      </div>
-      
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">S/O</span>
-        <span>[info] </span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Child</span>
-        <span>[info] </span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Child</span>
-        <span>[info] </span>
-      </div>
-
-
-<!-- ------------------------------------
-
-          ADD MORE OR CHANGE AS NECESSARY
-
---------------------------------------->
-
-      
-    </div>
-</div>
-</div>
-
-
-<!-- ----------------------------
-
-            FAMILIARS
-
------------------------------ -->
-  <div class="col-lg-6 p-1">
-  <div class="card  d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Familiar</span>
+    <span class="text-primary">Familiars</span>
     <i class="fas fa-deer fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
@@ -706,9 +636,36 @@ place 'hide' before 'carousel slide'
       </div>
       
     </div>
+
+
+      
 </div>
 </div>
 
+
+<!-- ----------------------------
+
+            ADDITIONAL NOTES
+
+----------------------------- -->
+  <div class="col-lg-8 p-1">
+  <div class="card  d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Notes</span>
+    <i class="fas fa-pen fa-fw mt-auto"></i>
+    
+
+  </div><hr class="my-1">
+  <ul class="card-block text-left list-unstyled">
+ <li><i class="fa fa-stars"></i> Note</li><br><br>
+ <li><i class="fa fa-stars"></i> Note</li><br><br>
+ <li><i class="fa fa-stars"></i> Note</li>
+</ul>
+
+
+</div>
+</div>
 
   <!-- -------------------------------
   
@@ -717,7 +674,7 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
-  <div class="col-lg-6 p-1">
+  <div class="col-lg-3 p-1">
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
@@ -747,7 +704,7 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
-  <div class="col-lg-6 p-1">
+  <div class="col-lg-3 p-1">
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
@@ -770,6 +727,7 @@ place 'hide' before 'carousel slide'
   </ul>
   </div>
   </div>
+
   <!-- -------------------------------
   
   
@@ -777,7 +735,7 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
-  <div class="col-lg-6 p-1">
+  <div class="col-lg-3 p-1">
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
@@ -807,7 +765,7 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
-  <div class="col-lg-6 p-1">
+  <div class="col-lg-3 p-1">
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
@@ -888,7 +846,7 @@ place 'hide' before 'carousel slide'
 
 
 ----------------------------- --> 
-  <div class="col-lg-6 p-1">
+  <div class="col-lg-4 p-1">
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
@@ -928,6 +886,25 @@ place 'hide' before 'carousel slide'
     </div>
   </div>
 
+<!-- -------------------------
+
+
+
+----------------------------- --> 
+
+  <div class="col-lg-8 p-1">
+  <div class="card d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Datura Lily</span>
+    <i class="fas fa-flower fa-fw mt-auto"></i>
+  </div><hr class="my-1">
+
+<p> Include details regarding their specific mantle, how they react to their Division's Leader, other leaders, their partner, others they encounter/work with, work tactics, etc. </p>
+
+    </div>
+  </div>
+
   <!-- -------------------------------
   
   
@@ -937,7 +914,7 @@ place 'hide' before 'carousel slide'
   
   --------------------------------- -->
 
-  <div class="col-lg-6 p-1">
+  <div class="col-lg-4 p-1">
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
@@ -995,7 +972,7 @@ place 'hide' before 'carousel slide'
                 ► GRAD YEAR : The year they are set to graduate or did graduate
   
   --------------------------------- -->
-  <div class="col-lg-6 p-1">
+  <div class="col-lg-4 p-1">
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
@@ -1041,7 +1018,7 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
-  <div class="col-lg-6 p-1">
+  <div class="col-lg-4 p-1">
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
@@ -1395,24 +1372,121 @@ place 'hide' before 'carousel slide'
   </div>
   </div>
   
-  <div class="col-12 p-1">
-  <div class="card d-block p-3 h-100">
+
+    
+  </div>
+  </div>
+
+  <!-- -------------------------------
+  
+  
+             FAMILY
+  
+  
+  --------------------------------- -->
+  <div class="col-12 p-1" id="links">
+  <div class="card bg-faded d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
-    <span class="text-primary">Additional Notes</span>
-    <i class="fas fa-stars fa-fw mt-auto"></i>
+    <span class="text-primary">Family</span>
+    <i class="fas fa-users fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-  <ul class="card-block text-left list-unstyled">
- <li><i class="fa fa-stars"></i> Note</li><br><br>
- <li><i class="fa fa-stars"></i> Note</li><br><br>
- <li><i class="fa fa-stars"></i> Note</li>
-</ul>
+  <div class="row no-gutters table-responsive" style="max-height:350px">
+    <!-- ------------------------
+  
+                 01
     
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="https://file.toyhou.se/characters/4279352?" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    <!-- ------------------------
+  
+                 02
     
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="https://file.toyhou.se/characters/4279352?" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    <!-- ------------------------
+  
+                 03
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="https://file.toyhou.se/characters/4279352?" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+
+
+
+
+  <!-- ABOVE THIS LINE ► COPY AND PASTE CODE TO ADD MORE RELATIONSHIP ◄ -->  
+
   </div>
   </div>
   </div>
+
   <!-- -------------------------------
   
   
@@ -1425,7 +1499,7 @@ place 'hide' before 'carousel slide'
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary">Relationships</span>
-    <i class="fas fa-users fa-fw mt-auto"></i>
+    <i class="fas fa-user-friends fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
   <div class="row no-gutters table-responsive" style="max-height:350px">
