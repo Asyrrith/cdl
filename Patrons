@@ -1,0 +1,254 @@
+<div class="container px-0">
+    <div class="row">
+        <!--------------------------- LEFT COLUMN ------------------------------------------------------>
+        <div class="col-lg-4 col-md-5 pr-md-1 mb-4">
+            <div class="bg-faded py-2 h-100">
+                <!----------------- USE A SQUARE AVATAR -------------------------->
+                <img src="IMG URL" class="bg-primary p-2 d-block mx-auto mt-4" style="max-height: 200px;">
+
+                <div class="card-block">
+                    <div class="row">
+
+                        <!--------------------------- BASIC STATS --------------------------------->
+                        <div class="col-12 mb-3">
+                            <span class="text-uppercase">Name</span>
+                            <span class="pull-right">content</span>
+                            <hr class="mt-2 mb-0">
+                        </div>
+                        <div class="col-12 mb-3">
+                            <span class="text-uppercase">Age</span>
+                            <span class="pull-right">content</span>
+                            <hr class="mt-2 mb-0">
+                        </div>
+                        <div class="col-12 mb-3">
+                            <span class="text-uppercase">Gender</span>
+                            <span class="pull-right">content</span>
+                            <hr class="mt-2 mb-0">
+                        </div>
+                        <div class="col-12 mb-3">
+                            <span class="text-uppercase">Height</span>
+                            <span class="pull-right">content</span>
+                            <hr class="mt-2 mb-0">
+                        </div>
+                        <div class="col-12 mb-3">
+                            <span class="text-uppercase">Build</span>
+                            <span class="pull-right">content</span>
+                            <hr class="mt-2 mb-0">
+                        </div>
+                        <div class="col-12 mb-3">
+                            <span class="text-uppercase">Race</span>
+                            <span class="pull-right">content</span>
+                            <hr class="mt-2 mb-0">
+                        </div>
+                        <div class="col-12">
+                            <span class="text-uppercase">Role</span>
+                            <span class="pull-right">content</span>
+                        </div>
+                    </div>
+                </div>
+
+                <h1 class="bg-primary text-white text-uppercase p-2 mr-4" style="letter-spacing: 1px; margin-left:-10px;">Character</h1>
+                <div class="card-block">
+                    <!------------------------ STATS -- USE PRIMARY FOR COLOR -- MUTED FOR FADED ------------------->
+                    <div class="row">
+                        <div class="col-12 mb-4">
+                            <span class="text-uppercase">Charisma</span>
+                            <span class="pull-right">
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     </span>
+                        </div>
+                        <div class="col-12 mb-4">
+                            <span class="text-uppercase">Kindness</span>
+                            <span class="pull-right">
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     </span>
+                        </div>
+                        <div class="col-12 mb-4">
+                            <span class="text-uppercase">Temper</span>
+                            <span class="pull-right">
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     </span>
+                        </div>
+                        <div class="col-12 mb-4">
+                            <span class="text-uppercase">Integrity</span>
+                            <span class="pull-right">
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     </span>
+                        </div>
+                        <div class="col-12 mb-4">
+                            <span class="text-uppercase">Confidence</span>
+                            <span class="pull-right">
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     </span>
+                        </div>
+                        <div class="col-12 mb-4">
+                            <span class="text-uppercase">Intellect</span>
+                            <span class="pull-right">
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     </span>
+                        </div>
+                        <div class="col-12 mb-4">
+                            <span class="text-uppercase">Humour</span>
+                            <span class="pull-right">
+                     <i class="fas fa-star text-primary mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     <i class="fas fa-star text-muted mx-1" />
+                     </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!---------------------------- NOTE SECTION ------------------------------------------------------>
+                <h1 class="bg-primary text-white text-uppercase p-2 mr-4" style="letter-spacing: 1px; margin-left:-10px;">Notes</h1>
+                <div class="card-block">
+                    <ul class="mb-0">
+                        <li class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                        <li class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                        <li class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                        <li class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                        <li class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!--------------------------- RIGHT COLUMN ------------------------------------------------------>
+        <div class="col-lg-8 col-md-7 pl-md-0 pl-4">
+            <!------------------------ CHARACTER NAME ---------------------------------------------->
+            <h1 class="text-uppercase ml-2 mb-2" style="font-weight:800; letter-spacing:1px; font-family:helvetica; font-size: 3em;">Name</h1>
+
+            <!------------------------ ABOUT SECTION ---------------------------------------------->
+            <h1 class="bg-primary text-white text-uppercase p-2 mr-4" style="letter-spacing: 1px; margin-left:-15px;">About</h1>
+            <div class="pl-md-4 pt-2 pb-4">
+                <!-------------------- CONTENT BLOCK -------------------------------->
+                <div class="card card-outline-secondary card-block rounded-0 pt-2" style="height: 280px; overflow:auto; padding-bottom:5px; font-size: .95em;">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin. In feugiat posuere nulla, eget lobortis ante. Aliquam magna libero, dictum sit amet scelerisque ac, scelerisque tincidunt magna. Nulla et consectetur diam. Aliquam ipsum mi, tristique sed vestibulum ac, aliquet eget magna. Aliquam quis fringilla erat. Morbi sollicitudin id lorem eu efficitur. Mauris varius id magna vitae ullamcorper. </p>
+                    <p>Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin. In feugiat posuere nulla, eget lobortis ante. Aliquam magna libero, dictum sit amet scelerisque ac, scelerisque tincidunt magna. Nulla et consectetur diam. Aliquam ipsum mi, tristique sed vestibulum ac, aliquet eget magna. Aliquam quis fringilla erat. Morbi sollicitudin id lorem eu efficitur. Mauris varius id magna vitae ullamcorper. In gravida libero consectetur, lobortis nisl sit amet, pellentesque ligula. Suspendisse tincidunt feugiat posuere.</p>
+                </div>
+            </div>
+
+            <!------------------------ PREFS SECTION ---------------------------------------------->
+            <h1 class="bg-primary text-white text-uppercase p-2 mr-4" style="letter-spacing: 1px; margin-left:-15px;">Preferences</h1>
+            <div class="pl-md-4 pt-2 pb-4">
+                <!-------------------- CONTENT BLOCK -------------------------------->
+                <div class="card card-outline-secondary card-block pt-2 pb-1 rounded-0">
+                    <div class="row">
+                        <div class="col-sm-6 mb-2">
+                            <p class="text-uppercase">Likes</p>
+                            <ul class="mb-0">
+                                <li class="mb-2">content</li>
+                                <li class="mb-2">content</li>
+                                <li class="mb-2">content</li>
+                                <li>content</li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-6 mb-2">
+                            <p class="text-uppercase">Dislikes</p>
+                            <ul class="mb-0">
+                                <li class="mb-2">content</li>
+                                <li class="mb-2">content</li>
+                                <li class="mb-2">content</li>
+                                <li>content</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!------------------------ BACKGROUND SECTION ---------------------------------------------->
+            <h1 class="bg-primary text-white text-uppercase p-2 mr-4" style="letter-spacing: 1px; margin-left:-15px;">Background</h1>
+            <div class="pl-md-4 pt-2 pb-4">
+                <!-------------------- CONTENT BLOCK -------------------------------->
+                <div class="card card-outline-secondary card-block rounded-0 pt-2" style="height: 350px; overflow:auto; padding-bottom:5px; font-size: .95em;">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin. In feugiat posuere nulla, eget lobortis ante. Aliquam magna libero, dictum sit amet scelerisque ac, scelerisque tincidunt magna. Nulla et consectetur diam. Aliquam ipsum mi, tristique sed vestibulum ac, aliquet eget magna. Aliquam quis fringilla erat. Morbi sollicitudin id lorem eu efficitur. Mauris varius id magna vitae ullamcorper. In gravida libero consectetur, lobortis nisl sit amet, pellentesque ligula. Suspendisse tincidunt feugiat posuere.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin. In feugiat posuere nulla, eget lobortis ante. Aliquam magna libero, dictum sit amet scelerisque ac, scelerisque tincidunt magna. Nulla et consectetur diam. Aliquam ipsum mi, tristique sed vestibulum ac, aliquet eget magna. Aliquam quis fringilla erat. Morbi sollicitudin id lorem eu efficitur. Mauris varius id magna vitae ullamcorper. In gravida libero consectetur, lobortis nisl sit amet, pellentesque ligula. Suspendisse tincidunt feugiat posuere.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin. In feugiat posuere nulla, eget lobortis ante. Aliquam magna libero, dictum sit amet scelerisque ac, scelerisque tincidunt magna. Nulla et consectetur diam. Aliquam ipsum mi, tristique sed vestibulum ac, aliquet eget magna. Aliquam quis fringilla erat. Morbi sollicitudin id lorem eu efficitur. Mauris varius id magna vitae ullamcorper. In gravida libero consectetur, lobortis nisl sit amet, pellentesque ligula. Suspendisse tincidunt feugiat posuere.</p>
+                </div>
+            </div>
+
+            <!------------------------ LINKS SECTION ---------------------------------------------->
+            <h1 class="bg-primary text-white text-uppercase p-2 mr-4" style="letter-spacing: 1px; margin-left:-15px;">Links</h1>
+            <div class="pl-md-4 pt-2 pb-4">
+                <!-------------------- CONTENT BLOCK -------------------------------->
+                <div class="card card-outline-secondary card-block rounded-0 pt-2" style="height: 250px; overflow:auto; padding-bottom:5px; font-size: .95em;">
+                    <div class="row">
+                        <!-------------------------- CHARACTER -------------------------------------------->
+                        <div class="col-lg-6 mb-3">
+                            <p class="mb-0"><span class="text-uppercase">Name</span>
+                                <span class="pull-right"><i>relationship</i></span></p>
+                            <hr class="mt-0">
+
+                            <a href="CHARACTER LINK">
+                                <img src="IMG URL" class="float-right ml-sm-1 rounded-circle" style="max-height: 100px; max-width: 100px;"></a>
+
+                            <p style="font-size: .92em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin. In feugiat posuere nulla, eget lobortis ante. Aliquam magna libero, dictum sit amet scelerisque ac, scelerisque tincidunt magna. Nulla et consectetur diam. Aliquam ipsum mi, tristique sed vestibulum ac, aliquet eget magna. </p>
+                        </div>
+
+                        <!-------------------------- CHARACTER -------------------------------------------->
+                        <div class="col-lg-6 mb-3">
+                            <p class="mb-0"><span class="text-uppercase">Name</span>
+                                <span class="pull-right"><i>relationship</i></span></p>
+                            <hr class="mt-0">
+
+                            <a href="CHARACTER LINK">
+                                <img src="IMG URL" class="float-right ml-sm-1 rounded-circle" style="max-height: 100px; max-width: 100px;"></a>
+
+                            <p style="font-size: .92em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin. In feugiat posuere nulla, eget lobortis ante. Aliquam magna libero, dictum sit amet scelerisque ac, scelerisque tincidunt magna. Nulla et consectetur diam. Aliquam ipsum mi, tristique sed vestibulum ac, aliquet eget magna. </p>
+                        </div>
+
+                        <!-------------------------- CHARACTER -------------------------------------------->
+                        <div class="col-lg-6 mb-3">
+                            <p class="mb-0"><span class="text-uppercase">Name</span>
+                                <span class="pull-right"><i>relationship</i></span></p>
+                            <hr class="mt-0">
+
+                            <a href="CHARACTER LINK">
+                                <img src="IMG URL" class="float-right ml-sm-1 rounded-circle" style="max-height: 100px; max-width: 100px;"></a>
+
+                            <p style="font-size: .92em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin. In feugiat posuere nulla, eget lobortis ante. Aliquam magna libero, dictum sit amet scelerisque ac, scelerisque tincidunt magna. Nulla et consectetur diam. Aliquam ipsum mi, tristique sed vestibulum ac, aliquet eget magna. </p>
+                        </div>
+
+                        <!-------------------------- CHARACTER -------------------------------------------->
+                        <div class="col-lg-6 mb-3">
+                            <p class="mb-0"><span class="text-uppercase">Name</span>
+                                <span class="pull-right"><i>relationship</i></span></p>
+                            <hr class="mt-0">
+
+                            <a href="CHARACTER LINK">
+                                <img src="IMG URL" class="float-right ml-sm-1 rounded-circle" style="max-height: 100px; max-width: 100px;"></a>
+
+                            <p style="font-size: .92em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet massa blandit, fermentum enim a, scelerisque velit. Integer interdum urna ac dui sollicitudin sollicitudin. In feugiat posuere nulla, eget lobortis ante. Aliquam magna libero, dictum sit amet scelerisque ac, scelerisque tincidunt magna. Nulla et consectetur diam. Aliquam ipsum mi, tristique sed vestibulum ac, aliquet eget magna. </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
