@@ -428,7 +428,7 @@ place 'hide' before 'carousel slide'
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary">Appearance</span>
-    <i class="fas fa-user-astronaut fa-fw mt-auto"></i>
+    <i class="fas fa-user-eye fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
     <div class="row no-gutters p-3">
