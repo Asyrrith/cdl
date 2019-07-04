@@ -170,6 +170,13 @@
   
   <div class="col-sm-6 p-2 d-flex justify-content-between" style="font-size:.9rem;">
     <span class="text-uppercase text-muted" style="letter-spacing:2px;">Residence</span>
+    <!--
+    
+    Closer residential options:
+    ► Nouvel, BC, Canada
+    ► Visscher, BC, Canada
+    
+    -->
     <span>[info]</span>
   </div>
   
@@ -405,7 +412,7 @@
         <span class="text-muted text-uppercase">Body Type</span>
         <!-- ---------------------
         
-        Are they tall and lanky? Short and chunky? A midget build like a Greek God?
+        Are they tall and lanky? Short and chunky? A midget built like a Greek God?
         
         ------------------------->
         <span>[info]</span>
@@ -721,8 +728,9 @@
         ------------------------->
         <span>[info] </span>
       </div>
+
+        <br>
         <!-- ---------------------
-        
         
         ABOUT SKILLS:
         
@@ -845,6 +853,8 @@
  <li><i class="fa fa-times"></i> Dislike </li>
  <li><i class="fa fa-times"></i> Dislike </li>
  <li><i class="fa fa-times"></i> Dislike </li>
+ 
+ 
 <!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL DISLIKES ---
 
       <li><i class="fa fa-times"></i> Dislike </li>
@@ -874,6 +884,8 @@
  <li><i class="fa fa-stars"></i> Hobby </li>
  <li><i class="fa fa-stars"></i> Hobby </li>
  <li><i class="fa fa-stars"></i> Hobby </li>
+
+
 <!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL HOBBIES ---
 
       <li><i class="fa fa-stars"></i> Hobby </li>
@@ -900,6 +912,8 @@
  <li><i class="fa fa-spider"></i> Fear </li>
  <li><i class="fa fa-spider"></i> Fear </li>
  <li><i class="fa fa-spider"></i> Fear </li>
+
+
 <!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL FEARS ---
 
       <li><i class="fa fa-spider"></i> Fear </li>
@@ -1389,9 +1403,22 @@
 </div></div></div>
 <!-- ----------------------
 
-               SKILLS & ABILITIES
+                SKILLS & ABILITIES
 
------------------------ -->
+
+                NOTE —
+                MAGICAL SKILLS / ABILITIS
+                 • Limited to 4 slots
+                 • Max 8 slots (final 4 can be bought)
+                
+                Non-Magical Skills / Abilities
+                 • No real limit
+                 • Keep it realistic
+                 • More isn't necessarily better
+  
+  
+  --------------------------------- -->
+
 <div class="col-lg-12 p-1"><div class="card rounded-0 p-3 d-block">
 <div class="d-flex justify-content-between display-1 text-uppercase" style="font-size:1.25rem;letter-spacing:2px;">
   
