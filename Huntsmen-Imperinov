@@ -1788,7 +1788,7 @@
   <div class="card bg-faded d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
-    <span class="text-primary">Family</span>
+    <span class="text-primary">Relationships</span>
     <i class="fas fa-user-friends fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
