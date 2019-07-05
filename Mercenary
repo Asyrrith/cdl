@@ -1,0 +1,215 @@
+<div class="container">
+    <div class="row">
+      
+        <div class="col-lg-4 mb-4">
+            <!-------- focal image -- will crop & scale with screen -- focus is in top center of image -- use a taller image -------->
+            <div class="card bg-faded d-block h-100">
+                <div style="background-image: url(IMG URL); 
+                background-size: cover; background-position: top center; min-height: 300px;" class="h-100"></div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+            <div class="card card-block bg-faded d-block h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-info-circle fa-fw pull-right"></i> Basics</h1>
+                <table class="w-100 border-0">
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="width: 35%; letter-spacing:1px;">
+                            Name <i class="fas fa-angle-double-right" /></td>
+                        <td>content</td>
+                    </tr>
+
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                            Age <i class="fas fa-angle-double-right" /></td>
+                        <td>content</td>
+                    </tr>
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                            Gender <i class="fas fa-angle-double-right" /></td>
+                        <td>content</td>
+                    </tr>
+
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                            Race <i class="fas fa-angle-double-right" /></td>
+                        <td>(or species)</td>
+                    </tr>
+
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                            Role <i class="fas fa-angle-double-right" /></td>
+                        <td>content</td>
+                    </tr>
+
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                          Theme <i class="fas fa-angle-double-right" /></td>
+                        <td><a href="LINK" target="_BLANK">link a song</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="col-lg-4 mb-4">
+            <!------------- LOOKS BOX ----------------------------------------->
+            <div class="card card-block bg-faded d-block h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-user-circle fa-fw pull-right"></i> Looks</h1>
+                <table class="w-100 border-0">
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="width: 35%; letter-spacing:1px;">
+                            Height <i class="fas fa-angle-double-right" /></td>
+                        <td>content</td>
+                    </tr>
+
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                            Build <i class="fas fa-angle-double-right" /></td>
+                        <td>content</td>
+                    </tr>
+
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                            Eyes <i class="fas fa-angle-double-right" /></td>
+                        <td>#000</td>
+                    </tr>
+
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                            Skin <i class="fas fa-angle-double-right" /></td>
+                        <td>#000</td>
+                    </tr>
+
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                            Hair <i class="fas fa-angle-double-right" /></td>
+                        <td>#000</td>
+                    </tr>
+
+                    <tr>
+                        <td class="align-top text-right font-weight-bold px-0" style="letter-spacing:1px;">
+                            Appeal <i class="fas fa-angle-double-right" /></td>
+                        <td>content</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+    </div>
+    <!------------- about box ------------- will grow with content ---------------------------->
+    <div class="card bg-faded card-block d-block mb-4">
+        <h1 class="display-4 text-uppercase text-primary mb-3" style="letter-spacing:2px;"><i class="fas fa-book fa-fw pull-right"></i> About</h1>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id tristique metus, at malesuada elit. Sed fermentum purus et odio tempor congue. Cras vestibulum porta efficitur. Morbi vel turpis at magna lobortis dapibus at vitae ante. Mauris faucibus velit et elementum rutrum. Morbi ac bibendum nibh. Integer interdum pharetra ligula, non dignissim dui fermentum varius. Aliquam sed eros sed nisl bibendum facilisis at et augue. Maecenas luctus risus ante, ac egestas lacus suscipit ut. Etiam eu urna velit. Ut vitae augue quam. Vivamus ex nisi, suscipit non nisl id, rutrum condimentum velit. Aenean vel ante pulvinar, bibendum lacus eu, euismod ex.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id tristique metus, at malesuada elit. Sed fermentum purus et odio tempor congue. Cras vestibulum porta efficitur. Morbi vel turpis at magna lobortis dapibus at vitae ante. Mauris faucibus velit et elementum rutrum. Morbi ac bibendum nibh. Integer interdum pharetra ligula, non dignissim dui fermentum varius. Aliquam sed eros sed nisl bibendum facilisis at et augue. Maecenas luctus risus ante, ac egestas lacus suscipit ut. Etiam eu urna velit. Ut vitae augue quam. Vivamus ex nisi, suscipit non nisl id, rutrum condimentum velit. Aenean vel ante pulvinar, bibendum lacus eu, euismod ex.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id tristique metus, at malesuada elit. Sed fermentum purus et odio tempor congue. Cras vestibulum porta efficitur. Morbi vel turpis at magna lobortis dapibus at vitae ante. Mauris faucibus velit et elementum rutrum. Morbi ac bibendum nibh. Integer interdum pharetra ligula, non dignissim dui fermentum varius. Aliquam sed eros sed nisl bibendum facilisis at et augue. Maecenas luctus risus ante, ac egestas lacus suscipit ut. Etiam eu urna velit. Ut vitae augue quam. Vivamus ex nisi, suscipit non nisl id, rutrum condimentum velit. Aenean vel ante pulvinar, bibendum lacus eu, euismod ex.</p>
+
+    </div>
+
+    <div class="row">
+      
+        <div class="col-lg-4 mb-4">
+            <!------------- likes box ----------------------------------------->
+            <div class="card bg-faded d-block card-block h-100 pb-2">
+                <h1 class="display-4 text-uppercase text-primary mb-3" style="letter-spacing:2px;"><i class="fas fa-plus fa-fw pull-right" /> Likes</h1>
+                <ul class="mb-0">
+                    <li class="mb-2">content</li>
+                    <li class="mb-2">content</li>
+                    <li class="mb-2">content</li>
+                    <li class="mb-2">content</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-lg-4 mb-4">
+            <!------------- dislikes box ----------------------------------------->
+            <div class="card bg-faded d-block card-block h-100 pb-2">
+                <h1 class="display-4 text-uppercase text-primary mb-3" style="letter-spacing:2px;"><i class="fas fa-times fa-fw pull-right" /> Dislikes</h1>
+                <ul class="mb-0">
+                    <li class="mb-2">content</li>
+                    <li class="mb-2">content</li>
+                    <li class="mb-2">content</li>
+                    <li class="mb-2">content</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-lg-4 mb-4">
+            <!------------- extra box ----------------------------------------->
+            <div class="card bg-faded d-block card-block pb-2">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-check fa-fw pull-right" /> Extra</h1>
+                <ul class="mb-0">
+                    <li class="mb-2">content</li>
+                    <li class="mb-2">content</li>
+                    <li class="mb-2">content</li>
+                    <li class="mb-2">content</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-7 mb-4">
+            <!------------- playlist box ----------------------------------------->
+            <div class="card bg-faded d-block card-block h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-music fa-fw pull-right" /> Playlist</h1>
+                <p>Song title
+                    <a href="LINK" target="_BLANK"><i class="fas fa-play pull-right m-1" /></a>
+                </p>
+                <hr>
+                <p>Song title
+                    <a href="LINK" target="_BLANK"><i class="fas fa-play pull-right m-1" /></a>
+                </p>
+                <hr>
+                <p>Song title
+                    <a href="LINK" target="_BLANK"><i class="fas fa-play pull-right m-1" /></a>
+                </p>
+                <hr>
+                <p>Song title
+                    <a href="LINK" target="_BLANK"><i class="fas fa-play pull-right m-1" /></a>
+                </p>
+                <hr>
+                <p>Song title
+                    <a href="LINK" target="_BLANK"><i class="fas fa-play pull-right m-1" /></a>
+                </p>
+            </div>
+        </div>
+
+        <div class="col-lg-5 mb-4">
+            <!------------- focal image -- will crop & scale with screen -- focus is center of image -- use a wider image -------->
+            <div class="card bg-faded d-block h-100">
+                <div style="background-image: url(https://file.toyhou.se/images/12017206_a2uO27IL2wMB8af.png); background-size: cover; background-position: center; min-height: 350px;" class="h-100"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <!------------- moodboard ----------------------------------------->
+    <div class="card bg-faded card-block d-block pb-1 mb-4">
+        <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-image fa-fw pull-right"></i> Aesthetic</h1>
+        
+        <!------- images can be any size -- just make them all the same size -- will scall with screen size -->
+        <div class="row">
+
+            <div class="col-md-3 col-sm-6 text-center mb-4">
+                <img src="IMG URL" class="img-rounded">
+            </div>
+
+            <div class="col-md-3 col-sm-6 text-center mb-4">
+                <img src="IMG URL" class="img-rounded">
+            </div>
+
+            <div class="col-md-3 col-sm-6 text-center mb-4">
+                <img src="IMG URL" class="img-rounded">
+            </div>
+
+            <div class="col-md-3 col-sm-6 text-center mb-4">
+                <img src="IMG URL" class="img-rounded">
+            </div>
+        </div>
+    </div>
+    <p class="text-right small">
+        HTML by @lowkeywicked
+    </p>
+</div>
