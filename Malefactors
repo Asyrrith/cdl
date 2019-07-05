@@ -1,5 +1,176 @@
+<!-- ------------------
+
+
+
+          BEFORE YOU GET INTO IT!
+
+          Please pay attention to the gray text (like this) in the code as you fill in the template.
+          If there is anything confusing, the gray section headers should be able to tell you exactly what to do.
+
+          If you are unable to figure out how to fill something in, feel free to contact me
+          All possible way to contact me are on my profile, right side, listed under "Links"
+          The best bet is to message via Discord or IG if you're looking for a fast response
+
+          Best of luck and have fun!
+
+
+----------------------->
+
 <div class="container p-0">
 <div class="row no-gutters bg-faded rounded p-2">
+<!-- -------------------------------
+
+
+           PROFILE INFO
+
+
+-------------------------------- -->
+<div class="col-lg-8 p-2">
+<div class="card border-0 d-block p-3 h-100">
+
+  <!-- ------------------------
+
+             INFO
+
+  ------------------------- -->
+  <div class="row no-gutters">
+    
+    <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Street</span>
+    <!--
+    What is their Street name?
+      NOTE - Malefactors tend to use classic criminal, gang, or
+      notably fear-inducing names. Some names, however, end up
+      being more humorous than intended.
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Legal</span>
+    <!--
+    What is their legally documented name?
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">NN</span>
+    <!--
+    What is their nickname?
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Birthday</span>
+    <!--
+    Please use the MM/DD/YYYY format
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Age</span>
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Zodiacs</span>
+    <!--
+    Eastern, Western, Native American, Mayan, Egyptian.. whatever you want
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Gender</span>
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Orientation</span>
+    <!--
+    What is their sexual and/or romantic orientation?
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Race</span>
+    <!--
+    DL's can be Changeling, Human, or Vethexian
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Heritage</span>
+    <!--
+    Example: Chinese-Italian, German-Russian, Spanish, Chilean
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Magic</span>
+    <!--
+    Vethexian or Blessed only
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Blessing</span>
+    <!--
+    Are they Blessed? If so, what is their blessing?
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Height</span>
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Weight</span>
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Marital Status</span>
+    <!--
+    Are they single? Dating? Married?
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">S/O</span>
+    <a href="">[name]</a>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Residence</span>
+    <!--
+    
+    Malefactor residential options:
+    ► Nouvel, BC, Canada
+    ► Visscher, BC, Canada
+    
+    -->
+    <span class="text-muted">[info]</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Theme</span>
+    <a href="">[song]</a>
+  </div>
+    
+  </div>
+</div></div>
+
 <!-- -------------------------------
 
              AVATAR
@@ -14,402 +185,1628 @@
   
 </div>
 </div>
-<!-- -------------------------------
-
-
-           PROFILE INFO
-
-
--------------------------------- -->
-<div class="col-lg-8 p-2">
-<div class="card border-0 d-block p-3 h-100">
-  <!-- ------------------------
-
-             TITLE
-
-  ------------------------- -->
-  <div class="display-4 text-uppercase d-flex justify-content-between" style="font-size:22px;letter-spacing:1px;">
-    
-    <span>Profile</span> <i class="fal fa-user my-auto"></i>  
-    
-  </div><hr class="my-1">
-  <!-- ------------------------
-
-             INFO
-
-  ------------------------- -->
-  <div class="row no-gutters">
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Name</span>
-      <span>[info]</span>
-    </div>
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Age</span>
-      <span>[info]</span>
-    </div>
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Build</span>
-      <span>[info]</span>
-    </div>
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Species</span>
-      <span>[info]</span>
-    </div>
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Gender</span>
-      <span>[info]</span>
-    </div>
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Oreint.</span>
-      <span>[info]</span>
-    </div>
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Pronouns</span>
-      <span>[info]</span>
-    </div>
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Occupation</span>
-      <span>[info]</span>
-    </div>
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Creator</span>
-      <span>[info]</span>
-    </div>
-    
-    <div class="col-lg-6 p-2 d-flex justify-content-between">
-      <span class="text-uppercase text-muted">Worth</span>
-      <span>[info]</span>
-    </div>
-    
-  </div>
-</div></div>
-<!-- -------------------------------
-
-
-          DESIGN NOTES
-
-
--------------------------------- -->
-<div class="col-lg-4 p-2">
-<div class="card border-0 d-block h-100 p-3">
-  <!-- ------------------------
-
-             TITLE
-
-  ------------------------- -->
-  <div class="display-4 text-uppercase d-flex justify-content-between" style="font-size:22px;letter-spacing:1px;">
-    
-    <span>Design Notes</span><i class="fal fa-book-open my-auto"></i>  
-    
-  </div><hr class="my-1">
-  <!-- ------------------------
-
-             INFO
-
-  ------------------------- -->
-  <div class="table-responsive p-2 text-muted" style="max-height:150px;">
-  <ul class="m-0 pl-4">
-    
-    <li>Curabitur vel mauris ac nulla pulvinar dictum</li>
-    <li>Phasellus sollicitudin mauris tempor</li>
-    <li>Nullam nec neque eget tortor hendrerit dictum a et massa</li>
-    <li>Pellentesque rutrum quam non ipsum egestas</li>
-    
-  </ul></div>
-</div></div>  
-
-<div class="col-lg-8 p-2">
-<div class="card border-0 d-block h-100 p-3">
-  <!-- ------------------------
-
-             TITLE
-
-  ------------------------- -->
-  <div class="display-4 text-uppercase d-flex justify-content-between" style="font-size:22px;letter-spacing:1px;">
-    
-    <span>Personality</span><i class="fal fa-heart my-auto"></i>  
-    
-  </div><hr class="my-1">
-  <!-- ------------------------
-
-             INFO
-
-  ------------------------- -->
-  <div class="table-responsive p-2 text-muted" style="max-height:150px;">
-    
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis mauris vel nisi tempus mollis sit amet in sapien. Vivamus vitae egestas elit, congue dapibus ex. Nam id elit sed enim feugiat consequat. Proin sit amet accumsan mi. Vestibulum scelerisque, orci a volutpat malesuada, nisl turpis blandit neque, in volutpat enim lacus sit amet leo. Donec convallis iaculis risus in volutpat. Aliquam id metus mi. Nulla purus diam, laoreet convallis sollicitudin pharetra, vestibulum in nisl. Nunc ut turpis massa. Aenean tellus sapien, rutrum eget pharetra at, vestibulum nec sapien. Nulla varius massa non consequat vulputate.
-    </p>
-    
-  </div>
 </div>
-</div>  
-<!-- -------------------------------
+
+<br>
+
+<!-- ----------------------
 
 
-              TRIVIA
+        SECTION 01-B
 
 
--------------------------------- -->
-<div class="col-12 p-2">
-<div class="card border-0 d-block h-100 p-3">
-  <!-- ------------------------
+----------------------- -->
+<div class="row no-gutters bg-faded rounded p-2">
+<!-- ----------------------
 
-             TITLE
 
-  ------------------------- -->
-  <div class="display-4 text-uppercase d-flex justify-content-between" style="font-size:22px;letter-spacing:1px;">
+       HOW TO USE
+
+       CHANGE THE NUMBERS IN ( style="width:__%" ) TO ADJUST THE BAR
+
+
+----------------------- -->
+  <div class="col-lg-4 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
-    <span>Trivia</span><i class="fal fa-question-circle my-auto"></i> 
+  <i class="fa fa-clipboard-list"></i><i class="fa fa-sliders"></i>
     
-  </div><hr class="my-1">
-  <!-- ------------------------
 
-             INFO
+    </div><hr class="my-1">
+    <div class="table-responsive text-muted p-2" style="height:auto;">
+  
 
-  ------------------------- -->
-  <div class="table-responsive p-2 text-muted" style="max-height:150px;">
-  <ul class="m-0 pl-4">
-    
-    <li>Cras dictum vestibulum suscipit. Sed facilisis finibus sapien, ac vestibulum erat maximus vel.</li>
-    <li>Maecenas laoreet, enim ut ornare accumsan, ante nibh tristique ex, vitae laoreet purus mi a sapien.</li>
-    <li>Donec risus quam, efficitur non purus lobortis, tincidunt finibus ante. Pellentesque id congue risus.</li>
-    <li>Nullam egestas velit vitae purus ultricies suscipit. Nullam tincidunt eros tortor, nec placerat nunc interdum eu. </li>
-    <li>Curabitur eget posuere lectus.</li>
-    
-  </ul></div>
-</div>
-</div> 
-<!-- -------------------------------
-
-
-             HISTORY
-
-
--------------------------------- -->
-<div class="col-lg-8 p-2">
-<div class="card border-0 d-block h-100 p-3">
-  <!-- ------------------------
-
-             TITLE
-
-  ------------------------- -->
-  <div class="display-4 text-uppercase d-flex justify-content-between" style="font-size:22px;letter-spacing:1px;">
-    
-    <span>History</span><i class="fal fa-book my-auto"></i>  
-    
-  </div><hr class="my-1">
-  <!-- ------------------------
-
-             INFO
-
-  ------------------------- -->
-  <div class="table-responsive p-2 text-muted" style="max-height:380px;">
-    
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis mauris vel nisi tempus mollis sit amet in sapien. Vivamus vitae egestas elit, congue dapibus ex. Nam id elit sed enim feugiat consequat. Proin sit amet accumsan mi. Vestibulum scelerisque, orci a volutpat malesuada, nisl turpis blandit neque, in volutpat enim lacus sit amet leo. Donec convallis iaculis risus in volutpat. Aliquam id metus mi. Nulla purus diam, laoreet convallis sollicitudin pharetra, vestibulum in nisl. Nunc ut turpis massa. Aenean tellus sapien, rutrum eget pharetra at, vestibulum nec sapien. Nulla varius massa non consequat vulputate.
-    </p>
-    
-    <p>Vestibulum a rutrum dolor. Integer venenatis suscipit magna, sed tincidunt dolor tempor in. Vivamus nisi diam, auctor in ante eget, ultricies lacinia ante. Integer bibendum tortor nisl, et hendrerit est volutpat id. Donec facilisis erat vel efficitur mattis. Phasellus condimentum vestibulum odio eu fermentum. Curabitur malesuada dignissim sem, sit amet malesuada justo porttitor id. Nulla vel eleifend urna, vitae sagittis lorem. Praesent tempor, enim quis egestas eleifend, mi augue vestibulum metus, ac fermentum neque lacus ac lectus. Etiam tristique, lacus eget varius viverra, purus ligula tempor neque, ut pharetra felis enim non velit. Nulla sodales id felis id aliquet. Vivamus ac euismod neque, eu convallis nunc. Nullam viverra erat blandit semper consectetur. Duis porttitor nisl eu dui tempor maximus. Nullam nec arcu congue, ultrices sem eu, dictum turpis.</p>
-    
-    <p>Donec condimentum blandit congue. Vivamus sodales porta sem at vulputate. Ut a ex elit. Sed vel lacus vitae nisi consequat finibus. Fusce eu tempus arcu. Nulla placerat dapibus dolor non molestie. Vivamus a pellentesque purus. Donec maximus, enim ac vehicula convallis, diam nunc tempus erat, malesuada scelerisque augue neque eu nunc. Mauris in auctor quam. Proin vulputate, nunc laoreet tincidunt varius, nisi nulla aliquam justo, in posuere sapien tortor eu arcu. In metus justo, luctus at pellentesque a, cursus et quam.</p>
-    
+  <!-- INTELLIGENCE -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Intelligence</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+      
+      style="width:50%">
+      
+    </span></span>  
   </div>
-</div></div><div class="col-lg-4 row no-gutters">
-<!-- -------------------------------
-
-
-              LIKES
-
-
--------------------------------- -->
-<div class="col-lg-12 col-sm-6 p-2">
-<div class="card border-0 d-block h-100 p-3">
-  <!-- ------------------------
-
-             TITLE
-
-  ------------------------- -->
-  <div class="display-4 text-uppercase d-flex justify-content-between" style="font-size:22px;letter-spacing:1px;">
+  <!-- CREATIVITY -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Creativity</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
     
-    <span>Likes</span><i class="fal fa-user-plus my-auto"></i> 
+      style="width:50%"></span>
     
-  </div><hr class="my-1">
-  <!-- ------------------------
-
-             INFO
-
-  ------------------------- -->
-  <div class="table-responsive p-2 text-muted" style="max-height:150px;">
-  <ul class="m-0 pl-4">
+    </span>  
+  </div>
+  <!-- CONFIDENCE -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Confidence</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
     
-    <li>Tincidunt</li>
-    <li>Malesuada</li>
-    <li>Quisque</li>
-    <li>Aliquam</li>
+      style="width:50%">
     
-  </ul></div>
-</div></div>  
-<!-- -------------------------------
-
-
-            DISLIKES
-
-
--------------------------------- -->
-<div class="col-lg-12 col-sm-6 p-2">
-<div class="card border-0 d-block h-100 p-3">
-  <!-- ------------------------
-
-             TITLE
-
-  ------------------------- -->
-  <div class="display-4 text-uppercase d-flex justify-content-between" style="font-size:22px;letter-spacing:1px;">
     
-    <span>Disikes</span><i class="fal fa-user-times my-auto"></i>  
+    </span></span>  
+  </div>
+  <!-- HUMOR -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Humor</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
     
-  </div><hr class="my-1">
-  <!-- ------------------------
-
-             INFO
-
-  ------------------------- -->
-  <div class="table-responsive p-2 text-muted" style="max-height:150px;">
-  <ul class="m-0 pl-4">
+      style="width:50%">
     
-    <li>Suspendisse</li>
-    <li>Pellentesque</li>
-    <li>Vulputate</li>
-    <li>Convallis</li>
-    <li>Vestibulum</li>
     
-  </ul></div>
-</div></div></div> 
-<!-- -------------------------------
-
-
-          RELATIONSHIPS
-
-
--------------------------------- -->
-<div class="col-12 p-2">
-<div class="card border-0 d-block h-100 p-3">
-  <!-- ------------------------
-
-             TITLE
-
-  ------------------------- -->
-  <div class="display-4 text-uppercase d-flex justify-content-between" style="font-size:22px;letter-spacing:1px;">
+    </span></span>  
+  </div>
+  <!-- EMPATHY -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Empathy</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
     
-    <span>Relationships</span><i class="fal fa-users my-auto"></i>  
+      style="width:50%">
     
-  </div><hr class="my-1">
+    
+    </span></span>  
+  </div>
+  <!-- CHARISMA -->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+    <span class="text-uppercase">Charisma</span>
+    <span class="my-auto progress w-50" style="height:10px"><span class="progress-bar h-100" 
+    
+      style="width:50%">
+    
+    
+    </span></span>  
+  </div>
+
+      <ul class="list-unstyled font-weight-bold mb-4">
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Introvert
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Extrovert
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:30%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Thinking
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Feeling
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:40%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Mean
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Nice
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:50%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Lazy
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Active
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:60%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Serious
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Playful
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:70%;background-color:#96CEB2;"></div></div>
+       </li>
+       <li class="mb-3">
+        <span class="mb-2" style="color:#96CEB2;">
+         Sloppy
+        </span>
+        <span class="pull-right" style="color:#746586;">
+         Neat
+        </span>
+        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:80%;background-color:#96CEB2;"></div></div>
+       </li>
+      </ul>
+  
+</div></div></div>
+
   <!-- -------------------------------
   
   
-          RELATIONSHIPS START
+              APPEARANCE
   
   
-  -------------------------------- -->
-  <div class="table-responsive" style="max-height:215px;">
-  <div class="row no-gutters">
-    <!-- ------------------------
-  
-                001
-  
-    ------------------------- -->
-    <div class="col-md-6 p-1 row no-gutters">
-    <!-- AVATAR ------------- -->
-    <div class="col-lg-4 hidden-md-down">
-      
-      <img src="IMG URL" class="rounded">
-      
-    </div>
-    <!-- INFO --------------- -->
-    <div class="col-lg-8 px-2">
-      
-      <a href="">Name</a> | Relationship
-      
-      <div class="table-reponsive pt-1 text-muted" style="max-height:175px;">
-        
-        <p>
-          Maybe don't write a book here. You can but it might look a lil funky. Quisque quis sagittis dui. Sed sed
-          pellentesque ex. Aliquam quis metus ac ligula gravida mattis ultricies non dolor. Nam augue velit, ultrices
-          vitae vestibulum sed, dignissim eu tortor.
-        </p>
-        
-      </div>
-    </div></div>
-    <!-- ------------------------
-  
-                002
-  
-    ------------------------- -->
-    <div class="col-md-6 p-1 row no-gutters">
-    <!-- AVATAR ------------- -->
-    <div class="col-lg-4 hidden-md-down">
-      
-      <img src="IMG URL" class="rounded">
-      
-    </div>
-    <!-- INFO --------------- -->
-    <div class="col-lg-8 px-2">
-      
-      <a href="">Name</a> | Relationship
-      
-      <div class="table-reponsive pt-1 text-muted" style="max-height:175px;">
-        
-        <p>
-          Maybe don't write a book here. You can but it might look a lil funky. Quisque quis sagittis dui. Sed sed
-          pellentesque ex. Aliquam quis metus ac ligula gravida mattis ultricies non dolor. Nam augue velit, ultrices
-          vitae vestibulum sed, dignissim eu tortor.
-        </p>
-        
-      </div>
-    </div></div>
-    <!-- ------------------------
-  
-                003
-  
-    ------------------------- -->
-    <div class="col-md-6 p-1 row no-gutters">
-    <!-- AVATAR ------------- -->
-    <div class="col-lg-4 hidden-md-down">
-      
-      <img src="IMG URL" class="rounded">
-      
-    </div>
-    <!-- INFO --------------- -->
-    <div class="col-lg-8 px-2">
-      
-      <a href="">Name</a> | Relationship
-      
-      <div class="table-reponsive pt-1 text-muted" style="max-height:175px;">
-        
-        <p>
-          Maybe don't write a book here. You can but it might look a lil funky. Quisque quis sagittis dui. Sed sed
-          pellentesque ex. Aliquam quis metus ac ligula gravida mattis ultricies non dolor. Nam augue velit, ultrices
-          vitae vestibulum sed, dignissim eu tortor.
-        </p>
-        
-      </div>
-    </div></div>
+  --------------------------------- -->
+  <div class="col-lg-4 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Appearance</span>
+    <i class="fas fa-eye fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <div class="p-2 text-muted">
     
     
-  <!-- add more above this line -->  
-  </div></div>
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Skin</span>
+        <!-- ---------------------
+        
+        Suggested site: https://www.htmlcsscolor.com/
+          Alternatively, just describe their skin color
+        
+        ------------------------->
+        <span>#000000</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Eyes</span>
+        <!-- ---------------------
+        
+        Suggested site: https://www.htmlcsscolor.com/
+          Alternatively, just describe their eye color
+        
+        ------------------------->
+        <span>#000000</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Hair</span>
+        <!-- ---------------------
+        
+        Suggested site: https://www.htmlcsscolor.com/
+          Alternatively, just describe their hair color
+        
+        DON'T FORGET TO DESCRIBE THEIR HAIR STYLE
+        
+        ------------------------->
+        <span>#000000<br>
+        [style]</span>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Body Type</span>
+        <!-- ---------------------
+        
+        Are they tall and lanky? Short and chunky? A midget built like a Greek God?
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Tattoos</span>
+        <!-- ---------------------
+        
+        Got ink? Share with the class about their tats. All of them.
+        Yes, even those we don't get to see.
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Scars/Marks</span>
+        <!-- ---------------------
+        
+        Self-explanatory
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Casual Wear</span>
+        <!-- ---------------------
+        
+        What they wear when they're just living; not working, not dressed up nice.. just.. casual.
+        
+        ------------------------->
+        <span><br>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Formal Wear</span>
+        <!-- ---------------------
+        
+        What's on the menu? A tuxedo? Cocktail dress or ball gown? Some juggalo pimp suit?
+        What ever it is they wear to formal events, tell us.
+        
+        ------------------------->
+        <span><br>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Work Wear</span>
+        <!-- ---------------------
+        
+        Work clothes, my man. If they're not a hooker, don't have them working in fishnets and crop tops.. unless they work at Hooters, then I guess it's okay. 
+        (Hooters is not a thing in this universe)
+        
+        ------------------------->
+        <span><br>[info]</span>
+      </div>
+      
+      
+    </div>
+    
+  </div>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+              PERSONAL INFO
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-4 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Personal Info</span>
+    <i class="fas fa-book-open fa-fw mt-auto"></i>
+
+  </div><hr class="my-1">
+  <div class="p-2 text-muted">
+    
+    
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-home text-uppercase"> Residence</span>
+        <!-- ---------------------
+        
+        Not just the city they live in, but their home address
+        (Yes, I am encouraging you to come up with a fake address)
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-car text-uppercase"> Transportation</span>
+        <!-- ---------------------
+        
+        Beep, beep; I'm a sheep.
+        Do they drive a car? Ride a bike? Walk everywhere?
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-dog text-uppercase"> Pets</span>
+        <!-- ---------------------
+        
+        Your every-day, super ordinary pets with no magical powers.
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-deer text-uppercase"> Familiar</span>
+        <!-- ---------------------
+        
+        A magical pet that chooses you and will ditch you if you suck.
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-lips text-uppercase"> Languages</span>
+        <!-- ---------------------
+        
+        How they use that mouth? How many languages do they know - partial or fluently.
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-cross text-uppercase"> Religion</span>
+        <!-- ---------------------
+        
+        Who they worship, if anyone?
+        Jesus? Allah? Loki?
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-frown text-uppercase"> Disabilities</span>
+        <!-- ---------------------
+        
+        What's the damage?
+        This refers both physical and mental disabilities.
+        Please be sure to accurately differentiate mental disabilities from mental disorders which are covered a bit later.
+        
+        To make a list, add a <br> and drop to the next line
+        It will look like this:
+        
+        <span>[info]<br>
+        [info]</span>
+        
+        ------------------------->
+        <span>[info]</span>
+      </div>
+      
+      
+    </div>
+    
+  </div>
+  </div>
+  </div>
+
+
+<!-- ----------------------
+
+                PERSONALITY – PART 1
+
+                 1. What is a DEMEANOR?
+                   A : Outward expression; how they let the world see them
+                   
+                 2. What do you mean by REALITY?
+                   A : Their true personality, what they're like with the people they trust most
+                 
+                 3. What do I put for "REASON"?
+                   A : Tell us why your character's Demeanor is different from or the same as Reality.
+
+----------------------- -->
+<div class="col-lg-6 p-1">
+    <div class="card border-0 d-block p-3 h-100">
+<div class="d-flex justify-content-between display-1 text-uppercase" style="font-size:1.25rem;letter-spacing:2px;">
+  
+  <span class="text-primary">🌟 Personality</span><i class="fa fa-heartbeat fa-fw mt-auto"></i>
+
+  </div><hr class="my-1">
+
+<div class="table-responsive text-muted p-2" style="height:auto;">
+  
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Demeanor</span>
+        <span>[info]</span>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Reality</span>
+        <span>[info]</span>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Reason</span>
+        <span>[info]</span>
+      </div>
+  
+  
 </div></div></div>
-<!-- CREDIT | Do not remove --- -->
-<a class="d-block text-right pt-1" style="font-size:12px" href="https://toyhou.se/vomcodesstuff">
-  <i class="fal fa-code tooltipster" data-placement="left" title="code by vom"></i>
-</a>
-</div>
+<!-- ----------------------
+
+               PERSONALITY – PART 2
+  
+              1. Positive & Negative Traits
+              List as many as you want / can think of. These are a big part of what make your character unique.
+            
+              2. Mental Disorders
+              – If they have none, erase the second bullet and mark "1" as None
+              – If they have more than 2, feel free to throw down a "<br> • 3" and so on to keep it going
+              
+                !! Feel free to include how they developed these disorders !!
+
+----------------------- -->
+<div class="col-lg-6 p-1">
+    <div class="card border-0 d-block p-3 h-100">
+<div class="d-flex justify-content-between display-1 text-uppercase" style="font-size:1.25rem;letter-spacing:2px;">
+  
+  <i class="fa fa-heartbeat fa-fw mt-auto"></i><span class="text-primary">🌟</span>
+  
+</div><hr class="my-2"><div class="table-responsive text-muted p-2" style="height:auto;">
+  
+  
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Positive Traits</span>
+        <span>[Positive] <br>
+        [Positive] <br>
+        [Positive] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Negative Traits</span>
+        <span>[Negative] <br>
+        [Negative] <br>
+        [Negative] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Mental Disorders</span>
+        <span>[Disorder] <br>
+        [Disorder] </span>
+      </div>
+  
+  
+</div></div></div>
+
+<!-- ----------------------
+
+         FAMILIAR
+
+----------------------- -->
+    <div class="col-lg-3 p-1">
+    <div class="card border-0 d-block p-3 h-100">
+    <div class="d-flex justify-content-between display-1 text-uppercase" style="font-size:1.25rem;letter-spacing:2px;">
+  
+  <span class="text-primary">Familiar</span><i class="fa fa-deer fa-fw mt-auto"></i>
+  
+</div><hr class="my-2"><div class="table-responsive text-muted p-2" style="height:auto;">
+  
+  
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Name</span>
+         <!-- ---------------------
+        
+        Pretty simple - what's their name?
+        
+        ------------------------->
+        <span><br>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <!-- ---------------------
+        
+        What's their species?
+        
+        ------------------------->
+        <span class="text-muted text-uppercase">Species</span>
+        <span><br>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Appearance</span>
+        <!-- ---------------------
+        
+        What do they look like?
+        Fur, scales, color, claws, no claws, etc, etc.
+        
+        ------------------------->
+        <span><br>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Nature</span>
+        <!-- ---------------------
+        
+        How they act (think Pokémon if you must); be sure to describe it.
+        
+        ------------------------->
+        <span><br>[info] </span>
+      </div>
+
+</div></div></div>
+
+<!-- ----------------------
+
+         FAMILIAR
+
+----------------------- -->
+    <div class="col-lg-5 p-1">
+    <div class="card border-0 d-block p-3 h-100">
+    <div class="d-flex justify-content-between display-1 text-uppercase" style="font-size:1.25rem;letter-spacing:2px;">
+  
+  <i class="fa fa-deer fa-fw mt-auto"></i><span class="text-primary">Skills</span><i class="fa fa-deer fa-fw mt-auto"></i>
+  
+</div><hr class="my-2"><div class="table-responsive text-muted p-2" style="height:auto;">
+
+        <!-- ---------------------
+        
+        ABOUT SKILLS:
+        
+        ► Number and strength of skills correlate to their rank:
+           – Manig   : 3 skills | Power:★☆☆☆☆
+           – Sporas  : 4 skills | Power: ★★☆☆☆
+           – Seltan  : 4 skills | Power: ★★★☆☆
+           – Apex (M): 5 skills | Power:  ★★★★☆
+           – Apex (P): 5 skills | Power: ★★★★★
+        
+        
+        ------------------------->
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Skill</span>
+        <span>[name]<br>
+        [info]<br></span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Skills</span>
+        <span>[name]<br>
+        [info]</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Skills</span>
+        <span>[name]<br>
+        [info]</span>
+      </div>
+
+
+  
+</div></div></div>
+<!-- ----------------------
+
+         ADDITIONAL NOTES
+
+            WHAT THIS SECTION IS FOR —
+          This section is to include additional notes
+          about your character that didn't find a home
+          anywhere else on the template.
+
+----------------------- -->
+    <div class="col-lg-4 p-1">
+    <div class="card border-0 d-block p-3 h-100">
+    <div class="d-flex justify-content-between display-1 text-uppercase" style="font-size:1.25rem;letter-spacing:2px;">
+  
+    <span class="text-primary">Notes</span><i class="fa fa-pen-alt fa-fw mt-auto"></i>
+  
+</div><hr class="my-2"><div class="table-responsive text-muted p-2" style="height:auto;">
+  
+  
+<ul class="card-block text-left list-unstyled">
+
+     <li><i class="fa fa-pen"></i> Note </li>
+     <br>
+     <li><i class="fa fa-pen"></i> Note </li>
+     <br>
+     <li><i class="fa fa-pen"></i> Note </li>
+
+
+
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL NOTES ---
+
+      <br>
+      <i class="fa fa-pen"></i> Note </li>
+
+---------------------------------->
+  </ul>
+  
+  
+</div></div></div>
+
+  <!-- -------------------------------
+  
+  
+           LIKES
+
+           Things your character likes
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-3 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Likes</span>
+    <i class="fas fa-check fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+<ul class="card-block text-left list-unstyled">
+
+     <li><i class="fa fa-check"></i> Like </li>
+     <li><i class="fa fa-check"></i> Like </li>
+     <li><i class="fa fa-check"></i> Like </li>
+
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL LIKES ---
+
+      <li><i class="fa fa-check"></i> Like </li>
+
+---------------------------------->
+
+  </ul>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+        DISLIKES
+
+        Things your character dislikes
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-3 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Dislikes</span>
+    <i class="fas fa-times fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+<ul class="card-block text-left list-unstyled">
+
+ <li><i class="fa fa-times"></i> Dislike </li>
+ <li><i class="fa fa-times"></i> Dislike </li>
+ <li><i class="fa fa-times"></i> Dislike </li>
+ 
+ 
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL DISLIKES ---
+
+      <li><i class="fa fa-times"></i> Dislike </li>
+
+---------------------------------->
+
+  </ul>
+  </div>
+  </div>
+
+  <!-- -------------------------------
+  
+  
+           Hobbies
+
+           Things your character does for fun in their free time
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-3 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Hobbies</span>
+    <i class="fas fa-stars fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+<ul class="card-block text-left list-unstyled">
+
+ <li><i class="fa fa-stars"></i> Hobby </li>
+ <li><i class="fa fa-stars"></i> Hobby </li>
+ <li><i class="fa fa-stars"></i> Hobby </li>
+
+
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL HOBBIES ---
+
+      <li><i class="fa fa-stars"></i> Hobby </li>
+
+---------------------------------->
+
+  </ul>
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+               FEARS
+  
+  
+  --------------------------------- -->
+  <div class="col-lg-3 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Fears</span>
+    <i class="fas fa-spider fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+<ul class="card-block text-left list-unstyled">
+
+ <li><i class="fa fa-spider"></i> Fear </li>
+ <li><i class="fa fa-spider"></i> Fear </li>
+ <li><i class="fa fa-spider"></i> Fear </li>
+
+
+<!-- ADD CODE ABOVE THIS LINE FOR ADDITIONAL FEARS ---
+
+      <li><i class="fa fa-spider"></i> Fear </li>
+
+---------------------------------->
+
+  </ul>
+  </div>
+  </div>
+<!-- ----------------------------
+
+             MALEFACTORS
+
+             NOTES – To see detailed information follow the links provided below
+
+----------------------------- --> 
+  <div class="col-lg-3 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Malefactor</span>
+    <i class="fas fa-sword fa-fw mt-auto"></i>
+  </div><hr class="my-1">
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Rank</a></span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Mantle</a></span>
+        <span>[info] </span>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Trainer</a></span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Partner</a></span>
+        <span>[info] </span>
+      </div>
+      
+    </div>
+
+    </div>
+  </div>
+
+<!-- ---------
+
+         HOW TO USE THIS SECTION
+         
+         • Include details regarding the jobs/assignments they do
+         • What they think of their division leader, the leaders of
+           the other divisions, their teacher, partner, others they encounter and/or work with
+         • What their work tactics are like
+         • If they like or dislike what they're doing
+         • Etc..
+
+------------->
+
+  <div class="col-lg-5 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <i class="fas fa-sword fa-fw mt-auto"></i><span class="text-primary">Details</span><i class="fas fa-sword fa-fw mt-auto"></i>
+  </div><hr class="my-1">
+
+      <p>
+      
+      Sharing is caring ♥
+      
+      </p>
+
+    </div>
+  </div>
+
+  <!-- -------------------------------
+  
+  
+               DAY JOB
+  
+                If your character has more than one Day Job please feel free to add on to the list
+  
+  --------------------------------- -->
+
+  <div class="col-lg-4 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Day Job</span>
+    <i class="fas fa-building fa-fw mt-auto"></i>
+    
+    </div><hr class="my-1">
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Day Job</a></span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Position</a></span>
+        <span>[info] </span>
+      </div>
+    </div>
+
+<!-- ----------------------------
+
+      Below you can note details about their Day Job
+      This includes thoughts and feelings about co-workers,
+      their job, how they interact with others, etc.
+
+---------------------------------->
+    <p> 
+      
+      Text goes here ♥
+      
+    </p>
+
+<!-- REMOVE THIS LINE ---- IF YOUR CHARACTER HAS A SECOND DAY JOB ----
+
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Day Job</a></span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase"><a href="_">Position</a></span>
+        <span>[info] </span>
+      </div>
+    </div>
+
+    <p> 
+      
+      Text goes here ♥
+      
+    </p>
+
+---- REMOVE THIS LINE ---- IF YOUR CHARACTER HAS A SECOND DAY JOB -->
+
+  </div>
+  </div>
+  <!-- -------------------------------
+  
+  
+                SCHOOL
+  
+                HOW TO FILL OUT THIS SECTION
+
+                ► SCHOOL : Name of the school your character attends or attended in the past
+            
+                ► STATUS : Attending, Expelled / Expulsion, Dropped Out, Graduated
+            
+                ► YEAR : Current attending year or highest year completed
+                
+                ► GRAD YEAR : The year they are set to graduate or did graduate
+  
+  --------------------------------- -->
+  <div class="col-lg-6 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">School</span>
+    <i class="fas fa-school fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">School</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Status</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Year</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Grad Year</span>
+        <span>[info] </span>
+      </div>
+    </div>
+
+<!-- ----------------------------
+
+      Below you can note details about their School life.
+      This includes details regarding their time there,
+      teacher and student interactions, what they liked,
+      what they loathed, and so on.
+
+---------------------------------->
+    <p>
+      
+      Text goes here ♥
+      
+    </p>
+
+  </div>
+  </div>
+
+  <!-- -------------------------------
+  
+  
+        EXTRACURRICULAR
+
+
+        WHAT IS THIS??
+          This section is for students who have extracurricular
+          activities, such as playing on a sports team or being
+          part of a club.
+        
+        HOW TO FILL IT OUT?
+          ACTIVITY – Exactly as it sounds; the activity.
+                     Football, Basketball, Chess Club, Drama, etc
+          
+          ROLE – A little different between sports and clubs.
+                     Sports - What position(s) they play on the team
+                              Football: Quarterback, Linebacker, Defensive Tackle
+                              Basketball: Point Guard, Center, Swingman
+                                (You catch the drift, right?)
+                    
+                     Clubs  - President? Vice President? Leading Lady?
+                                (My school didn't have clubs, sorry!)
+
+
+----------------------- -->
+  <div class="col-lg-6 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Extracurricular</span>
+    <i class="fas fa-chess fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Activity</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Role</span>
+        <span>[info] </span>
+      </div>
+
+<!-- ----------------------------
+
+      Below you can note details about their ECA's.
+      This includes details regarding the time spent there,
+      their interactions with others on the team or in the club,
+      what they think about the others involved, etc.
+
+---------------------------------->
+
+    <p>
+      
+      Sharing is caring ♥
+      
+    </p>
+
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Activity</span>
+        <span>[info] </span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Role</span>
+        <span>[info] </span>
+      </div>
+
+<!-- ----------------------------
+
+      Below you can note details about their ECA's.
+      This includes details regarding the time spent there,
+      their interactions with others on the team or in the club,
+      what they think about the others involved, etc.
+
+---------------------------------->
+
+    <p>
+      
+      Sharing is caring ♥
+      
+    </p>
+
+        </div>
+      </div>
+    </div>
+
+
+  <!-- -------------------------------
+  
+  
+                COMBAT
+  
+  
+  --------------------------------- -->
+  <div class="col-12 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Combat</span>
+    <i class="fas fa-shield-alt fa-fw mt-auto"></i>
+    
+   </div><hr class="my-1">
+          <div class="m-3">
+            <div class="row mb-3">
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Attack</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Defense</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Magic</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Resistance</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Stamina</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr class="hidden-md-up">
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Luck</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+               </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+<!-- -------------------------------
+  
+  
+                                WEAPONS
+
+  
+  
+  --------------------------------- -->
+  <div class="row no-gutters">
+
+  <div class="col-lg-6 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Weapons</span>
+    <i class="fas fa-sword fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+    <h3 class="text-uppercase" style="letter-spacing:1px;">Weapon </h3>
+      <p><Span class="small"><b>Proficiency:</b> 
+       <i class="fas fa-star" />
+       <i class="fas fa-star" />
+       <i class="far fa-star" />
+       <i class="far fa-star" />
+       <i class="far fa-star" /></Span><br>
+       Tell us about the weapon - how it was obtained, how often it's used, what it's used for..
+      </p>
+   <h3 class="text-uppercase" style="letter-spacing:1px;">Weapon </h3>
+      <p><Span class="small"><b>Proficiency:</b> 
+       <i class="fas fa-star" />
+       <i class="fas fa-star" />
+       <i class="far fa-star" />
+       <i class="far fa-star" />
+       <i class="far fa-star" /></Span><br>
+       Tell us about the weapon - how it was obtained, how often it's used, what it's used for..
+      </p>
+     </div>
+  </div>
+
+
+<!-- -------------------------------
+  
+  
+                                MAGIC & BLESSINGS
+                HOW TO FILL THIS SECTION OUT?
+
+                    Not a Vethexian Character?
+                      Type N/A as a response
+                    
+                    Blessed with Magic?
+                      1. Write down the magic they've been blessed with;
+                        – If they ARE Vethexian, you will write it under BLESSED
+                        – If they are NOT Vethexian, proceed to step 2.
+
+                         2. Determine if it's Primary or Advanced magic
+                           – If Primary, write about it under PRIMARY
+                           – if Adavanced, write about it under ADVANCED
+
+                    Blessed but NOT with magical capabilities?
+                        – Write about it under BLESSED
+
+
+                1. TYPE - VETHEXIAN ONLY; this does not mean magic, this refers to one of the 21 types of Vethexians.
+
+                2. PRIMARY - Refers to the basic magic of a Vethexian's type. Example: Birnan Vexes = Fire Magic, Lauter Vexes = Healing Magic
+
+                3. ADVANCED - Refers to the secondary (advanced) branch of magic of a Vethexian type. Most Magics have more than one path of advancement, such as Erde Vexes can go Nature (Flora), Nature (Fauna), or Ferrous; Phrenic Vexes of Cerebral Magic can advance into Hypnotic, Memory, Fear, or Valor Magic.
+
+                4. BLESSING - This is for anyone who has been Blessed by a Vethexian.
+                    • Those who've been blessed can obtain Magical powers or even Superhuman abilities such as super strength, speed, etc
+  
+  
+  --------------------------------- -->
+
+  <div class="col-lg-6 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Magic & Blessing</span>
+    <i class="fas fa-magic fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-wand text-uppercase"> Type</span>
+        <span><br>Lot to pick from</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-magic text-uppercase"> Primary</span>
+        <span><br>Main boop</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-magic text-uppercase"> Advanced</span>
+        <span><br>Super boop</span>
+      </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-stars text-uppercase"> Blessing</span>
+        <span><br>Was ye blessed?
+        <br></span>
+     </div>
+    </div>
+  </div>
+
+
+  <!-- -------------------------------
+  
+  
+                SKILLS & ABILITIES
+
+
+                NOTE —
+                MAGICAL SKILLS / ABILITIS
+                 • Limited to 4 slots
+                 • Max 8 slots (final 4 can be bought)
+                
+                Non-Magical Skills / Abilities
+                 • No real limit
+                 • Keep it realistic
+                 • More isn't necessarily better
+  
+  
+  --------------------------------- -->
+  <div class="col-12 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Skills & Abilities</span>
+    <i class="fas fa-cog fa-fw mt-auto"></i>
+    
+   </div><hr class="my-1">
+          <div class="m-3">
+                      <div class="row">
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill One </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
+                  </p>
+               </div>
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill Two </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
+                  </p>
+               </div>
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill Three </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
+                  </p>
+               </div>
+               <div class="col-sm-6 mb-3">
+                  <h3 class="text-uppercase text-muted" style="letter-spacing:1px;">Skill Four </h3>
+                  <p><Span class="small"><b>Mastery:</b> 
+                     <i class="fas fa-star" />
+                     <i class="fas fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" />
+                     <i class="far fa-star" /></Span>
+                     <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius libero non sem dapibus, eget viverra nisl sagittis. Ut interdum mi non sagittis euismod.
+                  </p>
+               </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+          
+          
+          
+  <!-- -------------------------------
+  
+  
+                HISTORY
+  
+  
+  --------------------------------- -->
+  <div class="col-12 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">History</span>
+    <i class="fas fa-books fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <div class="p-2">
+    
+    
+  <!-- use float-left to push to the left side | disappears on mobile
+  
+              NOTES —
+  
+  1. Feel free to remove <img src="IMG URL" class="float-right p-2 hidden-sm-down">
+      from the code if it is undesired
+  
+  2. Things to include in your character's history:
+    • Important past events that had a major impact on them and may still affet them today
+
+    • THE REASON WHY THEY JOINED DATURA LILY
+
+  3.When writing out their history, be sure to
+     – Use <br> to create a single line break
+     – Use <br><br> to create a double line break
+  
+  ----------------------->
+  
+  <img src="https://i97.servimg.com/u/f97/19/50/26/57/filler11.png" 
+  class="float-right p-2 hidden-sm-down">
+  
+  <p>WRITE OUT THEIR<br>
+  HISTORY HERE!
+  <br>
+  <br>
+  WRITE OUT THEIR HISTORY HERE!</p>
+
+  </div>
+  </div>
+  </div>
+  
+
+    
+  </div>
+  </div>
+
+  <!-- -------------------------------
+  
+  
+             FAMILY
+  
+  
+  --------------------------------- -->
+  <div class="col-12 p-1" id="links">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Family</span>
+    <i class="fas fa-users fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <div class="row no-gutters table-responsive" style="max-height:350px">
+    <!-- ------------------------
+  
+                 01
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="https://file.toyhou.se/characters/4279352?" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    <!-- ------------------------
+  
+                 02
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="https://file.toyhou.se/characters/4279352?" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    <!-- ------------------------
+  
+                 03
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="https://file.toyhou.se/characters/4279352?" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+
+
+
+
+  <!-- ABOVE THIS LINE ► COPY AND PASTE CODE TO ADD MORE RELATIONSHIP ◄ -->  
+
+  </div>
+  </div>
+  </div>
+
+  <!-- -------------------------------
+  
+  
+             RELATIONSHIPS
+  
+  
+  --------------------------------- -->
+  <div class="col-12 p-1">
+  <div class="card border-0 d-block p-3 h-100">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">Relationships</span>
+    <i class="fas fa-user-friends fa-fw mt-auto"></i>
+    
+  </div><hr class="my-1">
+  <div class="row no-gutters table-responsive" style="max-height:350px">
+    <!-- ------------------------
+  
+                 01
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="https://file.toyhou.se/characters/4279352?" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    <!-- ------------------------
+  
+                 02
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="https://file.toyhou.se/characters/4279352?" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+    <!-- ------------------------
+  
+                 03
+    
+    -------------------------- -->
+    <div class="col-lg-4 col-sm-6 p-1 row no-gutters">
+    <!-- IMAGE -->
+    <div class="col-4 text-center hidden-md-down p-2">
+      
+      
+      <img src="https://file.toyhou.se/characters/4279352?" class="fr-rounded" style="width:100px">
+      
+      
+    </div>
+    <!-- INFO -->
+    <div class="col-lg-8 p-2"><p>
+      
+      <a href="">Name</a> . relationship
+      
+    </p><hr class="my-2"><div class="table-responsive text-muted" style="max-height:100px;">
+      
+      
+      Info here
+      
+      
+    </div>
+    </div>
+    </div>
+
+
+
+
+  <!-- ABOVE THIS LINE ► COPY AND PASTE CODE TO ADD MORE RELATIONSHIP ◄ -->  
+
+  
+  </div>
+  </div>
+  </div>
+  </div>
