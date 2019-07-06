@@ -391,61 +391,81 @@ Details about their extracurricular activity
     <span class="text-primary"> Weapons</span>
     
   </div><hr class="my-1">
-
-<h3 class="text-uppercase" style="letter-spacing:1px;"> Weapon </h3>
+<div class="m-3">
+<div class="row">
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Weapon </h3>
 <p><Span class="small"><b>Proficiency:</b>
 <i class="fas fa-star" />
-
 <i class="fas fa-star" />
 <i class="far fa-star" />
 <i class="far fa-star" />
-<i class="far fa-star" /></Span><br>
-Details about the weapon
-</p>
+<i class="far fa-star" /></Span>
+<br>Details about the weapon</p>
+</div>
 
-<h3 class="text-uppercase" style="letter-spacing:1px;"> Weapon </h3>
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Weapon </h3>
 <p><Span class="small"><b>Proficiency:</b>
 <i class="fas fa-star" />
-
 <i class="fas fa-star" />
 <i class="far fa-star" />
 <i class="far fa-star" />
-<i class="far fa-star" /></Span><br>
-Details about the weapon
-</p>
+<i class="far fa-star" /></Span>
+<br>Details about the weapon</p>
+</div>
+</div>
+</div>
 
-<br>
+
 <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary"> Magic & Blessings </span>
     
   </div><hr class="my-1">
-
-<div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-<span class="text-muted fa fa-magic text-uppercase"> Types </span>
-<span><br> type </span>
-
+<div class="m-3">
+<div class="row">
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Type </h3>
+<p>type</p>
 </div>
 
-<div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-<span class="text-muted fa fa-magic text-uppercase"> Primary </span>
-<span><br> magic </span>
-
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Primary Magic</h3>
+<p><Span class="small"><b>Mastery:</b>
+<i class="fas fa-star" />
+<i class="fas fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" /></Span>
+<br>Details about magic, how they use it, how advanced they are, etc</p>
 </div>
 
-<div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-<span class="text-muted fa fa-magic text-uppercase"> Advanced </span>
-<span><br> magic </span>
-
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Advanced Magic</h3>
+<p><Span class="small"><b>Mastery:</b>
+<i class="fas fa-star" />
+<i class="fas fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" /></Span>
+<br>Details about magic, how they use it, how advanced they are, etc</p>
 </div>
 
-<div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-<span class="text-muted fa fa-magic text-uppercase"> Blessing </span>
-<span><br> blessing </span>
-
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Blessing</h3>
+<p><Span class="small"><b>Mastery:</b>
+<i class="fas fa-star" />
+<i class="fas fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" /></Span>
+<br>What type of blessing they have, how they use/apply it, etc.</p>
+</div>
+</div>
 </div>
 
-<br>
+
 <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary"> Skills & Abilities </span>
