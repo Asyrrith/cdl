@@ -1,0 +1,529 @@
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary">General</span>
+    
+  </div><hr class="my-1">
+  <div class="row no-gutters">
+  
+    <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Floral Name</span>
+    <span class="text-muted">name</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Legal Name</span>
+    <span class="text-muted">name</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Nickname</span>
+    <span class="text-muted">name</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Birthday</span>
+    <span class="text-muted">MM/DD/YYYY</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Age</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Zodiacs</span>
+    <span class="text-muted">info</span>
+  </div>
+
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Gender</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Orientation</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Race</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Heritage</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Magic</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Blessing</span>
+    <span class="text-muted">info</span>
+  </div>
+
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Height</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Weight</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Marital Status</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">S/O</span>
+    <span class="text-muted"><a href="_">name</a></span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Residence</span>
+    <span class="text-muted">info</span>
+  </div>
+  
+  <div class="col-md-6 d-flex justify-content-between p-2">
+    <span class="text-uppercase">Theme</span>
+    <span class="text-muted"><a href="_">song</a></span>
+  </div>
+</div>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Appearance </span>
+    
+  </div><hr class="my-1">
+
+<b>Skin :</b> info <br>
+<b>Eyes :</b> info <br>
+<b>Hair :</b> info <br>
+<br>
+<b>Body Type :</b> info <br>
+<b>Tattoos :</b> info <br>
+<b>Scars/Marks :</b> info <br>
+<b>Bodily Notes :</b> info <br>
+<br>
+<b>Casual Wear :</b> info <br>
+<br>
+<b>Formal Wear :</b> info <br>
+<br>
+<b>Work Wear :</b> info <br>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Personal Information</span>
+    
+  </div><hr class="my-1">
+
+<b>Residence :</b> info <br>
+<b>Transportation:</b> info <br>
+<br>
+<b>Pets :</b> info <br>
+<b>Familiar :</b> info <br>
+<br>
+<b>Languages :</b> info <br>
+<b>Religion :</b> info <br>
+<b>Disabilities :</b> info <br>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Personality</span>
+    
+  </div><hr class="my-1">
+
+<b>Demeanor :</b> info <br>
+<br>
+<b>Reality :</b> info <br>
+<br>
+<b>Reason for difference:</b> info <br>
+<br>
+<br>
+<b>Positive Traits :</b> info <br>
+<b>Negative Traits :</b> info <br>
+<b>Mental Disorders :</b> info <br>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Familiars </span>
+    
+  </div><hr class="my-1">
+<b>Name :</b> info <br>
+<b>Species :</b> info <br>
+<b>Appearance :</b> info <br>
+<b>Nature :</b> info <br>
+<br>
+<b>Skill :</b> name <br> info <br>
+<br>
+<b>Skill :</b> name <br> info <br>
+<br>
+<b>Skill :</b> name <br> info <br>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Notes </span>
+    
+  </div><hr class="my-1">
+
+<ul class="card-block text-left list-unstyled">
+
+ 
+<li><i class="fa fa-pen-alt"></i> Note </li>
+ 
+<li><i class="fa fa-pen-alt"></i> Note </li>
+ 
+<li><i class="fa fa-pen-alt"></i> Note </li>
+</ul>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Likes </span>
+    
+  </div><hr class="my-1">
+
+<ul class="card-block text-left list-unstyled">
+
+ 
+<li><i class="fa fa-check"></i> like </li>
+ 
+<li><i class="fa fa-check"></i> like </li>
+ 
+<li><i class="fa fa-check"></i> like </li>
+</ul>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Dislikes </span>
+    
+  </div><hr class="my-1">
+
+<ul class="card-block text-left list-unstyled">
+
+ 
+<li><i class="fa fa-times"></i> dislike </li>
+ 
+<li><i class="fa fa-times"></i> dislike </li>
+ 
+<li><i class="fa fa-times"></i> dislike </li>
+</ul>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Hobbies </span>
+    
+  </div><hr class="my-1">
+
+<ul class="card-block text-left list-unstyled">
+
+ 
+<li><i class="fa fa-stars"></i> hobby </li>
+ 
+<li><i class="fa fa-stars"></i> hobby </li>
+ 
+<li><i class="fa fa-stars"></i> hobby </li>
+</ul>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Fears </span>
+    
+  </div><hr class="my-1">
+
+<ul class="card-block text-left list-unstyled">
+
+ 
+<li><i class="fa fa-spider"></i> fear </li>
+ 
+<li><i class="fa fa-spider"></i> fear </li>
+ 
+<li><i class="fa fa-spider"></i> fear </li>
+</ul>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Datura Lily </span>
+    
+  </div><hr class="my-1">
+
+<b>Division :</b> info <br>
+<b>Mantle :</b> info <br>
+<br>
+<b>Trainer :</b> <a href="_"> name </a><br>
+<b>Partner(s) :</b> <a href="_"> name </a><br>
+<br>
+Notes about the work they do
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Day Job </span>
+    
+  </div><hr class="my-1">
+
+<b>Job :</b> info <br>
+<b>Position :</b> info <br>
+<br>
+Details about the job
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> School </span>
+    
+  </div><hr class="my-1">
+
+<b>School :</b> info <br>
+<b>Status :</b> info <br>
+<b>Year :</b> info <br>
+<b>Grad Year :</b> info <br>
+<br>
+Details about their time in school
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Extracurricular </span>
+    
+  </div><hr class="my-1">
+
+<b>Activity :</b> info <br>
+<b>Role :</b> info <br>
+<br>
+Details about their extracurricular activity
+
+<br>
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Combat Stats </span>
+    
+  </div><hr class="my-1">
+
+          <div class="m-3">
+            <div class="row mb-3">
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Attack</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Defense</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Magic</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Resistance</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr>
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Stamina</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+                  <hr class="hidden-md-up">
+               </div>
+               <div class="col-md-6">
+                  <b class="text-uppercase text-muted">Luck</b>
+                  <span class="pull-right">
+                  <i class="fas fa-star mx-1" />
+                  <i class="fas fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  <i class="far fa-star mx-1" />
+                  </span>
+               </div>
+              </div>
+            </div>
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Weapons</span>
+    
+  </div><hr class="my-1">
+
+<h3 class="text-uppercase" style="letter-spacing:1px;"> Weapon </h3>
+<p><Span class="small"><b>Proficiency:</b>
+<i class="fas fa-star" />
+
+<i class="fas fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" /></Span><br>
+Details about the weapon
+</p>
+
+<h3 class="text-uppercase" style="letter-spacing:1px;"> Weapon </h3>
+<p><Span class="small"><b>Proficiency:</b>
+<i class="fas fa-star" />
+
+<i class="fas fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" /></Span><br>
+Details about the weapon
+</p>
+
+<br>
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Magic & Blessings </span>
+    
+  </div><hr class="my-1">
+
+<div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+<span class="text-muted fa fa-magic text-uppercase"> Types </span>
+<span><br> type </span>
+
+</div>
+
+<div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+<span class="text-muted fa fa-magic text-uppercase"> Primary </span>
+<span><br> magic </span>
+
+</div>
+
+<div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+<span class="text-muted fa fa-magic text-uppercase"> Advanced </span>
+<span><br> magic </span>
+
+</div>
+
+<div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+<span class="text-muted fa fa-magic text-uppercase"> Blessing </span>
+<span><br> blessing </span>
+
+</div>
+
+<br>
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Skills & Abilities </span>
+    
+  </div><hr class="my-1">
+
+<div class="m-3">
+<div class="row">
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Name </h3>
+<p><Span class="small"><b>Mastery:</b>
+<i class="fas fa-star" />
+<i class="fas fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" /></Span>
+<br>Details about the skill or ability</p>
+</div>
+
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Name </h3>
+<p><Span class="small"><b>Mastery:</b>
+<i class="fas fa-star" />
+<i class="fas fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" /></Span>
+<br>Details about the skill or ability</p>
+</div>
+
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Name </h3>
+<p><Span class="small"><b>Mastery:</b>
+<i class="fas fa-star" />
+<i class="fas fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" /></Span>
+<br>Details about the skill or ability</p>
+</div>
+
+<div class="col-sm-6 mb-3">
+<h3 class="text-uppercase text-muted" style="letter-spacing:1px;"> Name </h3>
+<p><Span class="small"><b>Mastery:</b>
+<i class="fas fa-star" />
+<i class="fas fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" />
+<i class="far fa-star" /></Span>
+<br>Details about the skill or ability</p>
+</div>
+</div>
+</div>
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> History </span>
+    
+  </div><hr class="my-1">
+
+Write about their history
+
+
+<div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    
+    <span class="text-primary"> Relationships </span>
+    
+  </div><hr class="my-1">
+
+<b><a href="_"> Name </a> :</b><i> relationship </i> <br>
+details about their relationship <br>
+<br>
+<b><a href="_"> Name </a> :</b><i> relationship </i> <br>
+details about their relationship <br>
+<br>
+<b><a href="_"> Name </a> :</b><i> relationship </i> <br> 
+details about their relationship <br>
+<br>
+<b><a href="_"> Name </a> :</b><i> relationship </i> <br>
+details about their relationship <br>
+<br>
