@@ -413,6 +413,111 @@ place 'hide' before 'carousel slide'
         <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:80%;background-color:#96CEB2;"></div></div>
        </li>
       </ul>
+
+
+
+  <div class="d-block">
+  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    <span class="text-primary">Personal Info</span>
+    <i class="fas fa-book-open fa-fw mt-auto"></i>
+  </div></div><hr class="my-1">
+
+    <div class="row no-gutters p-3">
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-home text-uppercase"> Residence</span>
+      </div>
+        <!-- ---------------------
+        
+        Not just the city they live in, but their home address
+        (Yes, I am encouraging you to come up with a fake address)
+        
+        ------------------------->
+        TEXT
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-car text-uppercase"> Transportation</span>
+      </div>
+        <!-- ---------------------
+        
+        Beep, beep; I'm a sheep.
+        Do they drive a car? Ride a bike? Walk everywhere?
+        
+        ------------------------->
+        TEXT
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-dog text-uppercase"> Pets</span>
+      </div>
+        <!-- ---------------------
+        
+        Your every-day, super ordinary pets with no magical powers.
+        
+        ------------------------->
+        TEXT
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-deer text-uppercase"> Familiar</span>
+      </div>
+        <!-- ---------------------
+        
+        A magical pet that chooses you and will ditch you if you suck.
+        
+        ------------------------->
+        TEXT
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-lips text-uppercase"> Languages</span>
+      </div>
+        <!-- ---------------------
+        
+        How they use that mouth? How many languages do they know - partial or fluently.
+        
+        ------------------------->
+        TEXT
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-cross text-uppercase"> Religion</span>
+      </div>
+        <!-- ---------------------
+        
+        Who they worship, if anyone?
+        Jesus? Allah? Loki?
+        
+        ------------------------->
+        TEXT
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted fa fa-frown text-uppercase"> Disabilities</span>
+      </div>
+        <!-- ---------------------
+        
+        What's the damage?
+        This refers both physical and mental disabilities.
+        Please be sure to accurately differentiate mental disabilities from mental disorders which are covered a bit later.
+        
+        To make a list, add a <br> and drop to the next line
+        It will look like this:
+        
+        <span> </span>
+        
+        ------------------------->
+        TEXT
+      
+      
+    </div>
      </div>
     </div>
 
@@ -433,7 +538,7 @@ place 'hide' before 'carousel slide'
   </div><hr class="my-1">
     <div class="row no-gutters p-3">
       
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+      <div class="col-lg-4 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Skin</span>
         <!-- ---------------------
         
@@ -441,11 +546,14 @@ place 'hide' before 'carousel slide'
           Alternatively, just describe their skin color
         
         ------------------------->
-        <span>#000000</span>
+        <span><div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#FFFFFF; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #FFFFFF">
+          </div></span>
       </div>
       
       
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+      <div class="col-lg-4 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Eyes</span>
         <!-- ---------------------
         
@@ -453,11 +561,14 @@ place 'hide' before 'carousel slide'
           Alternatively, just describe their eye color
         
         ------------------------->
-        <span>#000000</span>
+        <span><div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#FFFFFF; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #FFFFFF">
+          </div></span>
       </div>
       
       
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+      <div class="col-lg-4 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Hair</span>
         <!-- ---------------------
         
@@ -467,80 +578,104 @@ place 'hide' before 'carousel slide'
         DON'T FORGET TO DESCRIBE THEIR HAIR STYLE
         
         ------------------------->
-        <span>#000000<br>
-        [style]</span>
-      </div>
+        <span><div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#FFFFFF; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #FFFFFF">
+          </div><br>
+              </div>
+      
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Hair Style</span>
+        </div>
+        TEXT
       
       <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Body Type</span>
+      </div>
         <!-- ---------------------
         
         Are they tall and lanky? Short and chunky? A midget built like a Greek God?
         
         ------------------------->
-        <span>[info]</span>
-      </div>
+        TEXT
       
+      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Tattoos</span>
+      </div>
         <!-- ---------------------
         
         Got ink? Share with the class about their tats. All of them.
         Yes, even those we don't get to see.
         
         ------------------------->
-        <span>[info]</span>
-      </div>
+        TEXT
       
+      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Scars/Marks</span>
+      </div>
         <!-- ---------------------
         
         Self-explanatory
         
         ------------------------->
-        <span>[info]</span>
-      </div>
-      
+        TEXT
+
       <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Casual Wear</span>
+      </div>
         <!-- ---------------------
         
         What they wear when they're just living; not working, not dressed up nice.. just.. casual.
         
         ------------------------->
-        <span>[info]</span>
-      </div>
+        TEXT
       
+      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Formal Wear</span>
+      </div>
         <!-- ---------------------
         
         What's on the menu? A tuxedo? Cocktail dress or ball gown? Some juggalo pimp suit?
         What ever it is they wear to formal events, tell us.
         
         ------------------------->
-        <span>[info]</span>
-      </div>
+        TEXT
       
+      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Work Wear</span>
+      </div>
         <!-- ---------------------
         
         Work clothes, my man. If they're not a hooker, don't have them working in fishnets and crop tops.. unless they work at Hooters, then I guess it's okay. 
         (Hooters is not a thing in this universe)
         
         ------------------------->
-        <span>[info]</span>
+        TEXT
+      
+      <br><br>
+      
+      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+        <span class="text-muted text-uppercase">Mantle</span>
       </div>
+        <!-- ---------------------
+        
+        What they wear when they're just living; not working, not dressed up nice.. just.. casual.
+        
+        ------------------------->
+        TEXT
       
     </div>
 
@@ -558,108 +693,13 @@ place 'hide' before 'carousel slide'
   <div class="card d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
-    <span class="text-primary">Personal Info</span>
-    <i class="fas fa-book-open fa-fw mt-auto"></i>
+    <span class="text-primary">🌟 Personality</span><i class="fas fa-heartbeat fa-fw mt-auto"></i>
     
   </div><hr class="my-1">
-  <div class="p-2 text-muted">
-    
     
     <div class="row no-gutters p-3">
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-home text-uppercase"> Residence</span>
-        <!-- ---------------------
-        
-        Not just the city they live in, but their home address
-        (Yes, I am encouraging you to come up with a fake address)
-        
-        ------------------------->
-        <span>[info]</span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-car text-uppercase"> Transportation</span>
-        <!-- ---------------------
-        
-        Beep, beep; I'm a sheep.
-        Do they drive a car? Ride a bike? Walk everywhere?
-        
-        ------------------------->
-        <span>[info]</span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-dog text-uppercase"> Pets</span>
-        <!-- ---------------------
-        
-        Your every-day, super ordinary pets with no magical powers.
-        
-        ------------------------->
-        <span>[info]</span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-deer text-uppercase"> Familiar</span>
-        <!-- ---------------------
-        
-        A magical pet that chooses you and will ditch you if you suck.
-        
-        ------------------------->
-        <span>[info]</span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-lips text-uppercase"> Languages</span>
-        <!-- ---------------------
-        
-        How they use that mouth? How many languages do they know - partial or fluently.
-        
-        ------------------------->
-        <span>[info]</span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-cross text-uppercase"> Religion</span>
-        <!-- ---------------------
-        
-        Who they worship, if anyone?
-        Jesus? Allah? Loki?
-        
-        ------------------------->
-        <span>[info]</span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-frown text-uppercase"> Disabilities</span>
-        <!-- ---------------------
-        
-        What's the damage?
-        This refers both physical and mental disabilities.
-        Please be sure to accurately differentiate mental disabilities from mental disorders which are covered a bit later.
-        
-        To make a list, add a <br> and drop to the next line
-        It will look like this:
-        
-        <span>[info]<br>
-        [info]</span>
-        
-        ------------------------->
-        <span>[info]</span>
-      </div>
-      
-      
-    </div>
-    
-  </div>
-  </div>
-  </div>
+
+
 <!-- -------------------------------
   
                 PERSONALITY – PART 1
@@ -674,38 +714,29 @@ place 'hide' before 'carousel slide'
                    A : Tell us why your character's Demeanor is different from or the same as Reality.
   
   --------------------------------- -->
-  <div class="col-lg-6 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">🌟 Personality</span><i class="fas fa-heartbeat fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
-    <div class="row no-gutters p-3">
-      
+
+
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Demeanor</span>
-        <span>[info]</span>
       </div>
+        TEXT
       
       <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Reality</span>
-        <span>[info]</span>
       </div>
+        TEXT
       
       <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Reason</span>
-        <span>[info]</span>
       </div>
+        TEXT
       
-      
-    </div>
-  </div>
-  </div>
+      <br><br>
+
   <!-- -------------------------------
   
                PERSONALITY – PART 2
@@ -720,39 +751,29 @@ place 'hide' before 'carousel slide'
                 !! Feel free to include how they developed these disorders !!
   
   --------------------------------- -->
-  <div class="col-lg-6 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">🌟</span><i class="fas fa-heartbeat fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
-    <div class="row no-gutters p-3">
-      
+
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Positive Traits</span>
-        <span>[Positive] <br>
-        [Positive] <br>
-        [Positive] </span>
       </div>
+        TEXT
       
+      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Negative Traits</span>
-        <span>[Negative] <br>
-        [Negative] <br>
-        [Negative] </span>
       </div>
+        TEXT
       
+      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Mental Disorders</span>
-        <span>[Disorder] <br>
-        [Disorder] </span>
       </div>
-      
-      
+        TEXT
+        
     </div>
+    
+  </div>
   </div>
   </div>
 
