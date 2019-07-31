@@ -342,166 +342,134 @@ place 'hide' before 'carousel slide'
 </div>
 </div>
 
-  <div class="row no-gutters">
-<!-- ----------------------
-
-       HOW TO USE
-
-       CHANGE THE NUMBERS IN ( style="width:__%" ) TO ADJUST THE BAR
-
------------------------ -->
-
-  <div class="col-3 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-  </div><hr class="my-1">
+        <div class="col-lg-4 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+            <div class="card-block d-block h-100">
 
       <ul class="list-unstyled font-weight-bold mb-4">
        <li class="mb-3">
-        <span class="mb-2" style="color:#96CEB2;">
+        <span class="mb-2 text-primary">
          Introvert
         </span>
-        <span class="pull-right" style="color:#746586;">
+        <span class="pull-right text-danger">
          Extrovert
         </span>
-        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:30%;background-color:#96CEB2;"></div></div>
+        <div class="progress rounded-0"><div class="progress-bar rounded-0" style="width:30%;"></div></div>
        </li>
        <li class="mb-3">
-        <span class="mb-2" style="color:#96CEB2;">
+        <span class="mb-2 text-primary">
          Thinking
         </span>
-        <span class="pull-right" style="color:#746586;">
+        <span class="pull-right text-danger">
          Feeling
         </span>
-        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:40%;background-color:#96CEB2;"></div></div>
+        <div class="progress rounded-0"><div class="progress-bar rounded-0" style="width:40%;"></div></div>
        </li>
        <li class="mb-3">
-        <span class="mb-2" style="color:#96CEB2;">
+        <span class="mb-2 text-primary">
          Mean
         </span>
-        <span class="pull-right" style="color:#746586;">
+        <span class="pull-right text-danger">
          Nice
         </span>
-        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:50%;background-color:#96CEB2;"></div></div>
+        <div class="progress rounded-0"><div class="progress-bar rounded-0" style="width:50%;"></div></div>
        </li>
        <li class="mb-3">
-        <span class="mb-2" style="color:#96CEB2;">
+        <span class="mb-2 text-primary">
          Lazy
         </span>
-        <span class="pull-right" style="color:#746586;">
+        <span class="pull-right text-danger">
          Active
         </span>
-        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:60%;background-color:#96CEB2;"></div></div>
+        <div class="progress rounded-0"><div class="progress-bar rounded-0" style="width:60%;"></div></div>
        </li>
        <li class="mb-3">
-        <span class="mb-2" style="color:#96CEB2;">
+        <span class="mb-2 text-primary">
          Serious
         </span>
-        <span class="pull-right" style="color:#746586;">
+        <span class="pull-right text-danger">
          Playful
         </span>
-        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:70%;background-color:#96CEB2;"></div></div>
+        <div class="progress rounded-0"><div class="progress-bar rounded-0" style="width:70%;"></div></div>
        </li>
        <li class="mb-3">
-        <span class="mb-2" style="color:#96CEB2;">
+        <span class="mb-2 text-primary">
          Sloppy
         </span>
-        <span class="pull-right" style="color:#746586;">
+        <span class="pull-right text-danger">
          Neat
         </span>
-        <div class="progress rounded-0" style="background-color:#746586;"><div class="progress-bar rounded-0" style="width:80%;background-color:#96CEB2;"></div></div>
+        <div class="progress rounded-0"><div class="progress-bar rounded-0" style="width:80%;"></div></div>
        </li>
       </ul>
+<br>
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-book-open fa-fw pull-right"></i> Personal</h1><hr class="my-1">
 
-
-
-  <div class="d-block">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    <span class="text-primary">Personal Info</span>
-    <i class="fas fa-book-open fa-fw mt-auto"></i>
-  </div></div><hr class="my-1">
-
-    <div class="row no-gutters p-3">
-      
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-home text-uppercase"> Residence</span>
-      </div>
+        <span class="text-muted fa fa-home text-uppercase"> Residence</span></div>
         <!-- ---------------------
         
         Not just the city they live in, but their home address
         (Yes, I am encouraging you to come up with a fake address)
         
         ------------------------->
-        TEXT
+        info
       
-      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-car text-uppercase"> Transportation</span>
-      </div>
+        <span class="text-muted fa fa-car text-uppercase"> Transportation</span></div>
         <!-- ---------------------
         
         Beep, beep; I'm a sheep.
         Do they drive a car? Ride a bike? Walk everywhere?
         
         ------------------------->
-        TEXT
+        info
       
-      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-dog text-uppercase"> Pets</span>
-      </div>
+        <span class="text-muted fa fa-dog text-uppercase"> Pets</span></div>
         <!-- ---------------------
         
         Your every-day, super ordinary pets with no magical powers.
         
         ------------------------->
-        TEXT
+        info
       
-      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-deer text-uppercase"> Familiar</span>
-      </div>
+        <span class="text-muted fa fa-deer text-uppercase"> Familiar</span></div>
         <!-- ---------------------
         
         A magical pet that chooses you and will ditch you if you suck.
         
         ------------------------->
-        TEXT
+        info
       
-      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-lips text-uppercase"> Languages</span>
-      </div>
+        <span class="text-muted fa fa-lips text-uppercase"> Languages</span></div>
         <!-- ---------------------
         
         How they use that mouth? How many languages do they know - partial or fluently.
         
         ------------------------->
-        TEXT
+        info
       
-      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-cross text-uppercase"> Religion</span>
-      </div>
+        <span class="text-muted fa fa-cross text-uppercase"> Religion</span></div>
         <!-- ---------------------
         
         Who they worship, if anyone?
         Jesus? Allah? Loki?
         
         ------------------------->
-        TEXT
+        info
       
-      <br><br>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted fa fa-frown text-uppercase"> Disabilities</span>
-      </div>
+        <span class="text-muted fa fa-frown text-uppercase"> Disabilities</span></div>
         <!-- ---------------------
         
         What's the damage?
@@ -511,15 +479,15 @@ place 'hide' before 'carousel slide'
         To make a list, add a <br> and drop to the next line
         It will look like this:
         
-        <span> </span>
+        <span>[info]<br>
+        [info]</span>
         
         ------------------------->
-        TEXT
-      
-      
-    </div>
-     </div>
-    </div>
+        info
+
+
+        </div>
+        </div>
 
   <!-- -------------------------------
   
@@ -528,179 +496,372 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
-  <div class="col-lg-5 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Appearance</span>
-    <i class="fas fa-user-eye fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
-    <div class="row no-gutters p-3">
-      
-      <div class="col-lg-4 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Skin</span>
+        <div class="col-lg-8 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+            <div class="bg-faded card-block d-block h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-eye fa-fw pull-right"></i> Appearance</h1>
+<div class="w-100"><hr></div>
+
+       <div class="row">
+      <div class="col-lg-4">
+        <span class="text-muted text-uppercase">Skin</span><br>
         <!-- ---------------------
         
         Suggested site: https://www.htmlcsscolor.com/
           Alternatively, just describe their skin color
         
         ------------------------->
-        <span><div class="d-inline-block rounded mb-1 mr-1"
-            style="background-color:#FFFFFF; height:50px; width:50px;" data-toggle="tooltip"
-            title="COLOR | #FFFFFF">
-          </div></span>
+                  <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
       </div>
+
       
-      
-      <div class="col-lg-4 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Eyes</span>
+
+      <div class="col-lg-4">
+        <span class="text-muted text-uppercase">Eyes</span><br>
         <!-- ---------------------
         
         Suggested site: https://www.htmlcsscolor.com/
           Alternatively, just describe their eye color
         
         ------------------------->
-        <span><div class="d-inline-block rounded mb-1 mr-1"
-            style="background-color:#FFFFFF; height:50px; width:50px;" data-toggle="tooltip"
-            title="COLOR | #FFFFFF">
-          </div></span>
+                  <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
       </div>
+
       
-      
-      <div class="col-lg-4 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Hair</span>
+
+      <div class="col-lg-4">
+        <span class="text-muted text-uppercase">Hair</span><br>
         <!-- ---------------------
         
         Suggested site: https://www.htmlcsscolor.com/
-          Alternatively, just describe their hair color
-        
-        DON'T FORGET TO DESCRIBE THEIR HAIR STYLE
         
         ------------------------->
-        <span><div class="d-inline-block rounded mb-1 mr-1"
-            style="background-color:#FFFFFF; height:50px; width:50px;" data-toggle="tooltip"
-            title="COLOR | #FFFFFF">
-          </div><br>
-              </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Hair Style</span>
-        </div>
-        TEXT
-      
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Body Type</span>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+
+<!-- ------------Insert the following code ABOVE THE LINE for additional colors-----
+
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+---------------------------------------------------------------------------->
+
       </div>
+      </div>
+       <div class="row">
+            <div class="col-lg-6">
+        <span class="text-muted text-uppercase">Hair Style</span><br>
+        <!-- ---------------------
+        
+        Describe your character's hair style to the best of your ability; if you need to, include reference pictures.
+        
+        ------------------------->
+        <p>
+          
+          INFO
+          
+        </p>
+      </div>
+      
+      <div class="col-lg-6">
+        <span class="text-muted text-uppercase">Body Type</span><br>
         <!-- ---------------------
         
         Are they tall and lanky? Short and chunky? A midget built like a Greek God?
         
         ------------------------->
-        TEXT
-      
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Tattoos</span>
+        <p>
+          
+          INFO
+          
+        </p>
       </div>
+      </div>
+      
+      <br>
+      
+             <div class="row">
+      <div class="col-lg-6">
+        <span class="text-muted text-uppercase">Tattoos</span><br>
         <!-- ---------------------
         
         Got ink? Share with the class about their tats. All of them.
         Yes, even those we don't get to see.
         
         ------------------------->
-        TEXT
-      
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Scars/Marks</span>
+        <p>
+          
+          INFO
+          
+        </p>
       </div>
+      
+      
+      <div class="col-lg-6">
+        <span class="text-muted text-uppercase">Scars/Marks</span><br>
         <!-- ---------------------
         
         Self-explanatory
         
         ------------------------->
-        TEXT
-
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Casual Wear</span>
+         <p>
+          
+          INFO
+          
+        </p>
       </div>
+      </div>
+      
+      <br>
+      
+             <div class="row">
+      <div class="col-lg-6">
+        <span class="text-muted text-uppercase">Casual Wear</span><br>
         <!-- ---------------------
         
         What they wear when they're just living; not working, not dressed up nice.. just.. casual.
         
         ------------------------->
-        TEXT
-      
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Formal Wear</span>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+<!-- ------------Insert the following code ABOVE THE LINE for additional colors-----
+
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+---------------------------------------------------------------------------->
+        <p>
+          
+          INFO
+          
+        </p>
       </div>
+      
+      <div class="col-lg-6">
+        <span class="text-muted text-uppercase">Formal Wear</span><br>
         <!-- ---------------------
         
         What's on the menu? A tuxedo? Cocktail dress or ball gown? Some juggalo pimp suit?
         What ever it is they wear to formal events, tell us.
         
         ------------------------->
-        TEXT
-      
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Work Wear</span>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+<!-- ------------Insert the following code ABOVE THE LINE for additional colors-----
+
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+---------------------------------------------------------------------------->
+        <p>
+          
+          INFO
+          
+        </p>
       </div>
+      </div>
+      
+      <br>
+      
+             <div class="row">
+      <div class="col-lg-6">
+        <span class="text-muted text-uppercase">School Uniform</span><br>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+<!-- ------------Insert the following code ABOVE THE LINE for additional colors-----
+
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+---------------------------------------------------------------------------->
+        <!-- ---------------------
+        
+        What do they wear to school? If your character doesn't go to school, type N/A.
+        
+        ------------------------->
+        <p>
+          
+          INFO
+          
+        </p>
+      </div>
+      
+      
+      <div class="col-lg-6">
+        <span class="text-muted text-uppercase">Work Wear</span><br>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+<!-- ------------Insert the following code ABOVE THE LINE for additional colors-----
+
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+---------------------------------------------------------------------------->
         <!-- ---------------------
         
         Work clothes, my man. If they're not a hooker, don't have them working in fishnets and crop tops.. unless they work at Hooters, then I guess it's okay. 
         (Hooters is not a thing in this universe)
         
         ------------------------->
-        TEXT
-      
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Mantle</span>
+        <p>
+          
+          INFO
+          
+        </p>
       </div>
+      </div>
+      
+      <br>
+      
+             <div class="row">
+      <div class="col-lg-6">
+        <span class="text-muted text-uppercase">Mantle</span><br>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+<!-- ------------Insert the following code ABOVE THE LINE for additional colors-----
+
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+---------------------------------------------------------------------------->
         <!-- ---------------------
         
-        What they wear when they're just living; not working, not dressed up nice.. just.. casual.
+        Work clothes for the organization they work in.
+        For example: Datura Lily's Sleuthhounds and Transporters wear dark colored attire, be it simple clothing or custom designed suits, while on the job.
         
         ------------------------->
-        TEXT
-      
+        <p>
+          
+          INFO
+          
+        </p>
+      </div>
+        
+        
+      <div class="col-lg-6">
+        <span class="text-muted text-uppercase">Additional Outfits</span><br>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+<!-- ------------Insert the following code ABOVE THE LINE for additional colors-----
+
+          <div class="d-inline-block rounded mb-1 mr-1"
+            style="background-color:#000000; height:50px; width:50px;" data-toggle="tooltip"
+            title="COLOR | #000000">
+          </div>
+
+---------------------------------------------------------------------------->
+        <!-- ---------------------
+        
+        Additional outfits they wear
+        
+        ------------------------->
+        <p>
+          
+          INFO
+          
+        </p>
+      </div>
+
+            </div>
+        </div>
     </div>
+</div>
 
+<div class="row">
 
-  </div>
-  </div>
-  <!-- -------------------------------
-  
-  
-              PERSONAL INFO
-  
-  
-  --------------------------------- -->
-  <div class="col-lg-4 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">🌟 Personality</span><i class="fas fa-heartbeat fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
-    
-    <div class="row no-gutters p-3">
-
-
+        <div class="col-lg-6 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+            <div class="card-block d-block h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-heartbeat fa-fw pull-right"></i> Personality - - - - - -</h1>
 <!-- -------------------------------
+  <div class="w-100"><hr></div>
   
                 PERSONALITY – PART 1
 
@@ -713,31 +874,51 @@ place 'hide' before 'carousel slide'
                  3. What do I put for "REASON"?
                    A : Tell us why your character's Demeanor is different from or the same as Reality.
   
+  
   --------------------------------- -->
 
+      <div class="col-lg-12">
+        <span class="text-muted text-uppercase">Demeanor</span><br>
+        <p>
+          
+          [info]
+        
+        </p>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12">
+        <span class="text-muted text-uppercase">Reality</span><br>
+        <p>
+          
+          [info]
+        
+        </p>
+      </div>
+      
+      <br><br>
+      
+      <div class="col-lg-12">
+        <span class="text-muted text-uppercase">Reason</span><br>
+        <p>
+          
+          [info]
+        
+        </p>
+      </div>
 
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Demeanor</span>
-      </div>
-        TEXT
-      
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Reality</span>
-      </div>
-        TEXT
-      
-      <br><br>
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Reason</span>
-      </div>
-        TEXT
-      
-      <br><br>
 
+
+        </div>
+        </div>
+
+        <div class="col-lg-6 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+            <div class="card-block d-block h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-heartbeat fa-fw pull-right"></i>- - - - - - - - - - -</h1>
   <!-- -------------------------------
+  
   
                PERSONALITY – PART 2
   
@@ -752,100 +933,77 @@ place 'hide' before 'carousel slide'
   
   --------------------------------- -->
 
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Positive Traits</span>
+      <div class="col-lg-12">
+        <span class="text-muted text-uppercase">Positive Traits</span><br>
+        <p>[Positive] <br>
+        [Positive] <br>
+        [Positive] </p>
       </div>
-        TEXT
       
-      <br><br>
       
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Negative Traits</span>
+      <div class="col-lg-12">
+        <span class="text-muted text-uppercase">Negative Traits</span><br>
+        <p>[Negative] <br>
+        [Negative] <br>
+        [Negative] </p>
       </div>
-        TEXT
       
-      <br><br>
       
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Mental Disorders</span>
+      <div class="col-lg-12">
+        <span class="text-muted text-uppercase">Mental Disorders</span><br>
+        <p>[Disorder] <br>
+        [Disorder] </p>
       </div>
-        TEXT
-        
-    </div>
-    
-  </div>
-  </div>
-  </div>
 
 
-<!-- ----------------------------
 
-            FAMILIARS
+        </div>
+        </div>
+        </div>
+
+<div class="row">
 
 
------------------------------ -->
-
-  <div class="col-lg-4 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Familiars</span>
-    <i class="fas fa-deer fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
-    <div class="row no-gutters p-3">
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Name</span>
+        <div class="col-lg-12 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+            <div class=" card-block d-block h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-deer fa-fw pull-right"></i> Familiars</h1>
+<hr class="my-1">
+      <div class="row">
+      <div class="col-lg-4">
+        <span class="text-muted text-uppercase">Name</span><br>
          <!-- ---------------------
         
         Pretty simple - what's their name?
         
         ------------------------->
-        <span>[info] </span>
+        <p>
+          
+          NAME 
+          
+        </p>
       </div>
       
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
+      <div class="col-lg-4">
         <!-- ---------------------
         
         What's their species?
         
         ------------------------->
-        <span class="text-muted text-uppercase">Species</span>
-        <span>[info] </span>
+        <span class="text-muted text-uppercase">Species</span><br>
+        <p>
+          
+          INFO 
+          
+        </p>
       </div>
       
       
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Appearance</span>
+      <div class="col-lg-4">
+        <span class="text-muted text-uppercase">Rank</span><br>
         <!-- ---------------------
         
-        What do they look like?
-        Fur, scales, color, claws, no claws, etc, etc.
-        
-        ------------------------->
-        <span>[info] </span>
-      </div>
-      
-      
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Nature</span>
-        <!-- ---------------------
-        
-        How they act (think Pokémon if you must); be sure to describe it.
-        
-        ------------------------->
-        <span>[info] </span>
-      </div>
-      
-      <br><br>
-        <!-- ---------------------
-        
-        
-        ABOUT SKILLS:
-        
-        ► Number and strength of skills correlate to their rank:
+             Rank      #/Skills   Power
            – Manig   : 3 skills | Power:★☆☆☆☆
            – Sporas  : 4 skills | Power: ★★☆☆☆
            – Seltan  : 4 skills | Power: ★★★☆☆
@@ -854,34 +1012,101 @@ place 'hide' before 'carousel slide'
         
         
         ------------------------->
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Skill</span>
-        <span>[name]<br>
-        [info]<br></span>
+        <p>
+          
+          INFO 
+          
+        </p>
+      </div>
+      </div>
+      
+      <br>
+      
+            <div class="row">
+      <div class="col-lg-4">
+        <span class="text-muted text-uppercase">Nature</span><br>
+        <!-- ---------------------
+        
+        How they act (think Pokémon if you must); be sure to describe it.
+        
+        ------------------------->
+        <p>
+          
+          INFO
+          
+        </p>
       </div>
       
       
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Skills</span>
-        <span>[name]<br>
-        [info]</span>
+      <div class="col-lg-8">
+        <span class="text-muted text-uppercase">Appearance</span><br>
+        <!-- ---------------------
+        
+        What do they look like?
+        Fur, scales, color, claws, no claws, etc, etc.
+        
+        ------------------------->
+        <p>
+          
+          INFO
+          
+        </p>
+        </div>
+        </div>
+        
+        <br>
+
+                <h1 class="display-4 text-uppercase text-primary pull-center mb-3" style="letter-spacing:2px;"></i>Skills</h1>
+                <hr class="my-1">
+              <div class="row">
+        <!-- ---------------------
+        
+             Rank      #/Skills   Power
+           – Manig   : 3 skills | Power:★☆☆☆☆
+           – Sporas  : 4 skills | Power: ★★☆☆☆
+           – Seltan  : 4 skills | Power: ★★★☆☆
+           – Apex (M): 5 skills | Power:  ★★★★☆
+           – Apex (P): 5 skills | Power: ★★★★★
+        
+        
+        ------------------------->
+      <div class="col-lg-4">
+        <span class="text-muted text-uppercase">Skill Name</span><br>
+        <p>
+          
+          INFO
+          
+        </p>
+      </div>
+      
+      <div class="col-lg-4">
+        <span class="text-muted text-uppercase">Skill Name</span><br>
+        <p>
+          
+          INFO
+          
+        </p>
       </div>
       
       
-      <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
-        <span class="text-muted text-uppercase">Skills</span>
-        <span>[name]<br>
-        [info]</span>
+      <div class="col-lg-4">
+        <span class="text-muted text-uppercase">Skill Name</span><br>
+        <p>
+          
+          INFO
+          
+        </p>
       </div>
-      
-    </div>
 
+        </div>
+        </div>
+        </div>
 
-      
-</div>
-</div>
-
-
+        <div class="col-lg-12 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+            <div class="bg-faded card-block d-block h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-pen fa-fw pull-right"></i> Notes</h1>
+<div class="w-100"><hr></div>
 <!-- ----------------------------
 
          ADDITIONAL NOTES
@@ -892,15 +1117,7 @@ place 'hide' before 'carousel slide'
           anywhere else on the template.
 
 ----------------------------- -->
-  <div class="col-lg-8 p-1">
-  <div class="card  d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Notes</span>
-    <i class="fas fa-pen fa-fw mt-auto"></i>
-    
 
-  </div><hr class="my-1">
   <ul class="card-block text-left list-unstyled">
 
      <li><i class="fa fa-pen"></i> Note </li>
@@ -917,29 +1134,22 @@ place 'hide' before 'carousel slide'
       <i class="fa fa-pen"></i> Note </li>
 
 ---------------------------------->
-</ul>
+     </ul>
 
 
-</div>
-</div>
+        </div>
+        </div>
 
-  <!-- -------------------------------
-  
-  
-           LIKES
+        </div>
 
-           Things your character likes
-  
-  
-  --------------------------------- -->
-  <div class="col-lg-3 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Likes</span>
-    <i class="fas fa-check fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
+<div class="row">
+
+
+        <div class="col-lg-3 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="d-block p-3 h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-check fa-fw pull-right"></i> Likes</h1>
+<div class="w-100"><hr></div>
 <ul class="card-block text-left list-unstyled">
 
      <li><i class="fa fa-check"></i> Like </li>
@@ -953,25 +1163,16 @@ place 'hide' before 'carousel slide'
 ---------------------------------->
 
   </ul>
-  </div>
-  </div>
-  <!-- -------------------------------
-  
-  
-        DISLIKES
 
-        Things your character dislikes
-  
-  
-  --------------------------------- -->
-  <div class="col-lg-3 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Dislikes</span>
-    <i class="fas fa-times fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
+            </div>
+        </div>
+
+      
+        <div class="col-lg-3 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="d-block p-3 h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-times fa-fw pull-right"></i> Dislikes</h1>
+<div class="w-100"><hr></div>
 <ul class="card-block text-left list-unstyled">
 
  <li><i class="fa fa-times"></i> Dislike </li>
@@ -986,26 +1187,17 @@ place 'hide' before 'carousel slide'
 ---------------------------------->
 
   </ul>
-  </div>
-  </div>
 
-  <!-- -------------------------------
-  
-  
-           Hobbies
 
-           Things your character does for fun in their free time
-  
-  
-  --------------------------------- -->
-  <div class="col-lg-3 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Hobbies</span>
-    <i class="fas fa-stars fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
+        </div>
+        </div>
+
+
+        <div class="col-lg-3 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="d-block p-3 h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-stars fa-fw pull-right"></i> Hobbies</h1>
+<div class="w-100"><hr></div>
 <ul class="card-block text-left list-unstyled">
 
  <li><i class="fa fa-stars"></i> Hobby </li>
@@ -1020,23 +1212,17 @@ place 'hide' before 'carousel slide'
 ---------------------------------->
 
   </ul>
-  </div>
-  </div>
-  <!-- -------------------------------
-  
-  
-               FEARS
-  
-  
-  --------------------------------- -->
-  <div class="col-lg-3 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Fears</span>
-    <i class="fas fa-spider fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
+
+
+        </div>
+        </div>
+
+
+        <div class="col-lg-3 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="d-block p-3 h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-spider fa-fw pull-right"></i> Fears</h1>
+<div class="w-100"><hr></div>
 <ul class="card-block text-left list-unstyled">
 
  <li><i class="fa fa-spider"></i> Fear </li>
@@ -1051,8 +1237,12 @@ place 'hide' before 'carousel slide'
 ---------------------------------->
 
   </ul>
-  </div>
-  </div>
+
+
+        </div>
+        </div>
+
+        </div>
 <!-- ----------------------------
 
 
@@ -1060,6 +1250,8 @@ place 'hide' before 'carousel slide'
 
 
 ----------------------------- -->
+
+<div class="row">
 <!-- ----------------------------
 
              DATURA LILY ORGANIZATION
@@ -1111,14 +1303,12 @@ place 'hide' before 'carousel slide'
 
 
 ----------------------------- --> 
-  <div class="col-lg-4 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Datura Lily</span>
-    <i class="fas fa-flower fa-fw mt-auto"></i>
-  </div><hr class="my-1">
-    <div class="row no-gutters p-3">
+        <div class="col-lg-6 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="card bg-faded d-block p-3 h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-flower fa-fw pull-right"></i> Datura Lily</h1>
+
+<div class="w-100"><hr></div>
       
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase"><a href="_">Division</a></span>
@@ -1144,14 +1334,16 @@ place 'hide' before 'carousel slide'
         <span>[info] </span>
       </div>
       
-    </div>
 
-    </div>
-  </div>
 
-<!-- ---------
+<!-- ----------------
 
          HOW TO USE THIS SECTION
+
+         Include details regarding their job, including
+         their interactions with those they encounter, 
+         their work tactics, how they find their jobs or
+         how their jobs find them, etc.
          
          • Include details regarding the jobs/assignments they do
          • What they think of their division leader, the leaders of
@@ -1176,15 +1368,8 @@ place 'hide' before 'carousel slide'
           
             ► Watchers (BLN) to share their favorite crowds (stereotypes, ages, etc) that they like to drift among
 
-------------->
 
-  <div class="col-lg-8 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Datura Lily</span>
-    <i class="fas fa-flower fa-fw mt-auto"></i>
-  </div><hr class="my-1">
+----------------------->
 
       <p>
       
@@ -1204,16 +1389,13 @@ place 'hide' before 'carousel slide'
   
   --------------------------------- -->
 
-  <div class="col-lg-4 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Day Job</span>
-    <i class="fas fa-building fa-fw mt-auto"></i>
-    
-    </div><hr class="my-1">
-    <div class="row no-gutters p-3">
-      
+        <div class="col-lg-6 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="card bg-faded d-block p-3 h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-building fa-fw pull-right"></i> Day Job</h1>
+
+<div class="w-100"><hr></div>
+
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase"><a href="_">Day Job</a></span>
         <span>[info] </span>
@@ -1224,7 +1406,6 @@ place 'hide' before 'carousel slide'
         <span class="text-muted text-uppercase"><a href="_">Position</a></span>
         <span>[info] </span>
       </div>
-    </div>
 
 <!-- ----------------------------
 
@@ -1261,8 +1442,8 @@ place 'hide' before 'carousel slide'
 
 ---- REMOVE THIS LINE ---- IF YOUR CHARACTER HAS A SECOND DAY JOB -->
 
-  </div>
-  </div>
+        </div>
+        </div>
   <!-- -------------------------------
   
   
@@ -1278,17 +1459,15 @@ place 'hide' before 'carousel slide'
                 
                 ► GRAD YEAR : The year they are set to graduate or did graduate
   
+  
   --------------------------------- -->
-  <div class="col-lg-4 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">School</span>
-    <i class="fas fa-school fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
-    <div class="row no-gutters p-3">
-      
+        <div class="col-lg-6 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="card bg-faded d-block p-3 h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-school fa-fw pull-right"></i> School</h1>
+
+<div class="w-100"><hr></div>
+
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">School</span>
         <span>[info] </span>
@@ -1311,7 +1490,6 @@ place 'hide' before 'carousel slide'
         <span class="text-muted text-uppercase">Grad Year</span>
         <span>[info] </span>
       </div>
-    </div>
 
 <!-- ----------------------------
 
@@ -1327,8 +1505,8 @@ place 'hide' before 'carousel slide'
       
     </p>
 
-  </div>
-  </div>
+        </div>
+        </div>
 
   <!-- -------------------------------
   
@@ -1356,16 +1534,13 @@ place 'hide' before 'carousel slide'
 
 
 ----------------------- -->
-  <div class="col-lg-4 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Extracurricular</span>
-    <i class="fas fa-chess fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
-    <div class="row no-gutters p-3">
-      
+        <div class="col-lg-6 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="card bg-faded d-block p-3 h-100">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-chess fa-fw pull-right"></i> Extracurricular</h1>
+
+<div class="w-100"><hr></div>
+
       <div class="col-lg-12 col-sm-6 p-1 d-flex justify-content-between">
         <span class="text-muted text-uppercase">Activity</span>
         <span>[info] </span>
@@ -1419,8 +1594,9 @@ place 'hide' before 'carousel slide'
     </p>
 
         </div>
-      </div>
-    </div>
+        </div>
+
+
   <!-- -------------------------------
   
   
@@ -1428,14 +1604,21 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
-  <div class="col-12 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Combat</span>
-    <i class="fas fa-shield-alt fa-fw mt-auto"></i>
-    
-   </div><hr class="my-1">
+
+        <div class="col-lg-12 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="d-block p-3 h-100">
+  <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#combat">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-shield-alt fa-fw pull-right"></i> Combat</h1></a><hr class="my-1">
+        </h4>
+      </div>
+      <div id="combat" class="panel-collapse collapse">
+
+  <div class="card bg-faded d-block p-3 h-100">
           <div class="m-3">
             <div class="row mb-3">
                <div class="col-md-6">
@@ -1504,9 +1687,8 @@ place 'hide' before 'carousel slide'
                   </span>
                </div>
               </div>
+             </div>
             </div>
-          </div>
-        </div>
 
 <!-- -------------------------------
   
@@ -1519,7 +1701,7 @@ place 'hide' before 'carousel slide'
   <div class="row no-gutters">
 
   <div class="col-lg-6 p-1">
-  <div class="card d-block p-3 h-100">
+  <div class="card bg-faded d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary">Weapons</span>
@@ -1583,7 +1765,7 @@ place 'hide' before 'carousel slide'
   --------------------------------- -->
 
   <div class="col-lg-6 p-1">
-  <div class="card d-block p-3 h-100">
+  <div class="card bg-faded d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary">Magic & Blessing</span>
@@ -1617,9 +1799,8 @@ place 'hide' before 'carousel slide'
   </div>
 
 
-  <!-- -------------------------------
-  
-  
+<!-- ----------------------
+
                 SKILLS & ABILITIES
 
 
@@ -1635,8 +1816,10 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
+
+
   <div class="col-12 p-1">
-  <div class="card d-block p-3 h-100">
+  <div class="card bg-faded d-block p-3 h-100">
   <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
     
     <span class="text-primary">Skills & Abilities</span>
@@ -1694,47 +1877,41 @@ place 'hide' before 'carousel slide'
           </div>
         </div>
       </div>
-          
-          
-          
-  <!-- -------------------------------
-  
-  
-                HISTORY
-  
-  
-  --------------------------------- -->
-  <div class="col-12 p-1">
-  <div class="card d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
+    </div>
+    </div>
+
+
+
+
+        <div class="col-lg-12 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="d-block p-3 h-100">
+  <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#history">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-books fa-fw pull-right"></i> History</h1></a><hr class="my-1">
+        </h4>
+      </div>
+      <div id="history" class="panel-collapse collapse">
     
-    <span class="text-primary">History</span>
-    <i class="fas fa-books fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
-  <div class="p-2">
-    
-    
-  <!-- use float-left to push to the left side | disappears on mobile
+  <!--     <div class="w-100"><hr></div>
   
               NOTES —
   
-  1. Feel free to remove <img src="IMG URL" class="float-right p-2 hidden-sm-down">
-      from the code if it is undesired
-  
-  2. Things to include in your character's history:
+  1. Things to include in your character's history:
     • Important past events that had a major impact on them and may still affet them today
 
-    • THE REASON WHY THEY JOINED DATURA LILY
+    • Criminal activities or affiliations
 
-  3.When writing out their history, be sure to
+    • THE REASON WHY THEY BECAME A MERCENARY
+
+  2.When writing out their history, be sure to
      – Use <br> to create a single line break
      – Use <br><br> to create a double line break
   
   ----------------------->
-  
-  <img src="https://i97.servimg.com/u/f97/19/50/26/57/filler11.png" 
-  class="float-right p-2 hidden-sm-down">
   
   <p>WRITE OUT THEIR<br>
   HISTORY HERE!
@@ -1746,9 +1923,6 @@ place 'hide' before 'carousel slide'
   </div>
   </div>
   </div>
-  
-
-    
   </div>
   </div>
 
@@ -1759,14 +1933,19 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
-  <div class="col-12 p-1" id="links">
-  <div class="card bg-faded d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Family</span>
-    <i class="fas fa-users fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
+        <div class="col-lg-12 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="d-block p-3 h-100">
+  <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#family">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-users fa-fw pull-right"></i> Family</h1></a><hr class="my-1">
+        </h4>
+      </div>
+      <div id="family" class="panel-collapse collapse">
+  
   <div class="row no-gutters table-responsive" style="max-height:350px">
     <!-- ------------------------
   
@@ -1858,6 +2037,10 @@ place 'hide' before 'carousel slide'
 
   <!-- ABOVE THIS LINE ► COPY AND PASTE CODE TO ADD MORE RELATIONSHIP ◄ -->  
 
+  
+  </div>
+  </div>
+  </div>
   </div>
   </div>
   </div>
@@ -1869,14 +2052,20 @@ place 'hide' before 'carousel slide'
   
   
   --------------------------------- -->
-  <div class="col-12 p-1" id="links">
-  <div class="card bg-faded d-block p-3 h-100">
-  <div class="d-flex justify-content-between text-uppercase text-muted display-4" style="font-size:18px;letter-spacing:1px;">
-    
-    <span class="text-primary">Relationships</span>
-    <i class="fas fa-user-friends fa-fw mt-auto"></i>
-    
-  </div><hr class="my-1">
+        <div class="col-lg-12 mb-4">
+            <!------------- BASICS BOX ----------------------------------------->
+                <div class="d-block p-3 h-100">
+  <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#relationships">
+                <h1 class="display-4 text-uppercase text-primary  mb-3" style="letter-spacing:2px;"><i class="fas fa-users fa-fw pull-right"></i> Relationships</h1></a><hr class="my-1">
+        </h4>
+      </div>
+      <div id="relationships" class="panel-collapse collapse">
+
+  
   <div class="row no-gutters table-responsive" style="max-height:350px">
     <!-- ------------------------
   
@@ -1968,8 +2157,11 @@ place 'hide' before 'carousel slide'
 
   <!-- ABOVE THIS LINE ► COPY AND PASTE CODE TO ADD MORE RELATIONSHIP ◄ -->  
 
-  
+    </div>
   </div>
   </div>
   </div>
   </div>
+  </div>
+
+</div>
